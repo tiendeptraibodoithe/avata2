@@ -1,0 +1,6018 @@
+Character.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	pma: true
+Clothes_Floor2/1/Shirt_hand_b1
+	bounds: 1334, 1592, 51, 56
+	rotate: 90
+Clothes_Floor2/1/Shirt_hand_f1
+	bounds: 1392, 1592, 51, 56
+	rotate: 90
+Clothes_Floor2/10/Shirt_hand_b1
+	bounds: 792, 654, 63, 89
+	rotate: 90
+Clothes_Floor2/10/Shirt_hand_f1
+	bounds: 883, 651, 63, 89
+	rotate: 90
+Clothes_Floor2/11/Shirt_hand_b1
+	bounds: 481, 399, 64, 89
+	rotate: 90
+Clothes_Floor2/11/Shirt_hand_f1
+	bounds: 465, 199, 65, 90
+	rotate: 90
+Clothes_Floor2/11/Shoe4_b
+	bounds: 1385, 764, 96, 62
+	offsets: 0, 0, 96, 68
+Clothes_Floor2/11/Shoe4_f
+	bounds: 1483, 762, 96, 62
+	offsets: 0, 0, 96, 68
+Clothes_Floor2/3/Skirt
+	bounds: 834, 1270, 113, 56
+Clothes_Floor2/3/Skirt_b1
+	bounds: 513, 1441, 55, 54
+Clothes_Floor2/3/Skirt_f1
+	bounds: 1331, 1697, 56, 50
+Clothes_Floor2/4/Skirt
+	bounds: 557, 199, 113, 65
+Clothes_Floor2/4/Skirt_b1
+	bounds: 1140, 1432, 55, 54
+Clothes_Floor2/4/Skirt_f1
+	bounds: 1389, 1697, 56, 50
+Clothes_Floor2/5/Skirt
+	bounds: 949, 1270, 113, 56
+Clothes_Floor2/5/Skirt_b1
+	bounds: 644, 1155, 57, 94
+	rotate: 90
+Clothes_Floor2/5/Skirt_b2
+	bounds: 1447, 1697, 55, 50
+Clothes_Floor2/5/Skirt_f1
+	bounds: 974, 650, 63, 92
+	rotate: 90
+Clothes_Floor2/5/Skirt_f2
+	bounds: 1504, 1696, 57, 50
+Clothes_Floor2/6/Shirt_hand_b1
+	bounds: 1068, 646, 63, 90
+	rotate: 90
+Clothes_Floor2/6/Shirt_hand_f1
+	bounds: 1374, 635, 63, 89
+	rotate: 90
+Clothes_Floor2/6/Shoe4_b
+	bounds: 1581, 762, 96, 62
+	offsets: 0, 0, 96, 68
+Clothes_Floor2/6/Shoe4_f
+	bounds: 1743, 761, 96, 62
+	offsets: 0, 0, 96, 68
+Clothes_Floor2/6/Skirt
+	bounds: 622, 850, 127, 61
+Clothes_Floor2/7/Shirt_hand_b1
+	bounds: 1450, 1591, 51, 56
+	rotate: 90
+Clothes_Floor2/7/Shirt_hand_f1
+	bounds: 1508, 1591, 51, 56
+	rotate: 90
+Clothes_Floor2/7/Skirt
+	bounds: 1299, 1259, 113, 56
+Clothes_Floor2/7/Skirt_b1
+	bounds: 1302, 1752, 55, 48
+Clothes_Floor2/7/Skirt_f1
+	bounds: 1338, 1802, 55, 44
+Clothes_Floor2/8/Skirt
+	bounds: 1582, 1250, 113, 56
+Clothes_Floor2/8/Skirt_b1
+	bounds: 1359, 1749, 55, 48
+Clothes_Floor2/8/Skirt_f1
+	bounds: 1395, 1799, 55, 44
+Clothes_Floor2/9/Skirt
+	bounds: 1697, 1248, 113, 56
+Clothes_Floor2/9/Skirt_b1
+	bounds: 740, 1153, 57, 94
+	rotate: 90
+Clothes_Floor2/9/Skirt_b2
+	bounds: 1671, 1690, 55, 50
+Clothes_Floor2/9/Skirt_f1
+	bounds: 1465, 633, 63, 92
+	rotate: 90
+Clothes_Floor2/9/Skirt_f2
+	bounds: 1728, 1687, 57, 50
+Clothes_Floor2/jacket_1/Shirt_hand_b1
+	bounds: 278, 70, 66, 88
+	rotate: 90
+Clothes_Floor2/jacket_1/Shirt_hand_f1
+	bounds: 562, 59, 66, 88
+	rotate: 90
+Clothes_Floor2/jacket_2/Shirt_hand_b1
+	bounds: 652, 55, 66, 88
+	rotate: 90
+Clothes_Floor2/jacket_2/Shirt_hand_f1
+	bounds: 742, 55, 66, 88
+	rotate: 90
+Clothes_Floor2/jacket_3/Shirt_hand_b1
+	bounds: 832, 50, 66, 88
+	rotate: 90
+Clothes_Floor2/jacket_3/Shirt_hand_f1
+	bounds: 922, 49, 66, 88
+	rotate: 90
+DailyLogin/Earring/Earring_1
+	bounds: 1810, 1835, 42, 84
+	rotate: 90
+DailyLogin/Glasses/Glasses_2B
+	bounds: 1841, 757, 62, 76
+	rotate: 90
+DailyLogin/Shirt/1/Shirt_hand_b1
+	bounds: 1012, 49, 66, 90
+	rotate: 90
+DailyLogin/Shirt/1/Shirt_hand_f1
+	bounds: 1104, 43, 66, 90
+	rotate: 90
+DailyLogin/Shirt/1/Shirt_hand_f2
+	bounds: 1196, 42, 66, 82
+	rotate: 90
+DailyLogin/Shirt/1/Skirt
+	bounds: 1209, 1485, 112, 52
+DailyLogin/Shirt/1/Skirt_b
+	bounds: 543, 1037, 58, 64
+	offsets: 0, 0, 59, 64
+	rotate: 90
+DailyLogin/Shirt/1/Skirt_f
+	bounds: 1787, 1686, 57, 50
+DailyLogin/Shirt/2/Shirt_hand_b1
+	bounds: 572, 398, 64, 88
+	offsets: 0, 0, 65, 88
+	rotate: 90
+DailyLogin/Shirt/2/Shirt_hand_f1
+	bounds: 662, 398, 64, 88
+	offsets: 1, 0, 65, 88
+	rotate: 90
+DailyLogin/Shirt/2/Shirt_hand_f2
+	bounds: 1305, 572, 65, 64
+Earring/1
+	bounds: 1064, 1266, 56, 60
+	rotate: 90
+Earring/10
+	bounds: 1452, 1798, 44, 73
+	rotate: 90
+Earring/11
+	bounds: 1777, 1957, 32, 71
+	rotate: 90
+Earring/12
+	bounds: 1527, 1798, 48, 44
+Earring/13
+	bounds: 774, 1891, 37, 63
+	rotate: 90
+Earring/14
+	bounds: 1160, 901, 60, 75
+	rotate: 90
+Earring/15
+	bounds: 2, 1771, 46, 72
+	rotate: 90
+Earring/16
+	bounds: 1742, 1581, 51, 80
+	rotate: 90
+Earring/17
+	bounds: 1850, 1879, 38, 52
+	rotate: 90
+Earring/18
+	bounds: 785, 1930, 34, 63
+	rotate: 90
+Earring/2
+	bounds: 1950, 1916, 36, 86
+	rotate: 90
+Earring/3
+	bounds: 667, 1999, 26, 85
+	rotate: 90
+Earring/4
+	bounds: 1630, 1797, 44, 80
+	rotate: 90
+Earring/5
+	bounds: 288, 1767, 67, 47
+	offsets: 1, 0, 68, 47
+Earring/6
+	bounds: 647, 1852, 39, 74
+	rotate: 90
+Earring/7
+	bounds: 492, 1712, 50, 49
+Earring/8
+	bounds: 357, 1767, 47, 47
+Earring/9
+	bounds: 2, 1820, 43, 43
+Earring/HLW/1
+	bounds: 1765, 1526, 53, 53
+Earring/HLW/2
+	bounds: 1070, 1381, 55, 61
+	offsets: 1, 0, 56, 61
+	rotate: 90
+Earring/HLW/3
+	bounds: 406, 1763, 52, 47
+Earring/Spa/earring_1
+	bounds: 76, 1770, 48, 46
+Earring/Spa/earring_2
+	bounds: 544, 1710, 52, 49
+Earring/Spa/earring_3
+	bounds: 1838, 1788, 46, 45
+Earring/Spa/earring_4
+	bounds: 1948, 1876, 66, 38
+FX/Bathroom/botkemdanhrang
+	bounds: 1450, 1925, 60, 35
+Face/face_1
+	bounds: 836, 1153, 171, 57
+	offsets: 1, 1, 173, 58
+Fx_Wind/2
+	bounds: 1559, 633, 148, 63
+	offsets: 22, 8, 191, 80
+Fx_Wind/3
+	bounds: 81, 734, 129, 62
+	offsets: 31, 9, 191, 80
+Glasses/12_1
+	bounds: 1957, 1301, 55, 87
+	rotate: 90
+Glasses/12_b1
+	bounds: 2, 1288, 55, 89
+	rotate: 90
+Glasses/Makeup/Glasses_3B
+	bounds: 891, 1964, 31, 89
+	rotate: 90
+Glasses/Makeup/Glasses_4B
+	bounds: 1323, 1484, 52, 113
+	rotate: 90
+Gothic/1/Shoe1_b
+	bounds: 1919, 757, 100, 62
+Gothic/1/Shoe1_f
+	bounds: 1919, 757, 100, 62
+Gothic/10/Shirt_hand_b1
+	bounds: 1280, 39, 66, 90
+	rotate: 90
+Gothic/1/Shirt_hand_b1
+	bounds: 1280, 39, 66, 90
+	rotate: 90
+Suit/Shirt_hand_b1
+	bounds: 1280, 39, 66, 90
+	rotate: 90
+Gothic/10/Shirt_hand_f1
+	bounds: 1372, 38, 66, 90
+	rotate: 90
+Gothic/1/Shirt_hand_f1
+	bounds: 1372, 38, 66, 90
+	rotate: 90
+Suit/Shirt_hand_f1
+	bounds: 1372, 38, 66, 90
+	rotate: 90
+Gothic/10/jacket/Shirt_hand_b1
+	bounds: 1464, 37, 66, 90
+	rotate: 90
+Gothic/10/jacket/Shirt_hand_f1
+	bounds: 1626, 33, 66, 90
+	rotate: 90
+Gothic/11/Shirt_hand_f1
+	bounds: 743, 190, 65, 95
+	offsets: 0, 0, 67, 95
+	rotate: 90
+Gothic/11/Shoe1_b
+	bounds: 1709, 632, 99, 63
+Gothic/11/Shoe1_f
+	bounds: 1709, 632, 99, 63
+Gothic/11/Skirt
+	bounds: 153, 1225, 113, 56
+Gothic/11/Skirt_b1
+	bounds: 840, 190, 65, 94
+	offsets: 1, 0, 66, 94
+	rotate: 90
+Gothic/11/Skirt_b2
+	bounds: 1846, 1686, 55, 50
+Gothic/11/Skirt_f1
+	bounds: 1810, 628, 63, 91
+	offsets: 0, 0, 63, 92
+	rotate: 90
+Gothic/11/Skirt_f2
+	bounds: 1903, 1683, 57, 50
+Gothic/11/jacket/Shirt_hand_b1
+	bounds: 936, 185, 65, 95
+	offsets: 0, 0, 67, 95
+	rotate: 90
+Gothic/11/jacket/Shirt_hand_f1
+	bounds: 1033, 184, 65, 95
+	offsets: 0, 0, 67, 95
+	rotate: 90
+Gothic/12/Shirt_hand_b1
+	bounds: 1718, 33, 66, 95
+	offsets: 1, 0, 67, 95
+	rotate: 90
+Gothic/12/Shirt_hand_f1
+	bounds: 1130, 178, 65, 95
+	offsets: 0, 0, 67, 95
+	rotate: 90
+Gothic/12/Skirt
+	bounds: 1009, 1149, 113, 57
+Gothic/12/Skirt_b1
+	bounds: 1250, 1142, 57, 94
+	rotate: 90
+Gothic/12/Skirt_b2
+	bounds: 1962, 1683, 55, 50
+Gothic/12/Skirt_f1
+	bounds: 1903, 628, 63, 91
+	offsets: 0, 0, 63, 92
+	rotate: 90
+Gothic/12/Skirt_f2
+	bounds: 2, 1668, 57, 50
+Gothic/2/Shoe1_b
+	bounds: 212, 732, 98, 62
+Gothic/2/Shoe1_f
+	bounds: 212, 732, 98, 62
+Gothic/4/Skirt
+	bounds: 1624, 1131, 126, 57
+Gothic/5/Shirt_hand_b1
+	bounds: 1026, 1889, 58, 37
+	offsets: 0, 0, 59, 37
+Gothic/5/Shirt_hand_f1
+	bounds: 1086, 1889, 58, 37
+	offsets: 1, 0, 59, 37
+Gothic/5/Shoe1_b
+	bounds: 1126, 1263, 99, 56
+Gothic/5/Shoe1_f
+	bounds: 1126, 1263, 99, 56
+Gothic/7/Shirt_hand_b1
+	bounds: 2, 674, 63, 67
+	offsets: 0, 0, 63, 68
+	rotate: 90
+Gothic/7/Shirt_hand_f1
+	bounds: 376, 664, 63, 67
+	offsets: 0, 0, 63, 68
+	rotate: 90
+Gothic/8/Shirt_hand_b1
+	bounds: 1563, 1696, 53, 50
+	offsets: 0, 10, 53, 60
+Gothic/8/Shirt_hand_f1
+	bounds: 61, 1668, 53, 50
+	offsets: 0, 10, 53, 60
+Gothic/9/Shirt_hand_b1
+	bounds: 1815, 33, 66, 90
+	rotate: 90
+Gothic/9/Shirt_hand_f1
+	bounds: 1907, 33, 66, 90
+	rotate: 90
+Gothic/earring/1
+	bounds: 47, 1819, 43, 43
+Gothic/earring/3
+	bounds: 1765, 1991, 29, 77
+	rotate: 90
+Gothic/earring/4
+	bounds: 1501, 889, 60, 79
+	offsets: 0, 1, 60, 80
+	rotate: 90
+Gothic/earring/5
+	bounds: 598, 1708, 49, 50
+	offsets: 0, 0, 50, 50
+	rotate: 90
+Gothic/earring/6
+	bounds: 460, 1763, 47, 47
+	offsets: 0, 1, 48, 48
+Gothic/earring/7
+	bounds: 650, 1708, 49, 62
+	offsets: 0, 0, 50, 62
+	rotate: 90
+Hospital/BacSi/Shirt_hand_b1
+	bounds: 1227, 177, 65, 90
+	rotate: 90
+TeacherAndStudent/GV4/Shirt_hand_b1
+	bounds: 1227, 177, 65, 90
+	rotate: 90
+Hospital/BacSi/Shirt_hand_b2
+	bounds: 850, 455, 73, 64
+TeacherAndStudent/GV4/Shirt_hand_b2
+	bounds: 850, 455, 73, 64
+Hospital/BacSi/Shirt_hand_f1
+	bounds: 1390, 173, 65, 91
+	rotate: 90
+TeacherAndStudent/GV4/Shirt_hand_f1
+	bounds: 1390, 173, 65, 91
+	rotate: 90
+Hospital/BacSi/Shirt_hand_f2
+	bounds: 1017, 450, 73, 64
+TeacherAndStudent/GV4/Shirt_hand_f2
+	bounds: 1017, 450, 73, 64
+Hospital/BacSi/Skirt
+	bounds: 1824, 1578, 110, 51
+	offsets: 0, 0, 110, 52
+Hospital/BacSi/Skirt_b1
+	bounds: 1528, 1133, 57, 94
+	rotate: 90
+Hospital/BacSi/Skirt_b2
+	bounds: 116, 1668, 55, 50
+Hospital/BacSi/Skirt_f1
+	bounds: 70, 605, 63, 92
+	rotate: 90
+Hospital/BacSi/Skirt_f2
+	bounds: 173, 1668, 57, 50
+Hospital/BenhNhan/Shirt_hand_b1
+	bounds: 752, 393, 64, 88
+	rotate: 90
+Hospital/BenhNhan/Shirt_hand_f1
+	bounds: 842, 389, 64, 88
+	rotate: 90
+Hospital/BenhNhan/Shirt_hand_f2
+	bounds: 1181, 443, 73, 64
+Hospital/BenhNhan/Skirt
+	bounds: 1936, 1578, 110, 51
+	offsets: 0, 0, 110, 52
+Hospital/BenhNhan/Skirt_b1
+	bounds: 1752, 1131, 57, 94
+	rotate: 90
+Hospital/BenhNhan/Skirt_b2
+	bounds: 286, 1665, 55, 50
+Hospital/BenhNhan/Skirt_f1
+	bounds: 164, 603, 63, 92
+	rotate: 90
+Hospital/BenhNhan/Skirt_f2
+	bounds: 343, 1661, 57, 50
+Hospital/PhauThuat/Shirt_hand_b1
+	bounds: 1304, 961, 59, 66
+	rotate: 90
+Hospital/PhauThuat/Shirt_hand_f1
+	bounds: 1372, 956, 59, 66
+	rotate: 90
+Hospital/PhauThuat/Skirt
+	bounds: 2, 1563, 110, 51
+	offsets: 0, 0, 110, 52
+Hospital/PhauThuat/Skirt_b1
+	bounds: 1848, 1130, 57, 94
+	rotate: 90
+Hospital/PhauThuat/Skirt_b2
+	bounds: 402, 1661, 55, 50
+Hospital/PhauThuat/Skirt_f1
+	bounds: 258, 601, 63, 92
+	rotate: 90
+Hospital/PhauThuat/Skirt_f2
+	bounds: 459, 1660, 57, 50
+Hospital/YTa/Shirt_hand_b1
+	bounds: 1440, 953, 59, 66
+	rotate: 90
+Hospital/YTa/Shirt_hand_f1
+	bounds: 1508, 951, 59, 66
+	rotate: 90
+KPop/1/Skirt
+	bounds: 290, 1556, 110, 51
+	offsets: 0, 0, 110, 52
+KPop/1/Skirt_b1
+	bounds: 1944, 1126, 57, 94
+	rotate: 90
+KPop/1/Skirt_b2
+	bounds: 518, 1658, 55, 50
+KPop/1/Skirt_f1
+	bounds: 881, 586, 63, 90
+	offsets: 0, 0, 63, 92
+	rotate: 90
+KPop/1/Skirt_f2
+	bounds: 575, 1656, 57, 50
+KPop/1/jacket/Shirt_hand_b1
+	bounds: 973, 585, 63, 85
+	rotate: 90
+KPop/1/jacket/Shirt_hand_f1
+	bounds: 1506, 372, 64, 91
+	rotate: 90
+KPop/10/Shirt_hand_f2
+	bounds: 965, 117, 66, 66
+KPop/10/Shoe10_b
+	bounds: 86, 5, 95, 66
+KPop/10/Shoe10_f
+	bounds: 1483, 172, 93, 65
+KPop/11/jacket/Shirt_hand_b2
+	bounds: 672, 194, 69, 65
+	offsets: 3, 1, 72, 66
+KPop/11/jacket/Shirt_hand_f2
+	bounds: 1319, 174, 69, 65
+	offsets: 0, 1, 72, 66
+KPop/12/Skirt
+	bounds: 751, 850, 123, 61
+KPop/13/Shirt_hand_b1
+	bounds: 1582, 889, 60, 88
+	offsets: 0, 0, 61, 88
+	rotate: 90
+KPop/13/Shirt_hand_b2
+	bounds: 1343, 439, 64, 69
+	offsets: 0, 0, 64, 70
+	rotate: 90
+KPop/13/Shirt_hand_f1
+	bounds: 1672, 889, 60, 88
+	offsets: 1, 0, 61, 88
+	rotate: 90
+KPop/13/Shirt_hand_f2
+	bounds: 238, 405, 64, 69
+	offsets: 0, 0, 64, 70
+	rotate: 90
+KPop/13/Shoe13_b
+	bounds: 442, 598, 92, 63
+KPop/13/Shoe13_f
+	bounds: 458, 727, 93, 62
+KPop/14/Shirt_hand_b1
+	bounds: 1227, 1262, 56, 70
+	rotate: 90
+KPop/14/Shirt_hand_b2
+	bounds: 537, 660, 63, 67
+	offsets: 1, 1, 64, 68
+	rotate: 90
+KPop/14/Shirt_hand_b22
+	bounds: 1160, 644, 63, 74
+	offsets: 1, 1, 64, 75
+	rotate: 90
+KPop/14/Shirt_hand_f1
+	bounds: 1576, 951, 59, 78
+	rotate: 90
+KPop/14/Shirt_hand_f2
+	bounds: 1236, 639, 63, 67
+	offsets: 0, 1, 64, 68
+	rotate: 90
+KPop/14/Skirt
+	bounds: 605, 594, 117, 63
+KPop/14/Skirt_b1
+	bounds: 2, 990, 59, 60
+	offsets: 0, 1, 59, 61
+KPop/14/Skirt_f1
+	bounds: 126, 1770, 62, 46
+	offsets: 7, 5, 76, 51
+KPop/15/Shirt_hand_b2
+	bounds: 1656, 951, 62, 59
+KPop/16/Shirt_hand_f1
+	bounds: 1124, 1146, 57, 63
+	offsets: 1, 0, 58, 63
+	rotate: 90
+KPop/16/Shirt_hand_f2
+	bounds: 1720, 951, 59, 65
+	offsets: 1, 0, 60, 65
+	rotate: 90
+KPop/16/Skirt
+	bounds: 1758, 1471, 120, 52
+	offsets: 0, 0, 125, 52
+KPop/16/Skirt_b1
+	bounds: 723, 1034, 58, 68
+	offsets: 0, 0, 59, 68
+	rotate: 90
+KPop/16/Skirt_f1
+	bounds: 1787, 950, 59, 66
+	rotate: 90
+KPop/16/Skirt_f2
+	bounds: 290, 1816, 48, 43
+KPop/17/Skirt
+	bounds: 1644, 1474, 112, 52
+KPop/17/Skirt_b1
+	bounds: 793, 1034, 58, 68
+	offsets: 0, 0, 59, 68
+	rotate: 90
+KPop/17/Skirt_f1
+	bounds: 1189, 1145, 59, 57
+KPop/17/jacket/Shirt_hand_b1
+	bounds: 352, 599, 63, 88
+	rotate: 90
+KPop/17/jacket/Shirt_hand_f1
+	bounds: 791, 589, 63, 88
+	rotate: 90
+KPop/18/jacket/Shirt_hand_b1
+	bounds: 1082, 383, 64, 92
+	rotate: 90
+KPop/18/jacket/Shirt_hand_f1
+	bounds: 1412, 372, 64, 92
+	rotate: 90
+KPop/2/Shirt_hand_b1
+	bounds: 876, 846, 61, 88
+	rotate: 90
+KPop/2/Shirt_hand_b2
+	bounds: 932, 389, 73, 64
+KPop/2/Shirt_hand_f1
+	bounds: 966, 843, 61, 88
+	rotate: 90
+KPop/2/Shirt_hand_f2
+	bounds: 1007, 384, 73, 64
+KPop/2/Skirt
+	bounds: 512, 1551, 110, 51
+	offsets: 0, 0, 110, 52
+Staff_Floor3/1/Skirt
+	bounds: 512, 1551, 110, 51
+	offsets: 0, 0, 110, 52
+TeacherAndStudent/GV2/Skirt
+	bounds: 512, 1551, 110, 51
+	offsets: 0, 0, 110, 52
+KPop/2/Skirt_b1
+	bounds: 214, 1103, 57, 94
+	rotate: 90
+Staff_Floor3/1/Skirt_b1
+	bounds: 214, 1103, 57, 94
+	rotate: 90
+TeacherAndStudent/GV2/Skirt_b1
+	bounds: 214, 1103, 57, 94
+	rotate: 90
+skirt/Skirt_8/Skirt_8b1_fill
+	bounds: 214, 1103, 57, 94
+	rotate: 90
+KPop/2/Skirt_b2
+	bounds: 634, 1656, 55, 50
+KPop/2/Skirt_f1
+	bounds: 1060, 581, 63, 92
+	rotate: 90
+skirt/Skirt_8/Skirt_8f1_fill
+	bounds: 1060, 581, 63, 92
+	rotate: 90
+KPop/2/Skirt_f2
+	bounds: 691, 1656, 57, 50
+KPop/3/Shirt_hand_b1
+	bounds: 1372, 570, 63, 90
+	rotate: 90
+KPop/3/Shirt_hand_b2
+	bounds: 2, 211, 65, 66
+	offsets: 1, 0, 67, 66
+	rotate: 90
+KPop/3/Shirt_hand_f1
+	bounds: 1464, 568, 63, 90
+	rotate: 90
+KPop/3/Shirt_hand_f2
+	bounds: 1578, 171, 65, 66
+	offsets: 1, 0, 67, 66
+	rotate: 90
+KPop/3/Skirt
+	bounds: 624, 1550, 110, 51
+	offsets: 0, 0, 110, 52
+KPop/3/Skirt_b1
+	bounds: 310, 1103, 57, 94
+	rotate: 90
+KPop/4/Skirt_b1
+	bounds: 310, 1103, 57, 94
+	rotate: 90
+KPop/3/Skirt_b2
+	bounds: 509, 1763, 65, 47
+	offsets: 1, 0, 67, 51
+KPop/4/Skirt_b2
+	bounds: 509, 1763, 65, 47
+	offsets: 1, 0, 67, 51
+KPop/3/Skirt_f1
+	bounds: 1556, 568, 63, 92
+	rotate: 90
+KPop/3/Skirt_f2
+	bounds: 576, 1761, 62, 47
+	offsets: 1, 0, 63, 52
+KPop/4/Shirt_hand_b1
+	bounds: 1650, 567, 63, 90
+	rotate: 90
+KPop/4/Shirt_hand_b2
+	bounds: 1646, 168, 65, 66
+	offsets: 1, 0, 67, 66
+	rotate: 90
+KPop/4/Shirt_hand_f1
+	bounds: 1809, 563, 63, 90
+	rotate: 90
+KPop/4/Shirt_hand_f2
+	bounds: 1714, 168, 65, 66
+	offsets: 1, 0, 67, 66
+	rotate: 90
+KPop/4/Skirt_f1
+	bounds: 1901, 563, 63, 92
+	rotate: 90
+KPop/4/Skirt_f2
+	bounds: 640, 1759, 62, 47
+	offsets: 1, 0, 63, 52
+KPop/5/Shirt_hand_b1
+	bounds: 1343, 1082, 61, 58
+KPop/5/Shirt_hand_f1
+	bounds: 63, 1109, 59, 58
+	offsets: 1, 0, 60, 58
+KPop/5/Skirt
+	bounds: 736, 1548, 110, 51
+	offsets: 0, 0, 110, 52
+KPop/5/Skirt_b1
+	bounds: 406, 1099, 57, 94
+	rotate: 90
+KPop/5/Skirt_b2
+	bounds: 750, 1655, 55, 50
+KPop/5/Skirt_f1
+	bounds: 69, 540, 63, 89
+	offsets: 0, 0, 63, 92
+	rotate: 90
+KPop/5/Skirt_f2
+	bounds: 807, 1653, 57, 50
+KPop/6/Shirt_hand_b1
+	bounds: 1855, 946, 61, 59
+	offsets: 1, 0, 62, 59
+KPop/6/Shirt_hand_f1
+	bounds: 863, 1034, 62, 58
+	offsets: 0, 0, 63, 58
+KPop/6/Skirt
+	bounds: 903, 1546, 110, 51
+	offsets: 0, 0, 110, 52
+KPop/6/Skirt_b1
+	bounds: 639, 1096, 57, 94
+	rotate: 90
+KPop/6/Skirt_b2
+	bounds: 866, 1653, 55, 50
+KPop/6/Skirt_f1
+	bounds: 160, 538, 63, 90
+	offsets: 0, 0, 63, 92
+	rotate: 90
+KPop/6/Skirt_f2
+	bounds: 923, 1651, 57, 50
+KPop/7/Shirt_hand_b1
+	bounds: 1056, 842, 61, 88
+	rotate: 90
+KPop/7/Shirt_hand_b2
+	bounds: 1176, 377, 73, 64
+KPop/7/Shirt_hand_f1
+	bounds: 244, 1974, 43, 31
+	offsets: 0, 0, 43, 32
+KPop/8/Shirt_body
+	bounds: 1672, 1742, 96, 48
+KPop/8/jacket/Shirt_hand_b1
+	bounds: 1782, 168, 65, 93
+	rotate: 90
+KPop/8/jacket/Shirt_hand_f1
+	bounds: 1877, 168, 65, 93
+	rotate: 90
+KPop/9/Shirt_body
+	bounds: 735, 1094, 105, 57
+KPop/9/Shirt_hand_b1
+	bounds: 704, 1759, 59, 47
+KPop/9/Shirt_hand_f1
+	bounds: 1557, 1748, 59, 48
+	offsets: 0, 0, 59, 49
+KPop/earring/1
+	bounds: 2, 1905, 36, 74
+	rotate: 90
+KPop/earring/10
+	bounds: 1509, 1885, 37, 77
+	offsets: 0, 1, 37, 78
+	rotate: 90
+KPop/earring/11
+	bounds: 665, 1931, 34, 54
+	offsets: 1, 0, 36, 55
+	rotate: 90
+KPop/earring/12
+	bounds: 1644, 1843, 40, 69
+	rotate: 90
+KPop/earring/14
+	bounds: 1886, 1788, 45, 55
+	rotate: 90
+KPop/earring/15
+	bounds: 1512, 1924, 35, 52
+	rotate: 90
+KPop/earring/17
+	bounds: 1716, 1883, 39, 39
+	offsets: 0, 0, 40, 39
+KPop/earring/18
+	bounds: 714, 1708, 49, 62
+	rotate: 90
+KPop/earring/2
+	bounds: 982, 1651, 63, 50
+KPop/earring/3
+	bounds: 1757, 1920, 35, 43
+	offsets: 0, 0, 35, 44
+	rotate: 90
+KPop/earring/5
+	bounds: 1405, 1887, 38, 38
+KPop/earring/7
+	bounds: 1904, 1879, 38, 42
+	rotate: 90
+KPop/earring/8
+	bounds: 1964, 1358, 55, 77
+	offsets: 1, 0, 56, 78
+	rotate: 90
+KPop/earring/9
+	bounds: 1425, 1426, 54, 60
+	rotate: 90
+Lipstick/face_lip_1
+	bounds: 924, 1850, 58, 39
+	offsets: 2, 1, 61, 42
+Lipstick/face_lip_10
+	bounds: 984, 1848, 58, 39
+	offsets: 2, 1, 61, 42
+Lipstick/face_lip_11
+	bounds: 1044, 1848, 58, 39
+	offsets: 2, 1, 61, 42
+Lipstick/face_lip_12
+	bounds: 1104, 1848, 58, 39
+	offsets: 2, 1, 61, 42
+Lipstick/face_lip_2
+	bounds: 1164, 1848, 58, 39
+	offsets: 2, 1, 61, 42
+Lipstick/face_lip_3
+	bounds: 1224, 1848, 58, 39
+	offsets: 2, 1, 61, 42
+Lipstick/face_lip_4
+	bounds: 1284, 1848, 58, 39
+	offsets: 2, 1, 61, 42
+Lipstick/face_lip_5
+	bounds: 1344, 1848, 58, 39
+	offsets: 2, 1, 61, 42
+Lipstick/face_lip_6
+	bounds: 1404, 1845, 58, 39
+	offsets: 2, 1, 61, 42
+Lipstick/face_lip_7
+	bounds: 1464, 1844, 58, 39
+	offsets: 2, 1, 61, 42
+Lipstick/face_lip_8
+	bounds: 1524, 1844, 58, 39
+	offsets: 2, 1, 61, 42
+Lipstick/face_lip_9
+	bounds: 1584, 1844, 58, 39
+	offsets: 2, 1, 61, 42
+LunarNewYear/China1/Skirt
+	bounds: 1015, 1546, 110, 51
+	offsets: 0, 0, 110, 52
+LunarNewYear/China1/Skirt_b1
+	bounds: 116, 1398, 54, 94
+	offsets: 0, 0, 55, 94
+	rotate: 90
+LunarNewYear/China1/Skirt_b2
+	bounds: 1618, 1747, 52, 48
+	offsets: 0, 0, 52, 53
+LunarNewYear/China1/Skirt_f1
+	bounds: 1146, 838, 61, 90
+	offsets: 0, 0, 61, 92
+	rotate: 90
+LunarNewYear/China1/Skirt_f2
+	bounds: 1047, 1651, 56, 50
+	offsets: 1, 0, 57, 50
+LunarNewYear/China1/shirt-hand-b1
+	bounds: 93, 1285, 55, 79
+	offsets: 1, 3, 56, 82
+	rotate: 90
+LunarNewYear/China1/shirt-hand-b2
+	bounds: 2, 739, 62, 77
+	offsets: 0, 0, 64, 81
+	rotate: 90
+LunarNewYear/China1/shirt-hand-b22
+	bounds: 252, 536, 63, 81
+	offsets: 0, 0, 64, 81
+	rotate: 90
+LunarNewYear/China1/shirt-hand-f1
+	bounds: 1238, 836, 61, 91
+	offsets: 0, 2, 63, 93
+	rotate: 90
+LunarNewYear/China1/shirt-hand-f2
+	bounds: 1679, 762, 62, 62
+	offsets: 3, 0, 65, 70
+LunarNewYear/China2/shirt-hand-b1
+	bounds: 1251, 376, 64, 90
+	offsets: 0, 2, 64, 92
+	rotate: 90
+LunarNewYear/China2/shirt-hand-b2
+	bounds: 927, 1034, 65, 58
+LunarNewYear/China2/shirt-hand-f1
+	bounds: 1599, 371, 64, 92
+	rotate: 90
+LunarNewYear/China2/shirt-hand-f2
+	bounds: 1487, 1424, 65, 54
+LunarNewYear/Earring/earring_1
+	bounds: 1770, 1739, 57, 48
+LunarNewYear/Earring/earring_2
+	bounds: 340, 1816, 43, 74
+	rotate: 90
+LunarNewYear/Korea1/shirt-hand-b1
+	bounds: 1414, 1255, 56, 82
+	rotate: 90
+LunarNewYear/Korea1/shirt-hand-b2
+	bounds: 1331, 831, 61, 73
+	rotate: 90
+LunarNewYear/Korea1/shirt-hand-b22
+	bounds: 335, 534, 63, 81
+	offsets: 0, 0, 64, 81
+	rotate: 90
+LunarNewYear/Korea1/shirt-hand-f1
+	bounds: 1769, 367, 64, 92
+	rotate: 90
+LunarNewYear/Korea1/shirt-hand-f2
+	bounds: 1972, 168, 65, 65
+	offsets: 0, 0, 65, 70
+LunarNewYear/Korea2/Shoe_b
+	bounds: 208, 139, 91, 65
+LunarNewYear/Korea2/Skirt
+	bounds: 1237, 1539, 110, 51
+	offsets: 0, 0, 110, 52
+LunarNewYear/Korea2/Skirt_b1
+	bounds: 116, 1342, 54, 94
+	offsets: 0, 0, 55, 94
+	rotate: 90
+LunarNewYear/Korea2/Skirt_b2
+	bounds: 1829, 1738, 52, 48
+	offsets: 0, 0, 52, 53
+LunarNewYear/Korea2/Skirt_f1
+	bounds: 1406, 828, 61, 90
+	offsets: 0, 0, 61, 92
+	rotate: 90
+LunarNewYear/Korea2/Skirt_f2
+	bounds: 1105, 1651, 56, 50
+	offsets: 1, 0, 57, 50
+LunarNewYear/Korea2/shirt-hand-b1
+	bounds: 1498, 1251, 56, 82
+	rotate: 90
+LunarNewYear/Korea2/shirt-hand-b2
+	bounds: 312, 730, 62, 74
+	offsets: 0, 0, 64, 81
+	rotate: 90
+LunarNewYear/Korea2/shirt-hand-b22
+	bounds: 1154, 579, 63, 78
+	offsets: 0, 0, 64, 81
+	rotate: 90
+LunarNewYear/Korea2/shirt-hand-f1
+	bounds: 1863, 367, 64, 90
+	offsets: 0, 2, 64, 92
+	rotate: 90
+LunarNewYear/Korea2/shirt-hand-f2
+	bounds: 1742, 566, 65, 64
+	offsets: 0, 0, 65, 70
+LunarNewYear/Shirt/Shirt2/Skirt
+	bounds: 1349, 1538, 110, 51
+	offsets: 0, 0, 110, 52
+LunarNewYear/Shirt/Shirt2/Skirt_b1
+	bounds: 842, 1094, 57, 94
+	rotate: 90
+LunarNewYear/Shirt/Shirt2/Skirt_b2
+	bounds: 625, 1495, 69, 53
+	offsets: 0, 1, 69, 54
+LunarNewYear/Shirt/Shirt2/Skirt_f1
+	bounds: 418, 533, 63, 92
+	rotate: 90
+LunarNewYear/Shirt/Shirt2/Skirt_f2
+	bounds: 1554, 1420, 68, 54
+LunarNewYear/Shoes/Shoes_2b
+	bounds: 1918, 946, 101, 59
+LunarNewYear/Shoes/Shoes_2f
+	bounds: 1918, 946, 101, 59
+LunarNewYear/Vietnam1/Skirt
+	bounds: 1653, 1528, 110, 51
+	offsets: 0, 0, 110, 52
+LunarNewYear/Vietnam1/Skirt_b1
+	bounds: 498, 1331, 54, 94
+	offsets: 0, 0, 55, 94
+	rotate: 90
+LunarNewYear/Vietnam1/Skirt_b2
+	bounds: 1883, 1738, 52, 48
+	offsets: 0, 0, 52, 53
+LunarNewYear/Vietnam1/Skirt_f1
+	bounds: 1498, 826, 61, 90
+	offsets: 0, 0, 61, 92
+	rotate: 90
+LunarNewYear/Vietnam1/Skirt_f2
+	bounds: 1163, 1651, 56, 50
+	offsets: 1, 0, 57, 50
+LunarNewYear/Vietnam1/shirt-hand-b1
+	bounds: 1812, 1248, 56, 82
+	rotate: 90
+LunarNewYear/Vietnam1/shirt-hand-b2
+	bounds: 618, 723, 62, 75
+	offsets: 0, 0, 64, 81
+	rotate: 90
+LunarNewYear/Vietnam1/shirt-hand-b22
+	bounds: 512, 530, 63, 78
+	offsets: 0, 0, 64, 81
+	rotate: 90
+LunarNewYear/Vietnam1/shirt-hand-f1
+	bounds: 1955, 367, 64, 91
+	offsets: 0, 1, 64, 92
+	rotate: 90
+LunarNewYear/Vietnam1/shirt-hand-f2
+	bounds: 2, 144, 65, 65
+	offsets: 0, 0, 65, 70
+LunarNewYear/Vietnam2/Skirt
+	bounds: 1820, 1525, 110, 51
+	offsets: 0, 0, 110, 52
+LunarNewYear/Vietnam2/Skirt_b1
+	bounds: 594, 1331, 54, 94
+	offsets: 0, 0, 55, 94
+	rotate: 90
+LunarNewYear/Vietnam2/Skirt_b2
+	bounds: 235, 1559, 52, 53
+	rotate: 90
+LunarNewYear/Vietnam2/Skirt_f1
+	bounds: 1590, 826, 61, 92
+	rotate: 90
+LunarNewYear/Vietnam2/Skirt_f2
+	bounds: 1221, 1649, 56, 50
+	offsets: 1, 0, 57, 50
+LunarNewYear/Vietnam2/shirt-hand-b1
+	bounds: 1957, 1243, 56, 82
+	rotate: 90
+LunarNewYear/Vietnam2/shirt-hand-b2
+	bounds: 695, 723, 62, 75
+	offsets: 0, 0, 64, 81
+	rotate: 90
+LunarNewYear/Vietnam2/shirt-hand-b22
+	bounds: 592, 529, 63, 78
+	offsets: 0, 0, 64, 81
+	rotate: 90
+LunarNewYear/Vietnam2/shirt-hand-f1
+	bounds: 2, 344, 64, 91
+	offsets: 0, 1, 64, 92
+	rotate: 90
+LunarNewYear/Vietnam2/shirt-hand-f2
+	bounds: 69, 143, 65, 65
+	offsets: 0, 0, 65, 70
+Mannequin/arm_b
+	bounds: 2, 1230, 56, 88
+	offsets: 1, 0, 57, 88
+	rotate: 90
+Mannequin/arm_f
+	bounds: 124, 1108, 57, 88
+	rotate: 90
+Market/Shirt_hand_b1
+	bounds: 2, 928, 59, 66
+	rotate: 90
+Market/Shirt_hand_f1
+	bounds: 132, 923, 59, 66
+	rotate: 90
+Market/Skirt
+	bounds: 1880, 1471, 112, 52
+Market/Skirt_b1
+	bounds: 994, 1030, 58, 68
+	offsets: 0, 0, 59, 68
+	rotate: 90
+Market/Skirt_f1
+	bounds: 1896, 1247, 59, 56
+	offsets: 0, 0, 59, 57
+Necklace/Necklace_3
+	bounds: 200, 923, 79, 59
+	offsets: 1, 0, 80, 59
+Noel/Earring/earring_1
+	bounds: 1566, 1589, 51, 58
+	rotate: 90
+Noel/Earring/earring_2
+	bounds: 1966, 1415, 54, 58
+	offsets: 1, 1, 55, 60
+	rotate: 90
+Noel/Earring/earring_3
+	bounds: 765, 1759, 47, 53
+	offsets: 1, 1, 49, 54
+	rotate: 90
+Noel/Set_noel_1/Shirt_hand_b1
+	bounds: 502, 1099, 57, 73
+	rotate: 90
+Noel/Set_noel_3/Shirt_hand_b1
+	bounds: 502, 1099, 57, 73
+	rotate: 90
+Noel/Set_noel_1/Shirt_hand_f1
+	bounds: 480, 916, 59, 76
+	rotate: 90
+Noel/Set_noel_1/collar
+	bounds: 174, 1283, 79, 55
+Noel/Set_noel_12/Shirt_hand_b1
+	bounds: 672, 529, 63, 87
+	rotate: 90
+Noel/Set_noel_12/Shirt_hand_b2
+	bounds: 1305, 638, 67, 63
+	offsets: 1, 1, 68, 64
+Noel/Set_noel_12/Shirt_hand_f1
+	bounds: 761, 524, 63, 87
+	rotate: 90
+Noel/Set_noel_12/Shirt_hand_f2
+	bounds: 1234, 574, 69, 63
+Noel/Set_noel_12/Skirt
+	bounds: 108, 1454, 112, 52
+Noel/Set_noel_12/Skirt_f
+	bounds: 343, 919, 71, 59
+Noel/Set_noel_12/jacket_f1
+	bounds: 943, 1754, 149, 47
+Noel/Set_noel_2/Skirt
+	bounds: 285, 1449, 112, 52
+Noel/Set_noel_2/Skirt_b1
+	bounds: 1648, 1364, 54, 86
+	offsets: 0, 0, 55, 94
+	rotate: 90
+Noel/Set_noel_2/Skirt_b2
+	bounds: 1937, 1735, 52, 48
+	offsets: 0, 0, 52, 53
+Noel/Set_noel_2/Skirt_f1
+	bounds: 1756, 825, 61, 87
+	offsets: 0, 0, 61, 92
+	rotate: 90
+Noel/Set_noel_2/Skirt_f2
+	bounds: 1279, 1645, 57, 50
+Noel/Set_noel_6/Skirt_f2
+	bounds: 1279, 1645, 57, 50
+Noel/Set_noel_2/collar
+	bounds: 1064, 1027, 80, 58
+Noel/Set_noel_2/shirt-hand-b1
+	bounds: 268, 1220, 56, 82
+	rotate: 90
+Noel/Set_noel_2/shirt-hand-b2
+	bounds: 850, 521, 63, 81
+	offsets: 0, 0, 64, 81
+	rotate: 90
+Noel/Set_noel_2/shirt-hand-b2b
+	bounds: 933, 520, 63, 84
+	offsets: 0, 0, 64, 84
+	rotate: 90
+Noel/Set_noel_2/shirt-hand-f1
+	bounds: 95, 342, 64, 96
+	rotate: 90
+Noel/Set_noel_2/shirt-hand-f2
+	bounds: 136, 140, 65, 70
+	rotate: 90
+Noel/Set_noel_3/Shirt_hand_b2
+	bounds: 938, 1094, 57, 68
+	offsets: 0, 1, 57, 69
+	rotate: 90
+Noel/Set_noel_3/Shirt_hand_b2b
+	bounds: 1146, 1026, 58, 77
+	offsets: 0, 1, 58, 78
+	rotate: 90
+Noel/Set_noel_3/Shirt_hand_f1
+	bounds: 1845, 821, 61, 84
+	offsets: 3, 3, 69, 94
+	rotate: 90
+Noel/Set_noel_3/Shirt_hand_f2
+	bounds: 1684, 826, 61, 70
+	offsets: 0, 2, 66, 72
+	rotate: 90
+Noel/Set_noel_3/Skirt
+	bounds: 399, 1444, 112, 52
+Noel/Set_noel_3/Skirt_b1
+	bounds: 690, 1329, 54, 94
+	offsets: 0, 0, 55, 94
+	rotate: 90
+Noel/Set_noel_3/Skirt_b2
+	bounds: 232, 1666, 52, 52
+	offsets: 0, 1, 52, 53
+Noel/Set_noel_3/Skirt_f1
+	bounds: 1931, 821, 61, 92
+	rotate: 90
+Noel/Set_noel_3/Skirt_f2
+	bounds: 1361, 1373, 56, 55
+	offsets: 0, 1, 56, 56
+Noel/Set_noel_3/collar
+	bounds: 1225, 1023, 80, 58
+Noel/Set_noel_4/shirt-hand-b1
+	bounds: 352, 1220, 56, 89
+	offsets: 0, 1, 56, 90
+	rotate: 90
+Noel/Set_noel_4/shirt-hand-b2
+	bounds: 2, 543, 64, 65
+	offsets: 0, 1, 67, 76
+	rotate: 90
+Noel/Set_noel_4/shirt-hand-b2b
+	bounds: 2, 8, 66, 82
+	offsets: 0, 1, 67, 83
+	rotate: 90
+Noel/Set_noel_4/shirt-hand-f1
+	bounds: 1762, 888, 60, 85
+	rotate: 90
+Noel/Set_noel_4/shirt-hand-f2
+	bounds: 301, 138, 66, 65
+	offsets: 2, 0, 68, 76
+Noel/Set_noel_5/Skirt
+	bounds: 570, 1441, 112, 52
+Noel/Set_noel_5/Skirt_b1
+	bounds: 1693, 370, 64, 74
+	rotate: 90
+Noel/Set_noel_5/Skirt_f1
+	bounds: 193, 339, 64, 77
+	offsets: 1, 0, 65, 77
+	rotate: 90
+Noel/Set_noel_5/shirt-hand-b1
+	bounds: 443, 1216, 56, 89
+	offsets: 0, 1, 56, 90
+	rotate: 90
+Noel/Set_noel_6/shirt-hand-b1
+	bounds: 443, 1216, 56, 89
+	offsets: 0, 1, 56, 90
+	rotate: 90
+Noel/Set_noel_5/shirt-hand-b2
+	bounds: 2, 477, 64, 65
+	offsets: 0, 1, 67, 76
+	rotate: 90
+Noel/Set_noel_6/shirt-hand-b2
+	bounds: 2, 477, 64, 65
+	offsets: 0, 1, 67, 76
+	rotate: 90
+Noel/Set_noel_5/shirt-hand-b2b
+	bounds: 183, 4, 66, 82
+	offsets: 0, 1, 67, 83
+	rotate: 90
+Noel/Set_noel_6/shirt-hand-b2b
+	bounds: 183, 4, 66, 82
+	offsets: 0, 1, 67, 83
+	rotate: 90
+Noel/Set_noel_5/shirt-hand-f1
+	bounds: 1849, 884, 60, 85
+	rotate: 90
+Noel/Set_noel_6/shirt-hand-f1
+	bounds: 1849, 884, 60, 85
+	rotate: 90
+Noel/Set_noel_5/shirt-hand-f2
+	bounds: 369, 134, 66, 65
+	offsets: 2, 0, 68, 76
+Noel/Set_noel_6/shirt-hand-f2
+	bounds: 369, 134, 66, 65
+	offsets: 2, 0, 68, 76
+Noel/Set_noel_6/Skirt
+	bounds: 684, 1441, 112, 52
+Noel/Set_noel_6/Skirt_b1
+	bounds: 786, 1329, 54, 94
+	offsets: 0, 0, 55, 94
+	rotate: 90
+Noel/Set_noel_6/Skirt_b2
+	bounds: 402, 1554, 52, 53
+	rotate: 90
+Noel/Set_noel_6/Skirt_f1
+	bounds: 2, 803, 61, 88
+	offsets: 0, 0, 61, 92
+	rotate: 90
+Noel/Set_noel_7/Shoe_b
+	bounds: 882, 1328, 90, 54
+Noel/Set_noel_7/Shoe_f
+	bounds: 974, 1328, 92, 54
+Noel/Set_noel_7/Skirt
+	bounds: 936, 1703, 112, 49
+Noel/Set_noel_7/Skirt_b1
+	bounds: 1133, 1321, 54, 94
+	offsets: 0, 0, 55, 94
+	rotate: 90
+Noel/Set_noel_7/Skirt_b2
+	bounds: 457, 1552, 52, 53
+	rotate: 90
+Noel/Set_noel_7/Skirt_f1
+	bounds: 92, 798, 61, 86
+	offsets: 0, 0, 61, 92
+	rotate: 90
+Noel/Set_noel_7/Skirt_f2
+	bounds: 1338, 1645, 57, 50
+Noel/Set_noel_7/shirt-hand-b1
+	bounds: 534, 1216, 56, 82
+	rotate: 90
+Noel/Set_noel_7/shirt-hand-b2
+	bounds: 1019, 516, 63, 79
+	offsets: 0, 0, 65, 81
+	rotate: 90
+Noel/Set_noel_7/shirt-hand-b2b
+	bounds: 1100, 514, 63, 79
+	rotate: 90
+Noel/Set_noel_7/shirt-hand-b3
+	bounds: 1343, 373, 64, 67
+	rotate: 90
+Noel/Set_noel_7/shirt-hand-f1
+	bounds: 1936, 884, 60, 86
+	rotate: 90
+Noel/Set_noel_7/shirt-hand-f2
+	bounds: 2, 609, 63, 66
+	offsets: 2, 0, 65, 70
+	rotate: 90
+Noel/Set_noel_7/shirt-hand-f3
+	bounds: 558, 916, 66, 59
+Noel/Set_noel_8/Shoe_b
+	bounds: 1229, 1320, 90, 54
+Noel/Set_noel_8/Shoe_f
+	bounds: 1321, 1317, 92, 54
+Noel/Set_noel_8/shirt-hand-b1
+	bounds: 618, 1214, 56, 82
+	rotate: 90
+Noel/Set_noel_8/shirt-hand-b2
+	bounds: 772, 723, 62, 80
+	rotate: 90
+Noel/Set_noel_8/shirt-hand-b2b
+	bounds: 854, 719, 62, 80
+	rotate: 90
+Noel/Set_noel_8/shirt-hand-f1
+	bounds: 272, 338, 64, 91
+	offsets: 0, 1, 64, 92
+	rotate: 90
+Noel/Set_noel_8/shirt-hand-f2
+	bounds: 180, 798, 61, 66
+	offsets: 2, 0, 63, 66
+	rotate: 90
+Noel/Set_noel_9/Shoe_b
+	bounds: 1415, 1313, 90, 54
+Noel/Set_noel_9/Shoe_f
+	bounds: 1507, 1309, 92, 54
+Noel/Set_noel_9/Skirt
+	bounds: 798, 1439, 112, 52
+Noel/Set_noel_9/Skirt_b1
+	bounds: 1601, 1308, 54, 94
+	offsets: 0, 0, 55, 94
+	rotate: 90
+Noel/Set_noel_9/Skirt_b2
+	bounds: 848, 1547, 52, 53
+	rotate: 90
+Noel/Set_noel_9/Skirt_f1
+	bounds: 458, 791, 61, 88
+	offsets: 0, 0, 61, 92
+	rotate: 90
+Noel/Set_noel_9/Skirt_f2
+	bounds: 1397, 1645, 57, 50
+Noel/Set_noel_9/shirt-hand-b1
+	bounds: 702, 1214, 56, 82
+	rotate: 90
+Noel/Set_noel_9/shirt-hand-b2
+	bounds: 1181, 509, 63, 78
+	offsets: 0, 0, 64, 81
+	rotate: 90
+Noel/Set_noel_9/shirt-hand-b2b
+	bounds: 1261, 507, 63, 81
+	offsets: 0, 0, 64, 81
+	rotate: 90
+Noel/Set_noel_9/shirt-hand-f1
+	bounds: 936, 716, 62, 86
+	offsets: 0, 7, 64, 93
+	rotate: 90
+Noel/Set_noel_9/shirt-hand-f2
+	bounds: 553, 725, 63, 64
+	offsets: 2, 0, 65, 70
+Noel/Shoe/Shoes_1b
+	bounds: 267, 2, 98, 66
+Noel/Shoe/Shoes_1f
+	bounds: 267, 2, 98, 66
+Shirt_Noel/Shirt_noel_1/shirt-hand-f
+	bounds: 248, 796, 61, 68
+	rotate: 90
+Shirt_Noel/Shirt_noel_2/shirt-hand-b1
+	bounds: 626, 913, 59, 87
+	rotate: 90
+Shirt_Noel/Shirt_noel_2/shirt-hand-b2
+	bounds: 437, 132, 65, 80
+	rotate: 90
+Shirt_Noel/Shirt_noel_2/shirt-hand-b2b
+	bounds: 519, 132, 65, 85
+	rotate: 90
+Shirt_Noel/Shirt_noel_2/shirt-hand-f1
+	bounds: 365, 337, 64, 88
+	offsets: 1, 0, 65, 89
+	rotate: 90
+Shirt_Noel/Shirt_noel_2/shirt-hand-f2
+	bounds: 1344, 505, 63, 72
+	rotate: 90
+Shirt_Noel/Shirt_noel_3/shirt-hand-b1
+	bounds: 618, 787, 61, 92
+	rotate: 90
+Shirt_Noel/Shirt_noel_3/shirt-hand-b2
+	bounds: 606, 127, 65, 80
+	rotate: 90
+Shirt_Noel/Shirt_noel_3/shirt-hand-f1
+	bounds: 455, 333, 64, 90
+	offsets: 1, 0, 65, 91
+	rotate: 90
+Shirt_Noel/Shirt_noel_3/shirt-hand-f2
+	bounds: 1418, 503, 63, 72
+	rotate: 90
+Shirt_Noel/Shirt_noel_4/shirt-hand-b
+	bounds: 1889, 1956, 32, 47
+	offsets: 0, 0, 34, 47
+	rotate: 90
+Shirt_Noel/Shirt_noel_4/shirt-hand-f
+	bounds: 1979, 1954, 32, 47
+	offsets: 2, 0, 34, 47
+	rotate: 90
+Shirt_Noel/Shirt_noel_5/shirt-hand-b1
+	bounds: 2, 866, 60, 92
+	rotate: 90
+Shirt_Noel/Shirt_noel_5/shirt-hand-f1
+	bounds: 688, 123, 65, 91
+	offsets: 1, 0, 67, 92
+	rotate: 90
+Smoke
+	bounds: 1008, 1090, 68, 57
+Socks/Sock_noel_3/Sock_b
+	bounds: 781, 123, 90, 65
+Socks/Sock_noel_4/Sock_b
+	bounds: 873, 118, 90, 65
+Staff_Floor3/1/Shirt_hand_b1
+	bounds: 547, 332, 64, 89
+	offsets: 0, 0, 65, 89
+	rotate: 90
+Staff_Floor3/2/Shirt_hand_b1
+	bounds: 547, 332, 64, 89
+	offsets: 0, 0, 65, 89
+	rotate: 90
+Staff_Floor3/1/Shirt_hand_f1
+	bounds: 638, 332, 64, 89
+	offsets: 0, 0, 65, 89
+	rotate: 90
+Staff_Floor3/2/Shirt_hand_f1
+	bounds: 638, 332, 64, 89
+	offsets: 0, 0, 65, 89
+	rotate: 90
+Staff_Floor3/1/Shirt_hand_f2
+	bounds: 1492, 503, 69, 63
+Staff_Floor3/1/Skirt_b2
+	bounds: 1456, 1644, 55, 50
+TeacherAndStudent/GV2/Skirt_b2
+	bounds: 1456, 1644, 55, 50
+Staff_Floor3/1/Skirt_f1
+	bounds: 1634, 502, 63, 92
+	rotate: 90
+Staff_Floor3/1/Skirt_f2
+	bounds: 1513, 1644, 57, 50
+TeacherAndStudent/GV2/Skirt_f2
+	bounds: 1513, 1644, 57, 50
+Staff_Floor3/2/Shirt_hand_f2
+	bounds: 1563, 503, 69, 63
+Staff_Floor3/2/Skirt
+	bounds: 1932, 1525, 110, 51
+	offsets: 0, 0, 110, 52
+Staff_Floor3/2/Skirt_b1
+	bounds: 1078, 1087, 57, 94
+	rotate: 90
+Staff_Floor3/2/Skirt_b2
+	bounds: 1572, 1642, 55, 50
+Staff_Floor3/2/Skirt_f1
+	bounds: 1798, 498, 63, 92
+	rotate: 90
+Staff_Floor3/2/Skirt_f2
+	bounds: 1629, 1638, 57, 50
+Staff_Floor3/3/Shirt_hand_b1
+	bounds: 715, 913, 59, 66
+	rotate: 90
+Staff_Floor3/3/Shirt_hand_f1
+	bounds: 783, 913, 59, 66
+	rotate: 90
+Staff_Floor3/3/Skirt_b1_floor3
+	bounds: 1307, 1022, 58, 68
+	offsets: 0, 0, 59, 68
+	rotate: 90
+Staff_Floor3/3/Skirt_f1_floor3
+	bounds: 92, 1227, 59, 56
+	offsets: 0, 0, 59, 57
+Staff_Floor3/3/Skirt_floor3
+	bounds: 912, 1439, 112, 52
+Suit/Shoe1_b
+	bounds: 1892, 498, 99, 63
+Suit/Shoe1_f
+	bounds: 1892, 498, 99, 63
+Suit/Skirt
+	bounds: 1419, 1369, 113, 53
+Suit/Skirt_b1
+	bounds: 1247, 1083, 57, 94
+	rotate: 90
+Suit/Skirt_b2
+	bounds: 1688, 1635, 55, 50
+Suit/Skirt_f1
+	bounds: 321, 469, 63, 92
+	rotate: 90
+Suit/Skirt_f2
+	bounds: 1745, 1634, 57, 50
+TeacherAndStudent/GV1/Shirt_hand_b1
+	bounds: 712, 787, 61, 88
+	rotate: 90
+TeacherAndStudent/GV3/Shirt_hand_b1
+	bounds: 712, 787, 61, 88
+	rotate: 90
+TeacherAndStudent/GV1/Shirt_hand_f1
+	bounds: 69, 475, 63, 89
+	rotate: 90
+TeacherAndStudent/GV3/Shirt_hand_f1
+	bounds: 69, 475, 63, 89
+	rotate: 90
+TeacherAndStudent/GV1/Shirt_hand_f2
+	bounds: 1556, 36, 68, 66
+	offsets: 1, 0, 69, 66
+TeacherAndStudent/GV3/Shirt_hand_f2
+	bounds: 1556, 36, 68, 66
+	offsets: 1, 0, 69, 66
+TeacherAndStudent/GV1/Skirt
+	bounds: 2, 1510, 110, 51
+	offsets: 0, 0, 110, 52
+TeacherAndStudent/GV1/Skirt_b1
+	bounds: 1467, 1074, 57, 94
+	rotate: 90
+TeacherAndStudent/GV1/Skirt_b2
+	bounds: 1804, 1634, 55, 50
+TeacherAndStudent/GV1/Skirt_f1
+	bounds: 415, 468, 63, 91
+	offsets: 0, 0, 63, 92
+	rotate: 90
+TeacherAndStudent/GV1/Skirt_f2
+	bounds: 1861, 1631, 57, 50
+TeacherAndStudent/GV2/Shirt_hand_f1
+	bounds: 160, 473, 63, 89
+	rotate: 90
+TeacherAndStudent/GV2/Shirt_hand_f2
+	bounds: 536, 595, 67, 63
+	offsets: 2, 0, 69, 63
+TeacherAndStudent/GV2/Skirt_f1
+	bounds: 592, 464, 63, 90
+	offsets: 0, 0, 63, 92
+	rotate: 90
+TeacherAndStudent/GV3/Skirt
+	bounds: 114, 1508, 110, 51
+	offsets: 0, 0, 110, 52
+TeacherAndStudent/GV3/Skirt_b1
+	bounds: 1563, 1072, 57, 94
+	rotate: 90
+TeacherAndStudent/GV3/Skirt_b2
+	bounds: 1920, 1631, 55, 50
+TeacherAndStudent/GV3/Skirt_f1
+	bounds: 758, 459, 63, 90
+	offsets: 0, 0, 63, 92
+	rotate: 90
+TeacherAndStudent/GV3/Skirt_f2
+	bounds: 1977, 1631, 57, 50
+TeacherAndStudent/GV4/Skirt
+	bounds: 289, 1503, 110, 51
+	offsets: 0, 0, 110, 52
+TeacherAndStudent/GV4/Skirt_b1
+	bounds: 1659, 1072, 57, 94
+	rotate: 90
+TeacherAndStudent/GV4/Skirt_b2
+	bounds: 2, 1616, 55, 50
+TeacherAndStudent/GV4/Skirt_f1
+	bounds: 925, 455, 63, 90
+	offsets: 0, 0, 63, 92
+	rotate: 90
+TeacherAndStudent/GV4/Skirt_f2
+	bounds: 59, 1616, 57, 50
+TeacherAndStudent/HS1/Shirt_hand_b1
+	bounds: 729, 327, 64, 67
+	rotate: 90
+TeacherAndStudent/HS1/Shirt_hand_f1
+	bounds: 798, 323, 64, 66
+	offsets: 0, 0, 64, 67
+	rotate: 90
+TeacherAndStudent/HS2/Shirt_hand_f1
+	bounds: 1033, 117, 65, 90
+	rotate: 90
+TeacherAndStudent/HS3/Shirt_hand_b1
+	bounds: 851, 913, 59, 66
+	rotate: 90
+jumpsuit/JS1/Shirt_hand_b1
+	bounds: 851, 913, 59, 66
+	rotate: 90
+TeacherAndStudent/HS3/Shirt_hand_f1
+	bounds: 919, 909, 59, 66
+	rotate: 90
+jumpsuit/JS1/Shirt_hand_f1
+	bounds: 919, 909, 59, 66
+	rotate: 90
+TeacherAndStudent/HS3/Skirt
+	bounds: 1026, 1438, 112, 52
+TeacherAndStudent/HS3/Skirt_b1
+	bounds: 1377, 1017, 58, 68
+	offsets: 0, 0, 59, 68
+	rotate: 90
+TeacherAndStudent/HS3/Skirt_f1
+	bounds: 1406, 1077, 59, 59
+WaterPark/Skirt/Skirt_1
+	bounds: 1197, 1431, 112, 52
+WaterPark/Skirt/Skirt_1b1
+	bounds: 786, 1212, 56, 62
+	offsets: 0, 1, 57, 63
+	rotate: 90
+WaterPark/Skirt/Skirt_1f1
+	bounds: 1626, 1585, 57, 51
+	offsets: 0, 0, 57, 52
+WaterPark/Skirt/Skirt_2b1
+	bounds: 78, 1904, 67, 36
+	offsets: 1, 0, 69, 36
+WaterPark/Skirt/Skirt_2f1
+	bounds: 1728, 501, 68, 63
+	offsets: 5, 5, 78, 68
+WaterPark/Skirt/Skirt_3
+	bounds: 1534, 1365, 112, 53
+WaterPark/Skirt/Skirt_3b1
+	bounds: 1447, 1014, 58, 68
+	offsets: 0, 0, 59, 68
+	rotate: 90
+WaterPark/Skirt/Skirt_3f1
+	bounds: 850, 1212, 59, 56
+	offsets: 0, 0, 59, 57
+arm_b
+	bounds: 911, 1212, 56, 88
+	offsets: 1, 0, 57, 88
+	rotate: 90
+arm_f
+	bounds: 1755, 1072, 57, 88
+	rotate: 90
+basketball_clothes/Skirt_1
+	bounds: 1311, 1430, 112, 52
+basketball_clothes/Skirt_1b1
+	bounds: 1517, 1012, 58, 68
+	offsets: 0, 0, 59, 68
+	rotate: 90
+basketball_clothes/Skirt_1f1
+	bounds: 1001, 1212, 59, 56
+	offsets: 0, 0, 59, 57
+basketball_clothes/Skirt_2
+	bounds: 1624, 1420, 112, 52
+basketball_clothes/Skirt_2b1
+	bounds: 1587, 1012, 58, 68
+	offsets: 0, 0, 59, 68
+	rotate: 90
+basketball_clothes/Skirt_2f1
+	bounds: 1346, 1142, 59, 57
+beard/beard1
+	bounds: 1185, 1963, 91, 31
+beard/beard3
+	bounds: 2, 1455, 104, 53
+	offsets: 1, 0, 105, 54
+cheeks/BL1
+	bounds: 1146, 1889, 39, 37
+	offsets: 0, 1, 39, 38
+cheeks/BL10
+	bounds: 1850, 1957, 32, 37
+	offsets: 0, 0, 32, 38
+	rotate: 90
+cheeks/BL11
+	bounds: 1995, 2020, 24, 36
+	rotate: 90
+cheeks/BL12
+	bounds: 1445, 1886, 37, 62
+	rotate: 90
+cheeks/BL13
+	bounds: 1088, 2025, 173, 19
+	offsets: 0, 0, 174, 19
+cheeks/BL14
+	bounds: 1715, 1838, 41, 43
+	rotate: 90
+cheeks/BL15
+	bounds: 51, 2034, 93, 10
+cheeks/BL16
+	bounds: 416, 1812, 43, 58
+	rotate: 90
+cheeks/BL17
+	bounds: 1187, 1889, 216, 36
+cheeks/BL18
+	bounds: 1491, 2023, 26, 21
+cheeks/BL19
+	bounds: 1592, 1992, 171, 28
+	offsets: 1, 0, 173, 28
+cheeks/BL2
+	bounds: 1094, 1754, 139, 47
+cheeks/BL20
+	bounds: 596, 1855, 40, 49
+	rotate: 90
+cheeks/BL21
+	bounds: 822, 1997, 27, 91
+	rotate: 90
+cheeks/BL3
+	bounds: 1416, 1749, 139, 47
+cheeks/BL4
+	bounds: 982, 1964, 201, 30
+cheeks/BL5
+	bounds: 250, 1900, 171, 35
+	offsets: 1, 0, 172, 35
+cheeks/BL6
+	bounds: 953, 1803, 209, 43
+cheeks/BL7
+	bounds: 608, 2000, 57, 25
+	offsets: 0, 0, 58, 25
+cheeks/BL8
+	bounds: 850, 1929, 180, 33
+cheeks/BL9
+	bounds: 188, 2032, 12, 12
+collar/collar_1
+	bounds: 118, 1616, 68, 50
+collar/collar_2
+	bounds: 2, 1865, 67, 38
+collar/collar_4
+	bounds: 869, 1756, 72, 47
+collar/collar_5
+	bounds: 188, 1614, 74, 50
+	offsets: 1, 0, 75, 50
+collar/collar_6
+	bounds: 1144, 1488, 53, 63
+	rotate: 90
+collar/collar_7
+	bounds: 1712, 1792, 67, 44
+emotion/Angry/Mouth
+	bounds: 1982, 1988, 58, 30
+	offsets: 1, 1, 61, 32
+emotion/Doubt/Eye
+	bounds: 1749, 301, 209, 64
+	offsets: 1, 1, 211, 66
+emotion/Doubt/Mouth
+	bounds: 147, 1902, 36, 41
+	offsets: 1, 2, 39, 44
+	rotate: 90
+emotion/Excited/Eye
+	bounds: 1042, 1996, 177, 27
+	offsets: 1, 2, 179, 30
+emotion/Excited/Mouth
+	bounds: 108, 1942, 62, 33
+	offsets: 1, 1, 65, 35
+emotion/Happy/Mouth
+	bounds: 108, 1942, 62, 33
+	offsets: 1, 1, 65, 35
+emotion/Eye_Pose5
+	bounds: 2, 1943, 52, 32
+emotion/Funny/Eye
+	bounds: 1032, 1928, 174, 33
+	offsets: 1, 1, 176, 35
+emotion/Funny/Fx
+	bounds: 445, 2027, 172, 17
+	offsets: 2, 1, 175, 19
+emotion/Funny/Mouth
+	bounds: 476, 1812, 65, 43
+	offsets: 1, 1, 68, 45
+emotion/Happy/Eye
+	bounds: 96, 861, 172, 60
+	offsets: 1, 1, 174, 62
+emotion/Happy/Fx
+	bounds: 619, 2027, 159, 17
+	offsets: 2, 1, 162, 19
+emotion/Hungry/Eye
+	bounds: 780, 2026, 178, 18
+	offsets: 1, 1, 180, 20
+emotion/Hungry/Mouth
+	bounds: 778, 1707, 77, 49
+	offsets: 1, 1, 79, 51
+emotion/Sad/Mouth
+	bounds: 1616, 2022, 50, 22
+	offsets: 2, 2, 53, 27
+emotion/Sleepy/Eye
+	bounds: 293, 2002, 184, 23
+	offsets: 1, 1, 186, 25
+emotion/Sleepy/Mouth
+	bounds: 251, 471, 63, 68
+	offsets: 2, 1, 66, 70
+	rotate: 90
+emotion/Tired/Eye
+	bounds: 1657, 1012, 178, 58
+	offsets: 1, 1, 181, 60
+emotion/Tired/Mouth
+	bounds: 1208, 1927, 64, 34
+	offsets: 1, 1, 66, 36
+eye/EY1/eye_b
+	bounds: 936, 323, 68, 64
+	offsets: 0, 0, 69, 64
+eye/EY1/eye_f
+	bounds: 1245, 310, 92, 64
+eye/EY1/fill
+	bounds: 1760, 1838, 41, 48
+	rotate: 90
+eye/EY1/fill2
+	bounds: 2, 1721, 48, 48
+eye/EY10/eye_b
+	bounds: 1438, 1482, 66, 53
+	offsets: 0, 0, 67, 53
+eye/EY10/eye_f
+	bounds: 1697, 1306, 85, 54
+eye/EY10/fill
+	bounds: 1353, 1994, 28, 37
+	rotate: 90
+eye/EY10/fill2
+	bounds: 1891, 1990, 30, 38
+	rotate: 90
+eye/EY11/eye_b
+	bounds: 915, 1997, 54, 27
+eye/EY11/eye_f
+	bounds: 971, 1997, 69, 27
+	offsets: 1, 0, 70, 27
+eye/EY12/eye_b
+	bounds: 388, 729, 68, 62
+eye/EY12/eye_f
+	bounds: 1097, 711, 83, 62
+eye/EY12/fill
+	bounds: 1802, 1920, 35, 52
+	rotate: 90
+eye/EY12/fill2
+	bounds: 834, 1807, 43, 53
+	rotate: 90
+eye/EY13/eye_b
+	bounds: 866, 323, 68, 64
+	offsets: 0, 0, 69, 64
+eye/EY13/eye_f
+	bounds: 1081, 317, 92, 64
+eye/EY13/fill
+	bounds: 71, 1864, 38, 47
+	rotate: 90
+eye/EY13/fill2
+	bounds: 190, 1770, 46, 47
+	rotate: 90
+eye/EY14/eye_b
+	bounds: 1068, 1324, 63, 55
+eye/EY14/eye_f
+	bounds: 324, 1278, 80, 55
+eye/EY14/fill
+	bounds: 120, 1862, 38, 47
+	rotate: 90
+eye/EY14/fill2
+	bounds: 820, 1758, 47, 47
+eye/EY15/eye_b
+	bounds: 1318, 703, 64, 63
+eye/EY15/eye_f
+	bounds: 1092, 449, 87, 63
+eye/EY15/fill
+	bounds: 1945, 1832, 42, 55
+	rotate: 90
+eye/EY15/fill2
+	bounds: 1127, 1545, 52, 54
+	rotate: 90
+eye/EY16/eye_b
+	bounds: 1062, 1208, 62, 56
+	offsets: 0, 1, 62, 57
+eye/EY16/eye_f
+	bounds: 1126, 1205, 81, 56
+	offsets: 0, 1, 81, 57
+eye/EY16/fill
+	bounds: 172, 1940, 33, 41
+	rotate: 90
+eye/EY16/fill2
+	bounds: 1896, 1835, 47, 42
+eye/EY17/eye_b
+	bounds: 1991, 1735, 48, 50
+	rotate: 90
+eye/EY17/eye_f
+	bounds: 264, 1613, 58, 50
+eye/EY18/eye_b
+	bounds: 1837, 1011, 58, 62
+	rotate: 90
+eye/EY18/eye_f
+	bounds: 1024, 715, 71, 62
+eye/EY18/fill
+	bounds: 593, 1810, 43, 52
+	rotate: 90
+eye/EY18/fill2
+	bounds: 1183, 1543, 52, 52
+eye/EY19/eye_b
+	bounds: 1407, 1138, 57, 58
+	rotate: 90
+eye/EY19/eye_f
+	bounds: 1901, 1007, 67, 58
+	offsets: 1, 0, 68, 58
+eye/EY2/eye_b
+	bounds: 1209, 1204, 61, 56
+	offsets: 0, 0, 62, 56
+eye/EY2/eye_f
+	bounds: 1272, 1201, 75, 56
+	offsets: 1, 0, 76, 56
+eye/EY2/fill
+	bounds: 1278, 1963, 31, 47
+	rotate: 90
+eye/EY2/fill2
+	bounds: 1856, 1919, 35, 47
+	rotate: 90
+eye/EY20/eye_b
+	bounds: 52, 1720, 61, 48
+eye/EY20/eye_f
+	bounds: 115, 1720, 78, 48
+eye/EY20/fill
+	bounds: 1844, 1991, 45, 29
+eye/EY20/fill2
+	bounds: 184, 1975, 58, 30
+eye/EY3/eye_b
+	bounds: 1506, 1480, 58, 53
+eye/EY3/eye_f
+	bounds: 1566, 1476, 76, 53
+eye/EY3/fill
+	bounds: 543, 1812, 48, 43
+eye/EY3/fill2
+	bounds: 889, 1805, 62, 43
+eye/EY4/eye_b
+	bounds: 1461, 1537, 52, 60
+	rotate: 90
+eye/EY4/eye_f
+	bounds: 281, 921, 61, 60
+	rotate: 90
+eye/EY4/fill
+	bounds: 1577, 1798, 44, 51
+	rotate: 90
+eye/EY4/fill2
+	bounds: 1618, 1694, 51, 51
+eye/EY5/eye_b
+	bounds: 45, 2008, 24, 49
+	offsets: 0, 0, 25, 49
+	rotate: 90
+eye/EY5/eye_f
+	bounds: 1931, 1990, 29, 49
+	rotate: 90
+eye/EY6/eye_b
+	bounds: 1365, 894, 70, 60
+	offsets: 0, 0, 71, 60
+eye/EY6/eye_f
+	bounds: 987, 906, 87, 59
+	offsets: 0, 0, 88, 60
+eye/EY6/fill
+	bounds: 1905, 1919, 35, 43
+	offsets: 0, 1, 35, 44
+	rotate: 90
+eye/EY6/fill2
+	bounds: 2002, 1832, 42, 43
+	rotate: 90
+eye/EY7/eye_b
+	bounds: 2, 411, 64, 64
+	offsets: 1, 0, 65, 64
+eye/EY7/eye_f
+	bounds: 1409, 306, 84, 64
+eye/EY7/fill
+	bounds: 169, 1861, 38, 47
+	rotate: 90
+eye/EY7/fill2
+	bounds: 239, 1770, 46, 47
+	rotate: 90
+eye/EY8/eye_b
+	bounds: 1006, 318, 73, 64
+	offsets: 0, 0, 74, 64
+eye/EY8/eye_f
+	bounds: 1495, 306, 88, 64
+	offsets: 1, 0, 89, 64
+eye/EY8/fill
+	bounds: 1588, 1885, 37, 48
+	rotate: 90
+eye/EY8/fill2
+	bounds: 1164, 1803, 43, 50
+	rotate: 90
+eye/EY9/eye_b
+	bounds: 255, 1283, 67, 55
+eye/EY9/eye_f
+	bounds: 473, 1274, 92, 55
+	offsets: 0, 1, 92, 56
+eye/EY9/fill
+	bounds: 1938, 1956, 32, 39
+	rotate: 90
+eye/EY9/fill2
+	bounds: 417, 1858, 44, 39
+eye/EY_Close/eye_b
+	bounds: 960, 2026, 52, 18
+eye/EY_Close/eye_f
+	bounds: 1014, 2026, 72, 18
+eye/Makeup/Eye1/eye_b
+	bounds: 1175, 311, 68, 64
+	offsets: 0, 0, 69, 64
+eye/Makeup/Eye1/eye_f
+	bounds: 1585, 305, 92, 64
+eye/Makeup/Eye2/eye_b
+	bounds: 1339, 307, 68, 64
+	offsets: 0, 0, 69, 64
+eye/Makeup/Eye2/eye_f
+	bounds: 72, 276, 92, 64
+eye/Makeup/Eye3/eye_b
+	bounds: 1679, 304, 68, 64
+	offsets: 0, 0, 69, 64
+eye/Makeup/Eye3/eye_f
+	bounds: 166, 273, 92, 64
+eye/Makeup/Eye4/eye_b
+	bounds: 1960, 301, 68, 64
+	offsets: 0, 0, 69, 64
+eye/Makeup/Eye4/eye_f
+	bounds: 260, 272, 92, 64
+eye/Makeup/Eye5/eye_b
+	bounds: 2, 278, 68, 64
+	offsets: 0, 0, 69, 64
+eye/Makeup/Eye5/eye_f
+	bounds: 354, 271, 92, 64
+eye/Makeup/Eye6/eye_b
+	bounds: 448, 267, 68, 64
+	offsets: 0, 0, 69, 64
+eye/Makeup/Eye6/eye_f
+	bounds: 518, 266, 92, 64
+football_clothes/Shirt_10.1b
+	bounds: 416, 918, 60, 62
+	offsets: 1, 0, 61, 62
+	rotate: 90
+football_clothes/Shirt_10.1f
+	bounds: 1237, 901, 60, 62
+	offsets: 0, 0, 61, 62
+	rotate: 90
+football_clothes/Shirt_7.1b
+	bounds: 1301, 899, 60, 62
+	offsets: 1, 0, 61, 62
+	rotate: 90
+football_clothes/Shirt_7.1f
+	bounds: 1437, 891, 60, 62
+	offsets: 0, 0, 61, 62
+	rotate: 90
+football_clothes/Shirt_8.1b
+	bounds: 270, 859, 60, 62
+	offsets: 1, 0, 61, 62
+	rotate: 90
+football_clothes/Shirt_8.1f
+	bounds: 334, 857, 60, 62
+	offsets: 0, 0, 61, 62
+	rotate: 90
+football_clothes/Shirt_9.1b
+	bounds: 398, 856, 60, 62
+	offsets: 1, 0, 61, 62
+	rotate: 90
+football_clothes/Shirt_9.1f
+	bounds: 462, 854, 60, 62
+	offsets: 0, 0, 61, 62
+	rotate: 90
+football_clothes/Skirt_10
+	bounds: 1736, 1362, 112, 53
+football_clothes/Skirt_10b1
+	bounds: 1970, 1007, 58, 68
+	offsets: 0, 0, 59, 68
+	rotate: 90
+football_clothes/Skirt_10f1
+	bounds: 1467, 1134, 59, 57
+football_clothes/Skirt_3
+	bounds: 1738, 1417, 112, 52
+football_clothes/Skirt_3b1
+	bounds: 63, 989, 58, 68
+	offsets: 0, 0, 59, 68
+	rotate: 90
+football_clothes/Skirt_3f1
+	bounds: 1349, 1201, 59, 56
+	offsets: 0, 0, 59, 57
+football_clothes/Skirt_4
+	bounds: 1852, 1417, 112, 52
+football_clothes/Skirt_4b1
+	bounds: 133, 984, 58, 68
+	offsets: 0, 0, 59, 68
+	rotate: 90
+football_clothes/Skirt_4f1
+	bounds: 1410, 1197, 59, 56
+	offsets: 0, 0, 59, 57
+football_clothes/Skirt_5
+	bounds: 2, 1400, 112, 52
+skirt/Skirt_7/Skirt_7_fill
+	bounds: 2, 1400, 112, 52
+football_clothes/Skirt_5b1
+	bounds: 203, 984, 58, 68
+	offsets: 0, 0, 59, 68
+	rotate: 90
+football_clothes/Skirt_5f1
+	bounds: 1471, 1193, 59, 56
+	offsets: 0, 0, 59, 57
+football_clothes/Skirt_6
+	bounds: 1850, 1362, 112, 53
+football_clothes/Skirt_6b1
+	bounds: 273, 984, 58, 68
+	offsets: 0, 0, 59, 68
+	rotate: 90
+football_clothes/Skirt_6f1
+	bounds: 1532, 1192, 59, 56
+	offsets: 0, 0, 59, 57
+football_clothes/Skirt_7
+	bounds: 2, 1345, 112, 53
+football_clothes/Skirt_7b1
+	bounds: 343, 980, 58, 68
+	offsets: 0, 0, 59, 68
+	rotate: 90
+football_clothes/Skirt_7f1
+	bounds: 1593, 1192, 59, 56
+	offsets: 0, 0, 59, 57
+football_clothes/Skirt_8
+	bounds: 212, 1340, 112, 53
+football_clothes/Skirt_8b1
+	bounds: 413, 980, 58, 68
+	offsets: 0, 0, 59, 68
+	rotate: 90
+football_clothes/Skirt_8f1
+	bounds: 2, 1113, 59, 57
+football_clothes/Skirt_9
+	bounds: 384, 1335, 112, 53
+football_clothes/Skirt_9b1
+	bounds: 483, 977, 58, 68
+	offsets: 0, 0, 59, 68
+	rotate: 90
+football_clothes/Skirt_9f1
+	bounds: 1654, 1190, 59, 56
+	offsets: 0, 0, 59, 57
+fx_cry
+	bounds: 1274, 1927, 174, 33
+jacket/J1/Shirt_hand_f1
+	bounds: 1125, 111, 65, 88
+	rotate: 90
+jacket/J17/Shirt_hand_b2
+	bounds: 612, 266, 73, 64
+jacket/J17/Shirt_hand_f2
+	bounds: 687, 261, 73, 64
+jacket/J18/Shirt_hand_b2
+	bounds: 762, 257, 73, 64
+jacket/J18/Shirt_hand_f2
+	bounds: 837, 257, 73, 64
+jacket/J3/Shirt_hand_b1
+	bounds: 912, 257, 64, 87
+	rotate: 90
+jacket/J4/Shirt_hand_b1
+	bounds: 1215, 110, 65, 91
+	rotate: 90
+jacket/J5/Shirt_hand_b1
+	bounds: 1377, 106, 65, 93
+	rotate: 90
+jacket/J6/Shirt_hand_b1
+	bounds: 1076, 251, 64, 92
+	rotate: 90
+jacket/J8/Shirt_hand_b1
+	bounds: 1472, 105, 65, 90
+	rotate: 90
+jacket/J9/Shirt_hand_b2
+	bounds: 1001, 252, 73, 64
+jacket/J9/Shirt_hand_f2
+	bounds: 1170, 245, 73, 64
+jumpsuit/HLW/1/Shirt_hand_b1
+	bounds: 1182, 709, 66, 62
+jumpsuit/HLW/1/Shirt_hand_f1
+	bounds: 1250, 704, 66, 62
+jumpsuit/HLW/1/Skirt_b1
+	bounds: 1845, 1071, 57, 94
+	rotate: 90
+jumpsuit/HLW/1/Skirt_b2
+	bounds: 324, 1609, 55, 50
+jumpsuit/HLW/1/Skirt_f1
+	bounds: 1414, 438, 63, 92
+	rotate: 90
+jumpsuit/HLW/1/Skirt_f2
+	bounds: 381, 1609, 57, 50
+jumpsuit/HLW/4/Shirt_hand_b1
+	bounds: 1635, 101, 65, 92
+	rotate: 90
+jumpsuit/HLW/4/Skirt
+	bounds: 401, 1498, 110, 51
+	offsets: 0, 0, 110, 52
+jumpsuit/HLW/4/Skirt_b1
+	bounds: 1941, 1067, 57, 94
+	rotate: 90
+jumpsuit/HLW/4/Skirt_b2
+	bounds: 440, 1608, 55, 50
+jumpsuit/HLW/4/Skirt_f1
+	bounds: 1508, 438, 63, 92
+	rotate: 90
+jumpsuit/HLW/4/Skirt_f2
+	bounds: 497, 1606, 57, 50
+jumpsuit/HLW/5/Shirt_hand_f1
+	bounds: 1729, 101, 65, 89
+	offsets: 0, 2, 67, 91
+	rotate: 90
+jumpsuit/HLW/5/Skirt
+	bounds: 513, 1497, 110, 51
+	offsets: 0, 0, 110, 52
+jumpsuit/HLW/5/Skirt_b1
+	bounds: 63, 1049, 57, 94
+	rotate: 90
+jumpsuit/HLW/5/Skirt_b2
+	bounds: 556, 1604, 55, 50
+jumpsuit/HLW/5/Skirt_f1
+	bounds: 1602, 437, 63, 92
+	rotate: 90
+jumpsuit/HLW/5/Skirt_f2
+	bounds: 613, 1604, 57, 50
+jumpsuit/JS10/Shirt_hand_b1
+	bounds: 1256, 442, 63, 85
+	rotate: 90
+jumpsuit/JS10/Shirt_hand_b2
+	bounds: 1245, 244, 73, 64
+jumpsuit/JS10/Shirt_hand_fb
+	bounds: 1715, 1190, 71, 56
+	offsets: 1, 0, 72, 56
+jumpsuit/JS11/Skirt
+	bounds: 696, 1495, 110, 51
+	offsets: 0, 0, 110, 52
+jumpsuit/JS11/Skirt_b1
+	bounds: 159, 1044, 57, 94
+	rotate: 90
+jumpsuit/JS11/Skirt_b2
+	bounds: 672, 1604, 55, 50
+jumpsuit/JS11/Skirt_f1
+	bounds: 1384, 700, 62, 92
+	offsets: 1, 0, 63, 92
+	rotate: 90
+jumpsuit/JS11/Skirt_f2
+	bounds: 729, 1603, 57, 50
+jumpsuit/JS11/shirt-hand-b1
+	bounds: 508, 465, 63, 82
+	rotate: 90
+jumpsuit/JS2/Shirt_hand_b1
+	bounds: 318, 794, 61, 68
+	offsets: 0, 0, 61, 69
+	rotate: 90
+jumpsuit/JS2/Shirt_hand_f1
+	bounds: 388, 793, 61, 68
+	offsets: 0, 0, 61, 69
+	rotate: 90
+jumpsuit/JS3/Shirt_hand_b1
+	bounds: 1478, 698, 62, 80
+	offsets: 0, 1, 62, 81
+	rotate: 90
+jumpsuit/JS3/Shirt_hand_fb
+	bounds: 1320, 241, 68, 64
+jumpsuit/JS4/Shirt_hand_b1
+	bounds: 1696, 436, 63, 82
+	rotate: 90
+jumpsuit/JS4/Shirt_hand_f1
+	bounds: 1820, 101, 65, 89
+	rotate: 90
+jumpsuit/JS5/Shirt_hand_b1
+	bounds: 553, 977, 62, 58
+jumpsuit/JS5/Shirt_hand_f1
+	bounds: 617, 977, 62, 58
+jumpsuit/JS6/Skirt
+	bounds: 808, 1493, 110, 51
+	offsets: 0, 0, 110, 52
+jumpsuit/JS6/Skirt_b1
+	bounds: 255, 1044, 57, 94
+	rotate: 90
+jumpsuit/JS6/Skirt_b2
+	bounds: 788, 1601, 55, 50
+jumpsuit/JS6/Skirt_f1
+	bounds: 1560, 698, 62, 92
+	offsets: 1, 0, 63, 92
+	rotate: 90
+jumpsuit/JS6/Skirt_f2
+	bounds: 845, 1601, 57, 50
+jumpsuit/JS6/shirt-hand-b1
+	bounds: 1780, 433, 63, 82
+	rotate: 90
+jumpsuit/JS7/Shirt_hand_b1
+	bounds: 1864, 433, 63, 83
+	rotate: 90
+jumpsuit/JS7/Skirt
+	bounds: 1784, 1306, 114, 54
+jumpsuit/JS7/Skirt_b1
+	bounds: 351, 1040, 57, 94
+	rotate: 90
+jumpsuit/JS7/Skirt_b2
+	bounds: 904, 1599, 61, 50
+jumpsuit/JS7/Skirt_f1
+	bounds: 1730, 697, 62, 92
+	offsets: 1, 0, 63, 92
+	rotate: 90
+jumpsuit/JS7/Skirt_f2
+	bounds: 1523, 1535, 63, 52
+jumpsuit/JS8/shirt-hand-b1_fill
+	bounds: 1949, 433, 63, 85
+	rotate: 90
+jumpsuit/JS8/shirt-hand-b2_fill
+	bounds: 1390, 240, 73, 64
+jumpsuit/JS8/shirt-hand-f1_fillb
+	bounds: 1174, 1086, 71, 57
+	offsets: 2, 0, 73, 58
+jumpsuit/JS9/Shirt_hand_b1
+	bounds: 68, 410, 63, 84
+	rotate: 90
+jumpsuit/JS9/Shirt_hand_fb
+	bounds: 724, 594, 65, 63
+longmay/EB1
+	bounds: 1392, 1994, 198, 27
+longmay/EB10
+	bounds: 218, 1861, 197, 37
+longmay/EB11
+	bounds: 2, 1977, 180, 28
+	offsets: 0, 0, 181, 28
+longmay/EB12
+	bounds: 1668, 2022, 196, 22
+longmay/EB13
+	bounds: 289, 1971, 188, 29
+longmay/EB14
+	bounds: 723, 1852, 199, 37
+longmay/EB15
+	bounds: 635, 1272, 197, 55
+longmay/EB16
+	bounds: 92, 1818, 196, 41
+longmay/EB17
+	bounds: 466, 1897, 186, 36
+	offsets: 1, 0, 188, 36
+longmay/EB18
+	bounds: 479, 1969, 194, 28
+longmay/EB19
+	bounds: 839, 1891, 185, 36
+	offsets: 0, 0, 186, 36
+longmay/EB2
+	bounds: 1221, 1996, 130, 27
+longmay/EB20
+	bounds: 647, 1808, 185, 42
+longmay/EB3
+	bounds: 284, 1937, 185, 32
+longmay/EB4
+	bounds: 1327, 1962, 195, 30
+longmay/EB5
+	bounds: 1588, 1959, 187, 30
+longmay/EB6
+	bounds: 471, 1935, 192, 32
+longmay/EB7
+	bounds: 1566, 1924, 189, 33
+	offsets: 0, 0, 190, 33
+longmay/EB8
+	bounds: 726, 1966, 163, 29
+	offsets: 0, 0, 164, 29
+longmay/EB9
+	bounds: 96, 2007, 195, 22
+mouth/MO1
+	bounds: 314, 2028, 58, 16
+mouth/MO10
+	bounds: 1263, 2025, 54, 19
+	offsets: 0, 0, 55, 19
+mouth/MO11
+	bounds: 2, 2009, 24, 41
+	rotate: 90
+mouth/MO12
+	bounds: 463, 1857, 69, 38
+mouth/MO13
+	bounds: 215, 1939, 67, 33
+mouth/MO14
+	bounds: 1866, 2022, 69, 22
+	offsets: 0, 0, 70, 22
+mouth/MO15
+	bounds: 1216, 1803, 65, 43
+	offsets: 0, 0, 66, 43
+mouth/MO16
+	bounds: 1519, 2023, 41, 21
+mouth/MO17
+	bounds: 190, 1901, 58, 36
+mouth/MO18
+	bounds: 154, 408, 63, 82
+	rotate: 90
+mouth/MO19
+	bounds: 681, 974, 70, 58
+	offsets: 0, 1, 70, 60
+mouth/MO2
+	bounds: 1353, 2024, 63, 20
+mouth/MO20
+	bounds: 1418, 2024, 71, 20
+mouth/MO21
+	bounds: 1943, 1785, 62, 45
+	offsets: 0, 0, 62, 46
+mouth/MO22
+	bounds: 479, 2001, 64, 24
+mouth/MO23
+	bounds: 1524, 1961, 62, 31
+mouth/MO24
+	bounds: 545, 2001, 61, 24
+mouth/MO25
+	bounds: 2, 2035, 47, 9
+mouth/MO26
+	bounds: 721, 1931, 62, 33
+	offsets: 0, 0, 63, 33
+mouth/MO27
+	bounds: 1319, 2025, 32, 19
+mouth/MO28
+	bounds: 146, 2033, 40, 11
+mouth/MO29
+	bounds: 1638, 1885, 76, 37
+	offsets: 0, 0, 77, 37
+mouth/MO3
+	bounds: 1562, 2023, 52, 21
+	offsets: 0, 0, 53, 21
+mouth/MO30
+	bounds: 754, 1998, 66, 26
+mouth/MO31
+	bounds: 1757, 1881, 91, 37
+	offsets: 0, 0, 92, 37
+mouth/MO32
+	bounds: 534, 1857, 60, 38
+mouth/MO33
+	bounds: 202, 2031, 62, 13
+mouth/MO4
+	bounds: 1937, 2021, 56, 23
+	offsets: 0, 2, 65, 37
+mouth/MO5
+	bounds: 423, 1899, 36, 41
+	offsets: 0, 1, 37, 42
+	rotate: 90
+mouth/MO6
+	bounds: 1235, 1754, 65, 47
+mouth/MO7
+	bounds: 374, 2028, 69, 16
+	offsets: 0, 0, 70, 16
+mouth/MO8
+	bounds: 857, 1705, 77, 49
+mouth/MO9
+	bounds: 266, 2031, 46, 13
+mouth/mouth_daudaday
+	bounds: 654, 1893, 61, 36
+shirt/TC1/shirt-f
+	bounds: 1564, 104, 65, 69
+	rotate: 90
+shirt/TC10/shirt-hand-b1
+	bounds: 1308, 107, 65, 67
+	rotate: 90
+shirt/TC10/shirt-hand-f
+	bounds: 1654, 698, 62, 74
+	rotate: 90
+shirt/TC10/shirt-hand-fb
+	bounds: 406, 1278, 65, 55
+	offsets: 0, 1, 65, 56
+shirt/TC13/shirt-hand-b1
+	bounds: 717, 1893, 55, 36
+shirt/TC13/shirt-hand-f
+	bounds: 675, 1967, 49, 30
+shirt/TC14/shirt-hand-f
+	bounds: 1465, 240, 64, 68
+	offsets: 1, 0, 65, 69
+	rotate: 90
+shirt/TC17/shirt-hand-f
+	bounds: 1535, 239, 64, 76
+	rotate: 90
+shirt/TC18/shirt-hand-b1_fill
+	bounds: 1824, 693, 62, 85
+	rotate: 90
+shirt/TC18/shirt-hand-f_fill
+	bounds: 1911, 101, 65, 89
+	offsets: 0, 0, 65, 90
+	rotate: 90
+shirt/TC2/shirt-f
+	bounds: 869, 783, 61, 89
+	rotate: 90
+shirt/TC2/shirt-hand-b1
+	bounds: 1076, 905, 59, 82
+	rotate: 90
+shirt/TC20/shirt-hand-f
+	bounds: 1613, 238, 64, 76
+	rotate: 90
+shirt/TC21/shirt-hand-b1
+	bounds: 1685, 1582, 55, 51
+shirt/TC21/shirt-hand-fb
+	bounds: 967, 1599, 70, 50
+shirt/TC22/shirt-hand-b1_fill1
+	bounds: 1691, 235, 64, 81
+	rotate: 90
+shirt/TC22/shirt-hand-b1_fill2
+	bounds: 1588, 1531, 63, 52
+shirt/TC22/shirt-hand-b1_fill22
+	bounds: 1788, 1190, 63, 56
+shirt/TC22/shirt-hand-f_fill
+	bounds: 1774, 235, 64, 87
+	rotate: 90
+shirt/TC22/shirt-hand-f_fillb
+	bounds: 1039, 1599, 62, 50
+	offsets: 0, 0, 62, 52
+shirt/TC23/shirt-hand-f
+	bounds: 548, 791, 61, 68
+	offsets: 0, 0, 61, 69
+	rotate: 90
+shirt/TC24/shirt-hand-f
+	bounds: 1863, 235, 64, 76
+	rotate: 90
+shirt/TC26/Shirt_hand_b1
+	bounds: 309, 404, 63, 84
+	rotate: 90
+shirt/TC26/Shirt_hand_fb
+	bounds: 567, 1274, 66, 55
+shirt/TC27/shirt-hand-b1
+	bounds: 395, 403, 63, 84
+	rotate: 90
+shirt/TC27/shirt-hand-b2
+	bounds: 684, 464, 72, 63
+	offsets: 0, 0, 73, 64
+shirt/TC27/shirt-hand-fb
+	bounds: 753, 974, 72, 58
+shirt/TC3/shirt-f
+	bounds: 802, 787, 61, 65
+	rotate: 90
+shirt/TC5/shirt-hand-b1
+	bounds: 2, 76, 65, 90
+	offsets: 0, 0, 66, 90
+	rotate: 90
+shirt/TC6/shirt-hand-f
+	bounds: 960, 780, 61, 72
+	offsets: 0, 0, 61, 73
+	rotate: 90
+shirt/TC7/shirt-hand-b1
+	bounds: 827, 974, 58, 74
+	offsets: 0, 0, 59, 74
+	rotate: 90
+shirt/TC8/shirt-hand-f
+	bounds: 1034, 779, 61, 72
+	offsets: 0, 0, 61, 73
+	rotate: 90
+shoe/HLW/Shoes_1b
+	bounds: 1911, 693, 118, 62
+shoe/HLW/Shoes_1f
+	bounds: 1911, 693, 118, 62
+shoe/HLW/Shoes_2b
+	bounds: 71, 670, 98, 62
+shoe/HLW/Shoes_2f
+	bounds: 71, 670, 98, 62
+shoe/HLW/Shoes_3b
+	bounds: 171, 668, 101, 62
+shoe/HLW/Shoes_3f
+	bounds: 274, 666, 100, 62
+shoe/Shoe1_b
+	bounds: 94, 73, 88, 65
+shoe/Shoe1_f
+	bounds: 184, 72, 92, 65
+shoe/Shoe2_b
+	bounds: 526, 854, 94, 60
+shoe/Shoe2_f
+	bounds: 1108, 775, 91, 61
+shoe/Shoe3_b
+	bounds: 368, 65, 99, 65
+shoe/Shoe3_f
+	bounds: 368, 65, 99, 65
+shoe/Shoe5_fill_b
+	bounds: 195, 1720, 89, 48
+shoe/Shoe5_fill_f
+	bounds: 286, 1717, 90, 48
+shoe/Shoe6_b
+	bounds: 1853, 1189, 90, 56
+shoe/Shoe6_f
+	bounds: 1945, 1185, 96, 56
+shoe/Shoe7_b
+	bounds: 1040, 967, 95, 58
+shoe/Shoe7_f
+	bounds: 1207, 963, 95, 58
+skirt/Skirt_10/Skirt_10
+	bounds: 212, 1395, 112, 52
+skirt/Skirt_10/Skirt_10b1
+	bounds: 903, 974, 58, 65
+	offsets: 0, 0, 59, 65
+	rotate: 90
+skirt/Skirt_10/Skirt_10f1
+	bounds: 577, 1097, 60, 57
+skirt/Skirt_12/Skirt_12_fill
+	bounds: 386, 1390, 112, 52
+skirt/Skirt_12/Skirt_12b_fill
+	bounds: 378, 1713, 57, 48
+	offsets: 0, 1, 57, 56
+skirt/Skirt_12/Skirt_12f_fill
+	bounds: 114, 1563, 59, 51
+skirt/Skirt_13/Skirt_13
+	bounds: 500, 1387, 112, 52
+skirt/Skirt_13/Skirt_13b1
+	bounds: 124, 1167, 56, 92
+	offsets: 0, 0, 57, 93
+	rotate: 90
+skirt/Skirt_13/Skirt_13b2
+	bounds: 437, 1713, 53, 48
+	offsets: 0, 0, 54, 48
+skirt/Skirt_13/Skirt_13f1
+	bounds: 1201, 773, 61, 90
+	offsets: 2, 0, 63, 96
+	rotate: 90
+skirt/Skirt_13/Skirt_13f2
+	bounds: 326, 1336, 56, 55
+	offsets: 2, 1, 58, 56
+skirt/Skirt_14/Skirt_14
+	bounds: 614, 1387, 112, 52
+skirt/Skirt_14/Skirt_14b1
+	bounds: 218, 1162, 56, 92
+	offsets: 0, 0, 57, 93
+	rotate: 90
+skirt/Skirt_14/Skirt_14b2
+	bounds: 1050, 1703, 54, 49
+skirt/Skirt_14/Skirt_14f1
+	bounds: 445, 663, 62, 90
+	rotate: 90
+skirt/Skirt_14/Skirt_14f2
+	bounds: 175, 1561, 58, 51
+skirt/Skirt_15/Skirt_15
+	bounds: 728, 1385, 112, 52
+skirt/Skirt_15/Skirt_15b1
+	bounds: 326, 1393, 54, 58
+	offsets: 0, 0, 54, 65
+	rotate: 90
+skirt/Skirt_15/Skirt_15f1
+	bounds: 1900, 1305, 55, 55
+skirt/Skirt_18/Skirt_18
+	bounds: 842, 1385, 112, 52
+skirt/Skirt_18/Skirt_18b1
+	bounds: 312, 1162, 56, 92
+	offsets: 0, 0, 57, 93
+	rotate: 90
+skirt/Skirt_18/Skirt_18b2
+	bounds: 1106, 1703, 53, 49
+	offsets: 1, 0, 54, 49
+skirt/Skirt_18/Skirt_18f1
+	bounds: 1941, 235, 64, 96
+	rotate: 90
+skirt/Skirt_18/Skirt_18f2
+	bounds: 2, 1052, 59, 59
+	offsets: 1, 0, 60, 59
+skirt/Skirt_20/Skirt_20
+	bounds: 956, 1384, 112, 52
+skirt/Skirt_20/Skirt_20b1
+	bounds: 406, 1158, 56, 92
+	offsets: 0, 0, 57, 93
+	rotate: 90
+skirt/Skirt_20/Skirt_20b2
+	bounds: 1161, 1703, 54, 49
+skirt/Skirt_20/Skirt_20f1
+	bounds: 1293, 768, 61, 90
+	offsets: 1, 0, 62, 91
+	rotate: 90
+skirt/Skirt_20/Skirt_20f2
+	bounds: 70, 928, 60, 59
+	offsets: 0, 0, 60, 61
+skirt/Skirt_4/Skirt_4
+	bounds: 920, 1493, 110, 51
+	offsets: 0, 0, 110, 52
+skirt/Skirt_4/Skirt_4b1
+	bounds: 447, 1040, 57, 94
+	rotate: 90
+skirt/Skirt_4/Skirt_4b2
+	bounds: 1103, 1599, 55, 50
+skirt/Skirt_4/Skirt_4f1
+	bounds: 606, 659, 62, 92
+	offsets: 1, 0, 63, 92
+	rotate: 90
+skirt/Skirt_4/Skirt_4f2
+	bounds: 1160, 1599, 56, 50
+	offsets: 1, 0, 57, 50
+skirt/Skirt_6/Skirt_6
+	bounds: 1133, 1377, 112, 52
+skirt/Skirt_6/Skirt_6b1
+	bounds: 970, 970, 58, 68
+	offsets: 0, 0, 59, 68
+	rotate: 90
+skirt/Skirt_6/Skirt_6f1
+	bounds: 2, 1172, 59, 56
+skirt/Skirt_7/Skirt_7b1_fill
+	bounds: 1137, 966, 58, 68
+	offsets: 0, 0, 59, 68
+	rotate: 90
+skirt/Skirt_7/Skirt_7f1_fill
+	bounds: 63, 1169, 59, 56
+	offsets: 0, 0, 59, 57
+skirt/Skirt_8/Skirt_8_fill
+	bounds: 1032, 1492, 110, 51
+	offsets: 0, 0, 110, 52
+skirt/Skirt_8/Skirt_8b2_fill
+	bounds: 1218, 1597, 55, 50
+skirt/Skirt_8/Skirt_8f2_fill
+	bounds: 1275, 1593, 57, 50
+skirt/Skirt_noel_1/Skirt
+	bounds: 1247, 1376, 112, 52
+skirt/Skirt_noel_1/Skirt_b1
+	bounds: 500, 1158, 56, 82
+	offsets: 0, 0, 56, 83
+	rotate: 90
+skirt/Skirt_noel_1/Skirt_b2
+	bounds: 56, 1943, 50, 32
+	offsets: 0, 1, 50, 33
+skirt/Skirt_noel_1/Skirt_f1
+	bounds: 700, 659, 62, 90
+	rotate: 90
+skirt/Skirt_noel_1/Skirt_f2
+	bounds: 1283, 1803, 53, 43
+	offsets: 1, 0, 54, 43
+skirt/Skirt_noel_2/Skirt
+	bounds: 609, 1037, 112, 57
+skirt/Skirt_noel_2/Skirt_b1
+	bounds: 70, 210, 64, 74
+	rotate: 90
+skirt/Skirt_noel_2/Skirt_f1
+	bounds: 146, 207, 64, 73
+	offsets: 0, 0, 64, 78
+	rotate: 90
+staff/shirt-hand-b1
+	bounds: 221, 206, 64, 92
+	rotate: 90
+staff/shirt-hand-b2
+	bounds: 315, 205, 73, 64
+	offsets: 1, 1, 75, 66
+staff/shirt-hand-f1
+	bounds: 469, 65, 65, 91
+	rotate: 90
+staff/shirt-hand-f2
+	bounds: 390, 201, 73, 64
+	offsets: 1, 1, 75, 66
+sticker/sticker1
+	bounds: 1781, 1789, 55, 44
+sticker/sticker2
+	bounds: 584, 1156, 56, 58
+	offsets: 0, 0, 57, 58
+	rotate: 90
+sticker/sticker3
+	bounds: 222, 1450, 61, 53
+sticker/sticker4
+	bounds: 1217, 1703, 56, 49
+sticker/sticker5
+	bounds: 226, 1505, 61, 52
+	offsets: 0, 1, 61, 53
+sticker/sticker6
+	bounds: 1275, 1701, 54, 49
+
+Character_2.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	pma: true
+Clothes_Floor2/1/Shirt_body
+	bounds: 2, 16, 106, 100
+Clothes_Floor2/1/Shoe1_b
+	bounds: 101, 744, 98, 77
+Clothes_Floor2/1/Shoe1_f
+	bounds: 101, 744, 98, 77
+Clothes_Floor2/1/Skirt
+	bounds: 508, 1049, 151, 73
+Clothes_Floor2/10/Shirt_hand_b2
+	bounds: 649, 1271, 71, 73
+	offsets: 0, 0, 74, 78
+	rotate: 90
+Clothes_Floor2/10/Shirt_hand_b22
+	bounds: 724, 1271, 71, 77
+	rotate: 90
+Clothes_Floor2/10/Shirt_hand_f2
+	bounds: 1116, 1699, 69, 69
+Clothes_Floor2/10/Shoe6_b
+	bounds: 1428, 1908, 100, 67
+Clothes_Floor2/10/Shoe6_f
+	bounds: 1428, 1908, 100, 67
+Clothes_Floor2/10/Skirt
+	bounds: 1530, 1908, 123, 67
+Clothes_Floor2/11/Shirt_body
+	bounds: 2, 118, 106, 100
+Clothes_Floor2/11/Shirt_hand_b2
+	bounds: 803, 1271, 71, 74
+	offsets: 0, 0, 74, 78
+	rotate: 90
+Clothes_Floor2/11/Shirt_hand_b22
+	bounds: 946, 1196, 72, 77
+	offsets: 0, 0, 74, 78
+	rotate: 90
+Clothes_Floor2/11/Shirt_hand_f2
+	bounds: 1976, 1555, 70, 70
+Clothes_Floor2/11/Skirt
+	bounds: 355, 1050, 151, 73
+Clothes_Floor2/2/Shirt_hand_b1
+	bounds: 879, 1270, 71, 101
+	rotate: 90
+Clothes_Floor2/2/Shirt_hand_b2
+	bounds: 1025, 1195, 72, 85
+	rotate: 90
+Clothes_Floor2/2/Shirt_hand_b22
+	bounds: 661, 1049, 73, 94
+	rotate: 90
+Clothes_Floor2/2/Shirt_hand_f1
+	bounds: 1112, 1195, 72, 100
+	rotate: 90
+Clothes_Floor2/2/Shirt_hand_f2
+	bounds: 1214, 1195, 72, 85
+	rotate: 90
+Clothes_Floor2/3/Shirt_body
+	bounds: 785, 205, 106, 96
+	offsets: 0, 0, 106, 99
+Clothes_Floor2/4/Shirt_body
+	bounds: 131, 310, 104, 91
+Clothes_Floor2/4/Shoe2_b
+	bounds: 201, 743, 98, 77
+Clothes_Floor2/4/Shoe2_f
+	bounds: 201, 743, 98, 77
+Clothes_Floor2/5/Shoe3_b
+	bounds: 1655, 1908, 98, 67
+Clothes_Floor2/5/Shoe3_f
+	bounds: 1655, 1908, 98, 67
+Clothes_Floor2/6/Shirt_hand_b2
+	bounds: 982, 1270, 71, 73
+	offsets: 0, 0, 74, 78
+	rotate: 90
+Clothes_Floor2/6/Shirt_hand_b22
+	bounds: 1057, 1269, 71, 77
+	rotate: 90
+Clothes_Floor2/6/Shirt_hand_f2
+	bounds: 1187, 1699, 69, 69
+Clothes_Floor2/8/Shoe5_b
+	bounds: 1755, 1908, 98, 67
+Clothes_Floor2/8/Shoe5_f
+	bounds: 1755, 1908, 98, 67
+Clothes_Floor2/jacket_1/Shirt_hand_b2
+	bounds: 1258, 1699, 69, 71
+	rotate: 90
+Clothes_Floor2/jacket_1/Shirt_hand_b22
+	bounds: 1761, 1413, 70, 77
+	rotate: 90
+Clothes_Floor2/jacket_1/Shirt_hand_f2
+	bounds: 1331, 1698, 69, 70
+	offsets: 0, 0, 69, 71
+	rotate: 90
+Clothes_Floor2/jacket_2/Shirt_hand_b2
+	bounds: 1403, 1698, 69, 71
+	offsets: 0, 0, 70, 71
+	rotate: 90
+Clothes_Floor2/jacket_2/Shirt_hand_b22
+	bounds: 1840, 1413, 70, 77
+	rotate: 90
+Clothes_Floor2/jacket_2/Shirt_hand_f2
+	bounds: 1476, 1698, 69, 70
+	offsets: 1, 0, 70, 71
+	rotate: 90
+Clothes_Floor2/jacket_3/Shirt_hand_b2
+	bounds: 1548, 1698, 69, 71
+	rotate: 90
+Clothes_Floor2/jacket_3/Shirt_hand_b22
+	bounds: 1919, 1412, 70, 78
+	rotate: 90
+Clothes_Floor2/jacket_3/Shirt_hand_f2
+	bounds: 1621, 1698, 69, 71
+	rotate: 90
+DailyLogin/Necklace/Necklace_1
+	bounds: 269, 661, 79, 85
+	rotate: 90
+DailyLogin/Necklace/Necklace_2
+	bounds: 1694, 1698, 91, 69
+DailyLogin/Shirt/1/Shirt_hand_b2
+	bounds: 1855, 1908, 67, 71
+	offsets: 0, 1, 72, 82
+	rotate: 90
+DailyLogin/Shirt/1/Shirt_hand_b22
+	bounds: 1928, 1908, 67, 79
+	offsets: 0, 1, 72, 82
+	rotate: 90
+DailyLogin/Shirt/2/Shirt_hand_b2
+	bounds: 2, 1840, 67, 76
+	offsets: 0, 0, 69, 77
+	rotate: 90
+DailyLogin/Shirt/2/Shirt_hand_b22
+	bounds: 352, 1770, 68, 82
+	offsets: 0, 0, 69, 82
+	rotate: 90
+DailyLogin/Shoes/Shoes_b
+	bounds: 436, 1770, 96, 68
+DailyLogin/Shoes/Shoes_f
+	bounds: 534, 1770, 98, 68
+DailyLogin/Skirt/2/Skirt
+	bounds: 724, 737, 126, 78
+Eyelid/eyelid_spa1
+	bounds: 1787, 1698, 202, 69
+	offsets: 3, 4, 228, 77
+Eyelid/eyelid_spa2
+	bounds: 2, 1630, 202, 69
+	offsets: 3, 4, 228, 77
+Eyelid/eyelid_spa3
+	bounds: 304, 1629, 202, 69
+	offsets: 3, 4, 228, 77
+Eyelid/face_eyelid_1
+	bounds: 508, 1629, 202, 69
+	offsets: 3, 4, 228, 77
+Eyelid/face_eyelid_10
+	bounds: 712, 1629, 202, 69
+	offsets: 3, 4, 228, 77
+Eyelid/face_eyelid_11
+	bounds: 1062, 1628, 202, 69
+	offsets: 3, 4, 228, 77
+Eyelid/face_eyelid_12
+	bounds: 1266, 1627, 202, 69
+	offsets: 3, 4, 228, 77
+Eyelid/face_eyelid_2
+	bounds: 1470, 1627, 202, 69
+	offsets: 3, 4, 228, 77
+Eyelid/face_eyelid_3
+	bounds: 1674, 1627, 202, 69
+	offsets: 3, 4, 228, 77
+Eyelid/face_eyelid_4
+	bounds: 2, 1559, 202, 69
+	offsets: 3, 4, 228, 77
+Eyelid/face_eyelid_5
+	bounds: 278, 1558, 202, 69
+	offsets: 3, 4, 228, 77
+Eyelid/face_eyelid_6
+	bounds: 482, 1558, 202, 69
+	offsets: 3, 4, 228, 77
+Face/face_3
+	bounds: 1374, 295, 237, 91
+	offsets: 10, 8, 258, 108
+Face/face_4
+	bounds: 1507, 196, 214, 96
+	offsets: 1, 2, 226, 107
+Face/face_6
+	bounds: 401, 210, 222, 93
+	offsets: 3, 8, 241, 112
+Face/face_hurt
+	bounds: 356, 661, 79, 88
+	rotate: 90
+Face/face_hurt2
+	bounds: 631, 739, 78, 91
+	offsets: 0, 2, 89, 102
+	rotate: 90
+Fx_Wind/4
+	bounds: 1788, 651, 175, 80
+	offsets: 7, 0, 191, 80
+Fx_Wind/5
+	bounds: 263, 579, 186, 80
+	offsets: 3, 0, 191, 80
+Fx_Wind/6
+	bounds: 2, 582, 165, 80
+	offsets: 12, 0, 191, 80
+Glasses/11
+	bounds: 380, 111, 295, 95
+Glasses/3
+	bounds: 963, 815, 291, 76
+Glasses/7
+	bounds: 1162, 480, 291, 86
+Glasses/Basic_2
+	bounds: 237, 307, 292, 89
+Glasses/Basic_2b
+	bounds: 637, 303, 292, 89
+Glasses/HLW/4
+	bounds: 513, 8, 312, 97
+Glasses/Spa/Glasses_1
+	bounds: 110, 13, 293, 96
+Glasses/Spa/Glasses_2
+	bounds: 677, 107, 295, 95
+Glasses/Spa/Glasses_2B
+	bounds: 206, 1630, 69, 96
+	rotate: 90
+Glasses/Spa/Glasses_3
+	bounds: 942, 2, 301, 98
+Gothic/1/Glasses
+	bounds: 361, 398, 297, 86
+Gothic/1/Shirt_hand_f2
+	bounds: 1878, 1627, 69, 72
+	rotate: 90
+Gothic/1/Skirt
+	bounds: 2, 1345, 124, 70
+Gothic/10/Glasses
+	bounds: 1353, 388, 295, 88
+Gothic/10/Shirt_hand_b2
+	bounds: 1301, 1195, 72, 76
+	rotate: 90
+Gothic/1/Shirt_hand_b2
+	bounds: 1301, 1195, 72, 76
+	rotate: 90
+Gothic/10/Shirt_hand_b22
+	bounds: 1379, 1195, 72, 80
+	rotate: 90
+Gothic/1/Shirt_hand_b22
+	bounds: 1379, 1195, 72, 80
+	rotate: 90
+Gothic/10/Shirt_hand_f2
+	bounds: 916, 1629, 69, 70
+	offsets: 0, 0, 69, 72
+	rotate: 90
+Gothic/10/Skirt
+	bounds: 1455, 478, 146, 87
+	offsets: 0, 0, 146, 105
+Gothic/10/jacket/Shirt_hand_b2
+	bounds: 1461, 1195, 72, 76
+	rotate: 90
+Gothic/10/jacket/Shirt_hand_b22
+	bounds: 1539, 1195, 72, 80
+	rotate: 90
+Gothic/10/jacket/Shirt_hand_f2
+	bounds: 988, 1629, 69, 72
+	rotate: 90
+Gothic/11/Shirt_hand_b1
+	bounds: 80, 1840, 67, 95
+	rotate: 90
+Gothic/11/Shirt_hand_b2
+	bounds: 757, 1048, 73, 78
+	offsets: 0, 0, 74, 78
+	rotate: 90
+Gothic/11/Shirt_hand_b22
+	bounds: 977, 970, 74, 85
+	rotate: 90
+Gothic/11/Shirt_hand_f2
+	bounds: 1621, 1195, 72, 76
+	offsets: 2, 0, 74, 78
+	rotate: 90
+Gothic/11/jacket/Shirt_body
+	bounds: 1075, 200, 116, 97
+	offsets: 0, 0, 117, 97
+Gothic/11/jacket/Shirt_hand_b2
+	bounds: 837, 1048, 73, 78
+	offsets: 0, 0, 74, 78
+	rotate: 90
+Gothic/11/jacket/Shirt_hand_b22
+	bounds: 1064, 970, 74, 85
+	rotate: 90
+Gothic/11/jacket/Shirt_hand_f2
+	bounds: 1699, 1194, 72, 77
+	offsets: 2, 0, 74, 78
+	rotate: 90
+Gothic/12/Shirt_hand_b2
+	bounds: 917, 1047, 73, 78
+	offsets: 0, 0, 74, 78
+	rotate: 90
+Gothic/12/Shirt_hand_b22
+	bounds: 997, 1046, 73, 85
+	offsets: 0, 0, 74, 85
+	rotate: 90
+Gothic/12/Shirt_hand_f2
+	bounds: 1136, 1269, 71, 74
+	offsets: 3, 0, 74, 78
+	rotate: 90
+Gothic/2/Skirt
+	bounds: 177, 1840, 157, 67
+Gothic/3/Glasses
+	bounds: 974, 102, 295, 95
+Gothic/4/Glasses
+	bounds: 867, 482, 293, 85
+Gothic/4/Shirt_hand_b1
+	bounds: 221, 1344, 70, 95
+	rotate: 90
+Gothic/4/Shirt_hand_b2
+	bounds: 1778, 1193, 72, 85
+	rotate: 90
+Gothic/4/Shirt_hand_b22
+	bounds: 1151, 970, 74, 89
+	rotate: 90
+Gothic/4/Shirt_hand_f1
+	bounds: 318, 1344, 70, 95
+	rotate: 90
+Gothic/4/Shirt_hand_f2
+	bounds: 1865, 1193, 72, 82
+	offsets: 0, 0, 72, 85
+	rotate: 90
+Gothic/6/Shirt_hand_b1
+	bounds: 415, 1344, 70, 95
+	rotate: 90
+Gothic/6/Shirt_hand_b2
+	bounds: 1949, 1193, 72, 85
+	rotate: 90
+Gothic/6/Shirt_hand_b22
+	bounds: 1242, 970, 74, 89
+	rotate: 90
+Gothic/6/Shirt_hand_f1
+	bounds: 512, 1344, 70, 95
+	rotate: 90
+Gothic/6/Shirt_hand_f2
+	bounds: 2, 1126, 72, 82
+	offsets: 0, 0, 72, 85
+	rotate: 90
+Gothic/6/Skirt
+	bounds: 110, 114, 155, 98
+Gothic/7/Skirt
+	bounds: 628, 573, 186, 81
+Gothic/8/Skirt
+	bounds: 1193, 199, 154, 95
+Gothic/9/Shirt_hand_b2
+	bounds: 86, 1125, 72, 76
+	rotate: 90
+Gothic/9/Shirt_hand_b22
+	bounds: 164, 1125, 72, 80
+	rotate: 90
+Gothic/9/Shirt_hand_f2
+	bounds: 1952, 1627, 69, 72
+	rotate: 90
+Gothic/9/Skirt
+	bounds: 1084, 1046, 150, 73
+Gothic/earring/2
+	bounds: 1236, 1046, 73, 115
+	rotate: 90
+Hospital/BacSi/Shirt_hand_b22
+	bounds: 1353, 1046, 73, 75
+	rotate: 90
+TeacherAndStudent/GV4/Shirt_hand_b22
+	bounds: 1353, 1046, 73, 75
+	rotate: 90
+Hospital/BangTay/bangchan_f1
+	bounds: 1430, 1046, 73, 99
+	offsets: 0, 4, 73, 103
+	rotate: 90
+Hospital/BangTay/bangtay_f1
+	bounds: 1531, 1046, 73, 94
+	rotate: 90
+Hospital/BangTay/bangtay_f2
+	bounds: 136, 493, 85, 103
+	offsets: 1, 0, 86, 103
+	rotate: 90
+Hospital/BenhNhan/Shirt_hand_b2
+	bounds: 645, 819, 76, 77
+	rotate: 90
+Hospital/BenhNhan/Shirt_hand_b22
+	bounds: 852, 737, 78, 85
+	rotate: 90
+Hospital/YTa/Skirt
+	bounds: 1962, 513, 132, 84
+	rotate: 90
+KPop/1/Shoe1_b
+	bounds: 1933, 422, 101, 89
+KPop/1/Shoe1_f
+	bounds: 1933, 422, 101, 89
+KPop/1/jacket/Shirt_body
+	bounds: 1207, 893, 112, 75
+KPop/1/jacket/Shirt_hand_b2
+	bounds: 206, 1559, 70, 69
+KPop/1/jacket/Shirt_hand_b22
+	bounds: 1321, 893, 75, 85
+	rotate: 90
+KPop/1/jacket/Shirt_hand_f2
+	bounds: 686, 1558, 69, 81
+	rotate: 90
+KPop/10/Glasses
+	bounds: 660, 394, 297, 86
+KPop/10/Shirt_hand_b2
+	bounds: 336, 1840, 67, 71
+	offsets: 0, 0, 67, 72
+	rotate: 90
+KPop/10/Skirt
+	bounds: 1903, 235, 133, 93
+KPop/11/Shirt_body
+	bounds: 1723, 193, 103, 97
+	offsets: 4, 0, 107, 97
+KPop/11/Shoe11_b
+	bounds: 1212, 1269, 93, 71
+	offsets: 0, 2, 93, 73
+KPop/11/Shoe11_f
+	bounds: 1307, 1269, 92, 71
+	offsets: 0, 2, 92, 73
+KPop/11/Skirt
+	bounds: 976, 893, 131, 75
+KPop/11/jacket/Shirt_body
+	bounds: 446, 661, 119, 79
+KPop/11/jacket/Shirt_hand_b1
+	bounds: 634, 1770, 75, 68
+	offsets: 0, 0, 75, 78
+KPop/11/jacket/Shirt_hand_b22
+	bounds: 567, 658, 79, 86
+	offsets: 0, 1, 79, 88
+	rotate: 90
+KPop/11/jacket/Shirt_hand_f1
+	bounds: 779, 896, 75, 77
+	offsets: 0, 0, 75, 78
+	rotate: 90
+KPop/12/Shirt_body
+	bounds: 1922, 330, 107, 90
+KPop/12/Shirt_hand_f1
+	bounds: 246, 1125, 72, 88
+	offsets: 0, 1, 72, 89
+	rotate: 90
+KPop/12/Shirt_hand_f2
+	bounds: 711, 1770, 77, 68
+KPop/12/Shoe12_b
+	bounds: 336, 1125, 93, 72
+	offsets: 0, 1, 93, 73
+KPop/12/Shoe12_f
+	bounds: 431, 1125, 94, 72
+	offsets: 0, 1, 94, 73
+KPop/13/Shirt_body
+	bounds: 1705, 92, 108, 99
+KPop/13/Shirt_hand_b22
+	bounds: 409, 1840, 67, 83
+	rotate: 90
+KPop/13/Skirt
+	bounds: 2, 1977, 126, 66
+KPop/14/Glasses
+	bounds: 939, 735, 289, 78
+KPop/14/Shirt_body
+	bounds: 2, 220, 107, 94
+KPop/14/Shoe14_b
+	bounds: 655, 656, 93, 79
+KPop/14/Shoe14_f
+	bounds: 750, 656, 94, 79
+KPop/15/Shirt_body
+	bounds: 858, 895, 116, 75
+KPop/15/Shoe15_b
+	bounds: 1230, 735, 96, 78
+KPop/15/Shoe15_f
+	bounds: 1328, 735, 93, 78
+KPop/15/Skirt
+	bounds: 931, 300, 147, 90
+KPop/16/Glasses
+	bounds: 1568, 96, 135, 98
+KPop/16/Shoe16_b
+	bounds: 1109, 893, 96, 75
+KPop/16/Shoe16_f
+	bounds: 1627, 1045, 93, 73
+KPop/17/Shoe17_b
+	bounds: 1722, 1044, 95, 73
+KPop/17/Shoe17_f
+	bounds: 1819, 1044, 92, 73
+KPop/17/jacket/Shirt_hand_b2
+	bounds: 724, 818, 76, 79
+	offsets: 0, 0, 76, 80
+	rotate: 90
+KPop/17/jacket/Shirt_hand_b22
+	bounds: 1423, 735, 78, 86
+	offsets: 0, 0, 78, 87
+	rotate: 90
+KPop/17/jacket/Shirt_hand_f2
+	bounds: 1333, 970, 74, 75
+	offsets: 0, 0, 75, 75
+	rotate: 90
+KPop/18/Shoe18_b
+	bounds: 1913, 1044, 92, 73
+	offsets: 0, 1, 92, 74
+KPop/18/Shoe18_f
+	bounds: 609, 1344, 94, 70
+	offsets: 0, 3, 94, 73
+KPop/18/jacket/Shirt_hand_b2
+	bounds: 494, 1840, 67, 77
+	rotate: 90
+KPop/18/jacket/Shirt_hand_b22
+	bounds: 128, 1345, 70, 91
+	offsets: 0, 0, 70, 92
+	rotate: 90
+KPop/18/jacket/Shirt_hand_f2
+	bounds: 573, 1840, 67, 72
+	rotate: 90
+KPop/2/Shirt_hand_b22
+	bounds: 805, 817, 77, 76
+KPop/2/Shoe2_b
+	bounds: 1511, 734, 100, 78
+KPop/2/Shoe2_f
+	bounds: 1511, 734, 100, 78
+KPop/3/Shirt_body
+	bounds: 1828, 136, 122, 97
+KPop/3/Shirt_hand_b22
+	bounds: 790, 1770, 68, 79
+	offsets: 1, 0, 69, 79
+	rotate: 90
+KPop/3/Shoe3_b
+	bounds: 769, 1558, 95, 69
+KPop/3/Shoe3_f
+	bounds: 769, 1558, 95, 69
+KPop/4/Shirt_hand_b22
+	bounds: 871, 1770, 68, 79
+	offsets: 1, 0, 69, 79
+	rotate: 90
+KPop/4/Shoe4_b
+	bounds: 647, 1840, 95, 67
+KPop/4/Shoe4_f
+	bounds: 647, 1840, 95, 67
+KPop/5/Shoe5_b
+	bounds: 1256, 815, 94, 76
+KPop/5/Shoe5_f
+	bounds: 1352, 815, 94, 76
+KPop/6/Shoe6_b
+	bounds: 1401, 1269, 95, 71
+	offsets: 0, 2, 95, 73
+KPop/6/Shoe6_f
+	bounds: 1498, 1269, 94, 71
+	offsets: 0, 2, 94, 73
+KPop/7/Shirt_body
+	bounds: 705, 1344, 96, 70
+KPop/7/Shirt_hand_b22
+	bounds: 884, 817, 77, 76
+KPop/7/Shoe7_b
+	bounds: 866, 1558, 95, 69
+KPop/7/Shoe7_f
+	bounds: 803, 1344, 92, 70
+KPop/7/Skirt
+	bounds: 241, 492, 124, 85
+KPop/8/Shoe8_b
+	bounds: 527, 1124, 93, 72
+	offsets: 0, 2, 93, 74
+KPop/8/Shoe8_f
+	bounds: 622, 1124, 92, 72
+	offsets: 0, 1, 92, 73
+KPop/8/Skirt
+	bounds: 1594, 1269, 150, 71
+KPop/8/jacket/Shirt_hand_b2
+	bounds: 963, 1558, 69, 72
+	offsets: 0, 0, 72, 73
+	rotate: 90
+KPop/8/jacket/Shirt_hand_b22
+	bounds: 77, 976, 73, 88
+	rotate: 90
+KPop/8/jacket/Shirt_hand_f2
+	bounds: 897, 1343, 70, 72
+	offsets: 2, 0, 72, 73
+	rotate: 90
+KPop/9/Shirt_hand_b2
+	bounds: 1408, 893, 75, 75
+	offsets: 0, 0, 76, 75
+KPop/9/Shirt_hand_b22
+	bounds: 301, 742, 77, 91
+	rotate: 90
+KPop/9/Shirt_hand_f2
+	bounds: 1410, 970, 74, 75
+	offsets: 1, 0, 76, 75
+	rotate: 90
+KPop/9/Shoe9_b
+	bounds: 938, 654, 95, 79
+KPop/9/Shoe9_f
+	bounds: 1035, 654, 93, 79
+KPop/9/Skirt
+	bounds: 1130, 654, 161, 79
+KPop/earring/13
+	bounds: 1487, 970, 74, 106
+	offsets: 0, 1, 74, 108
+	rotate: 90
+KPop/earring/16
+	bounds: 971, 1343, 70, 132
+	offsets: 1, 0, 71, 132
+	rotate: 90
+KPop/earring/4
+	bounds: 1037, 1557, 69, 78
+	offsets: 0, 0, 69, 79
+	rotate: 90
+KPop/earring/6
+	bounds: 1105, 1342, 70, 125
+	offsets: 0, 0, 71, 125
+	rotate: 90
+LunarNewYear/China2/shirt-hand-b22
+	bounds: 952, 1770, 68, 72
+	rotate: 90
+LunarNewYear/Korea2/Shoe_f
+	bounds: 1117, 1557, 92, 69
+LunarNewYear/Shirt/Shirt1/Shirt_hand_b1
+	bounds: 1026, 1770, 68, 90
+	offsets: 0, 0, 68, 91
+	rotate: 90
+LunarNewYear/Shirt/Shirt1/Shirt_hand_b2
+	bounds: 778, 484, 87, 86
+LunarNewYear/Shirt/Shirt1/Shirt_hand_b22
+	bounds: 531, 305, 91, 104
+	rotate: 90
+LunarNewYear/Shirt/Shirt1/Shirt_hand_f1
+	bounds: 1118, 1770, 68, 90
+	offsets: 0, 0, 68, 91
+	rotate: 90
+LunarNewYear/Shirt/Shirt1/Shirt_hand_f2
+	bounds: 990, 569, 85, 83
+	offsets: 2, 0, 87, 86
+LunarNewYear/Shirt/Shirt2/Shirt_hand_b1
+	bounds: 1595, 969, 74, 93
+	rotate: 90
+LunarNewYear/Shirt/Shirt2/Shirt_hand_b2
+	bounds: 451, 577, 82, 83
+	offsets: 1, 0, 83, 83
+	rotate: 90
+LunarNewYear/Shirt/Shirt2/Shirt_hand_b22
+	bounds: 367, 490, 85, 100
+	offsets: 1, 0, 86, 100
+	rotate: 90
+LunarNewYear/Shirt/Shirt2/Shirt_hand_f1
+	bounds: 1690, 968, 74, 93
+	rotate: 90
+LunarNewYear/Shirt/Shirt2/Shirt_hand_f2
+	bounds: 536, 574, 82, 90
+	offsets: 0, 0, 83, 90
+	rotate: 90
+LunarNewYear/Shoes/Shoes_1b
+	bounds: 1211, 1556, 98, 69
+LunarNewYear/Shoes/Shoes_1f
+	bounds: 1211, 1556, 98, 69
+Mannequin/hand_b
+	bounds: 716, 1124, 72, 113
+	rotate: 90
+Mannequin/hand_f
+	bounds: 1232, 1342, 70, 111
+	rotate: 90
+Mannequin/leg_b
+	bounds: 1080, 299, 90, 145
+	rotate: 90
+Mannequin/leg_f
+	bounds: 1613, 294, 91, 143
+	rotate: 90
+Necklace/Necklace_1
+	bounds: 167, 976, 84, 73
+Necklace/Necklace_2
+	bounds: 1345, 1342, 70, 77
+	offsets: 0, 1, 70, 78
+	rotate: 90
+Necklace/Necklace_4
+	bounds: 831, 1123, 90, 72
+Noel/Glasses/Glasses_3
+	bounds: 1271, 99, 295, 95
+Noel/Glasses/Glasses_3B
+	bounds: 1859, 565, 84, 101
+	rotate: 90
+Noel/Set_noel_1/Shoe_b
+	bounds: 1785, 968, 90, 74
+Noel/Set_noel_1/Shoe_f
+	bounds: 1613, 733, 92, 78
+Noel/Set_noel_10/Shirt_hand_b1
+	bounds: 744, 1840, 67, 95
+	rotate: 90
+Noel/Set_noel_10/Shirt_hand_b2
+	bounds: 816, 572, 85, 82
+Noel/Set_noel_10/Shirt_hand_b22
+	bounds: 1603, 478, 87, 94
+	rotate: 90
+Noel/Set_noel_10/Shirt_hand_f1
+	bounds: 841, 1840, 67, 95
+	rotate: 90
+Noel/Set_noel_10/Shirt_hand_f2
+	bounds: 903, 570, 85, 82
+Noel/Set_noel_11/Shirt_hand_b1
+	bounds: 1448, 815, 76, 85
+	offsets: 1, 0, 77, 85
+	rotate: 90
+Noel/Set_noel_11/Shirt_hand_f1
+	bounds: 111, 214, 123, 94
+Noel/Set_noel_12/Shirt_hand_b22
+	bounds: 1311, 1556, 69, 84
+	offsets: 1, 1, 70, 85
+	rotate: 90
+Noel/Set_noel_12/Skirt_b
+	bounds: 923, 1122, 72, 72
+Noel/Set_noel_2/Shoe_b
+	bounds: 1397, 1556, 104, 69
+Noel/Set_noel_2/Shoe_f
+	bounds: 1503, 1556, 109, 69
+Noel/Set_noel_3/Shoe_b
+	bounds: 1877, 968, 104, 74
+Noel/Set_noel_3/Shoe_f
+	bounds: 1577, 892, 109, 75
+Noel/Set_noel_5/Shoe_b
+	bounds: 1614, 1556, 98, 69
+Noel/Set_noel_5/Shoe_f
+	bounds: 1714, 1556, 92, 69
+Noel/Set_noel_6/Shoe_b
+	bounds: 1535, 814, 98, 76
+Noel/Set_noel_6/Shoe_f
+	bounds: 1635, 813, 92, 76
+Noel/Shoe/Shoes_2b
+	bounds: 1210, 1770, 99, 68
+Noel/Shoe/Shoes_2f
+	bounds: 1210, 1770, 99, 68
+Noel/Shoe/Shoes_3b
+	bounds: 2, 900, 106, 74
+Noel/Shoe/Shoes_3f
+	bounds: 2, 900, 106, 74
+Shirt_Noel/Shirt_noel_1/shirt-hand-b
+	bounds: 130, 1977, 66, 80
+	rotate: 90
+Shirt_Noel/Shirt_noel_3/shirt-hand-b2b
+	bounds: 212, 1977, 66, 88
+	rotate: 90
+Shirt_Noel/Shirt_noel_5/shirt-hand-b2
+	bounds: 997, 1121, 74, 72
+Shirt_Noel/Shirt_noel_5/shirt-hand-b2b
+	bounds: 1729, 813, 76, 85
+	rotate: 90
+Shirt_Noel/Shirt_noel_5/shirt-hand-f2
+	bounds: 1073, 1121, 74, 72
+Socks/Sock_noel_1/Sock_b
+	bounds: 110, 900, 90, 74
+Socks/Sock_noel_1/Sock_f
+	bounds: 1707, 733, 92, 78
+Socks/Sock_noel_2/Sock_b
+	bounds: 1485, 893, 90, 75
+Socks/Sock_noel_2/Sock_f
+	bounds: 1293, 654, 92, 79
+Socks/Sock_noel_3/Sock_f
+	bounds: 1424, 1342, 92, 70
+Socks/Sock_noel_4/Sock_f
+	bounds: 1746, 1268, 92, 71
+Socks/Sock_noel_5/Sock_b
+	bounds: 1688, 891, 90, 75
+Socks/Sock_noel_5/Sock_f
+	bounds: 169, 580, 92, 81
+Staff_Floor3/1/Shirt_hand_b2
+	bounds: 1311, 1770, 68, 72
+	offsets: 1, 1, 69, 73
+	rotate: 90
+Staff_Floor3/1/Shirt_hand_b22
+	bounds: 1808, 1556, 69, 82
+	offsets: 1, 1, 70, 83
+	rotate: 90
+Staff_Floor3/2/Shirt_hand_b2
+	bounds: 1385, 1769, 68, 72
+	offsets: 1, 1, 69, 73
+	rotate: 90
+Staff_Floor3/2/Shirt_hand_b22
+	bounds: 1892, 1556, 69, 82
+	offsets: 1, 1, 70, 83
+	rotate: 90
+Suit/Shirt_hand_b2
+	bounds: 1518, 1342, 70, 75
+	rotate: 90
+Suit/Shirt_hand_b22
+	bounds: 1595, 1342, 70, 79
+	rotate: 90
+Suit/Shirt_hand_f2
+	bounds: 2, 1488, 69, 72
+	rotate: 90
+Suit/Suit/Shirt_hand_b1
+	bounds: 302, 1977, 66, 90
+	rotate: 90
+Suit/Suit/Shirt_hand_b2
+	bounds: 1676, 1342, 70, 75
+	rotate: 90
+Suit/Suit/Shirt_hand_b22
+	bounds: 1753, 1341, 70, 79
+	rotate: 90
+Suit/Suit/Shirt_hand_f1
+	bounds: 394, 1977, 66, 90
+	rotate: 90
+Suit/Suit/Shirt_hand_f2
+	bounds: 76, 1488, 69, 72
+	rotate: 90
+TeacherAndStudent/GV1/Shirt_hand_b2
+	bounds: 1459, 1769, 68, 69
+	offsets: 1, 1, 69, 70
+	rotate: 90
+TeacherAndStudent/GV3/Shirt_hand_b2
+	bounds: 1459, 1769, 68, 69
+	offsets: 1, 1, 69, 70
+	rotate: 90
+TeacherAndStudent/GV1/Shirt_hand_b22
+	bounds: 1530, 1769, 68, 73
+	offsets: 1, 1, 69, 74
+	rotate: 90
+TeacherAndStudent/GV3/Shirt_hand_b22
+	bounds: 1530, 1769, 68, 73
+	offsets: 1, 1, 69, 74
+	rotate: 90
+TeacherAndStudent/GV2/Shirt_hand_b2
+	bounds: 1605, 1769, 68, 69
+	offsets: 1, 1, 69, 70
+	rotate: 90
+TeacherAndStudent/GV2/Shirt_hand_b22
+	bounds: 1676, 1769, 68, 73
+	offsets: 1, 1, 69, 74
+	rotate: 90
+TeacherAndStudent/HS1/Skirt
+	bounds: 486, 1977, 139, 66
+TeacherAndStudent/HS2/Shirt_hand_b1
+	bounds: 627, 1977, 66, 89
+	rotate: 90
+TeacherAndStudent/HS2/Shirt_hand_b2
+	bounds: 150, 1488, 69, 77
+	rotate: 90
+TeacherAndStudent/HS2/Shirt_hand_b22
+	bounds: 229, 1487, 69, 82
+	rotate: 90
+TeacherAndStudent/HS2/Shirt_hand_f2
+	bounds: 1751, 1769, 68, 69
+	offsets: 1, 0, 69, 71
+	rotate: 90
+TeacherAndStudent/HS2/Skirt
+	bounds: 1840, 1267, 150, 71
+TeacherAndStudent/Shoes/Shoe12_b
+	bounds: 1801, 733, 96, 78
+TeacherAndStudent/Shoes/Shoe12_f
+	bounds: 1387, 654, 93, 79
+TeacherAndStudent/Shoes/Shoe13_b
+	bounds: 1816, 813, 99, 76
+TeacherAndStudent/Shoes/Shoe13_f
+	bounds: 1917, 813, 95, 76
+TeacherAndStudent/Shoes/Shoe14_b
+	bounds: 2, 1200, 97, 71
+	offsets: 0, 2, 97, 73
+TeacherAndStudent/Shoes/Shoe14_f
+	bounds: 1149, 1121, 95, 72
+	offsets: 0, 1, 95, 73
+WaterPark/Shirt/1
+	bounds: 1699, 477, 124, 87
+WaterPark/Shirt/2
+	bounds: 2, 316, 127, 90
+WaterPark/Skirt/Skirt_2
+	bounds: 202, 900, 112, 74
+beard/beard2
+	bounds: 938, 1840, 98, 67
+cheeks/BL22
+	bounds: 1113, 391, 238, 87
+	offsets: 2, 1, 258, 112
+collar/collar_3
+	bounds: 253, 976, 73, 85
+	rotate: 90
+emotion/Angry/Eye
+	bounds: 1077, 569, 176, 83
+	offsets: 1, 1, 179, 85
+emotion/Sad/Eye
+	bounds: 893, 204, 180, 94
+	offsets: 1, 3, 182, 98
+emotion/Sad/Fx
+	bounds: 2, 1273, 149, 70
+	offsets: 1, 1, 151, 72
+hand_b
+	bounds: 1246, 1121, 72, 113
+	rotate: 90
+hand_f
+	bounds: 1910, 1340, 70, 111
+	rotate: 90
+jacket/J1/Shirt_hand_b1
+	bounds: 1660, 1977, 66, 91
+	rotate: 90
+jacket/J1/Shirt_hand_b2
+	bounds: 1780, 891, 76, 75
+jacket/J1/Shirt_hand_b22
+	bounds: 1482, 653, 79, 89
+	rotate: 90
+jacket/J1/Shirt_hand_f2
+	bounds: 272, 1199, 71, 79
+	rotate: 90
+jacket/J1/shirt-body
+	bounds: 1191, 1485, 100, 69
+jacket/J10/Shirt_hand_b1
+	bounds: 2, 745, 76, 97
+	rotate: 90
+jacket/J10/Shirt_hand_b2
+	bounds: 153, 1272, 84, 70
+jacket/J10/Shirt_hand_b22
+	bounds: 262, 400, 90, 97
+	rotate: 90
+jacket/J10/Shirt_hand_f1
+	bounds: 1899, 733, 78, 98
+	rotate: 90
+jacket/J10/Shirt_hand_f2
+	bounds: 239, 1272, 84, 70
+jacket/J11/Shirt_hand_b1
+	bounds: 718, 1977, 66, 94
+	rotate: 90
+jacket/J11/Shirt_hand_b2
+	bounds: 313, 1487, 69, 71
+	rotate: 90
+jacket/J11/Shirt_hand_b22
+	bounds: 316, 899, 74, 89
+	rotate: 90
+jacket/J11/Shirt_hand_f1
+	bounds: 814, 1977, 66, 92
+	rotate: 90
+jacket/J11/Shirt_hand_f2
+	bounds: 386, 1487, 69, 71
+	rotate: 90
+jacket/J12/Shirt_hand_b1
+	bounds: 908, 1977, 66, 93
+	rotate: 90
+jacket/J12/Shirt_hand_b2
+	bounds: 459, 1487, 69, 71
+	rotate: 90
+jacket/J12/Shirt_hand_b22
+	bounds: 1361, 1121, 72, 89
+	rotate: 90
+jacket/J12/Shirt_hand_f1
+	bounds: 1038, 1840, 67, 92
+	rotate: 90
+jacket/J12/Shirt_hand_f2
+	bounds: 532, 1487, 69, 71
+	rotate: 90
+jacket/J13/Shirt_hand_b1
+	bounds: 1003, 1977, 66, 92
+	rotate: 90
+jacket/J13/Shirt_hand_b2
+	bounds: 605, 1487, 69, 71
+	offsets: 0, 0, 70, 71
+	rotate: 90
+jacket/J13/Shirt_hand_b22
+	bounds: 1452, 1121, 72, 89
+	rotate: 90
+jacket/J13/Shirt_hand_f1
+	bounds: 1132, 1840, 67, 91
+	rotate: 90
+jacket/J13/Shirt_hand_f2
+	bounds: 678, 1487, 69, 71
+	offsets: 1, 0, 70, 71
+	rotate: 90
+jacket/J14/Shirt_hand_b1
+	bounds: 1097, 1977, 66, 92
+	rotate: 90
+jacket/J14/Shirt_hand_b2
+	bounds: 751, 1487, 69, 71
+	rotate: 90
+jacket/J14/Shirt_hand_b22
+	bounds: 407, 898, 74, 90
+	rotate: 90
+jacket/J14/Shirt_hand_f1
+	bounds: 1225, 1840, 67, 92
+	rotate: 90
+jacket/J14/Shirt_hand_f2
+	bounds: 824, 1487, 69, 71
+	rotate: 90
+jacket/J15/Shirt_hand_b1
+	bounds: 1191, 1977, 66, 93
+	rotate: 90
+jacket/J15/Shirt_hand_b2
+	bounds: 897, 1487, 69, 71
+	rotate: 90
+jacket/J15/Shirt_hand_b22
+	bounds: 340, 975, 73, 90
+	rotate: 90
+jacket/J15/Shirt_hand_f1
+	bounds: 1319, 1840, 67, 93
+	rotate: 90
+jacket/J15/Shirt_hand_f2
+	bounds: 970, 1486, 69, 71
+	rotate: 90
+jacket/J16/Shirt_hand_b1
+	bounds: 1286, 1977, 66, 92
+	rotate: 90
+jacket/J16/Shirt_hand_b2
+	bounds: 101, 1199, 74, 71
+jacket/J16/Shirt_hand_b22
+	bounds: 846, 656, 79, 90
+	rotate: 90
+jacket/J16/Shirt_hand_f1
+	bounds: 1822, 1769, 68, 92
+	rotate: 90
+jacket/J16/Shirt_hand_f2
+	bounds: 1834, 1341, 70, 74
+	rotate: 90
+jacket/J17/Shirt_hand_b1
+	bounds: 325, 1272, 70, 93
+	rotate: 90
+jacket/J17/Shirt_hand_b22
+	bounds: 2, 665, 78, 87
+	rotate: 90
+jacket/J17/Shirt_hand_f1
+	bounds: 177, 1199, 71, 93
+	rotate: 90
+jacket/J18/Shirt_hand_b1
+	bounds: 1380, 1977, 66, 91
+	rotate: 90
+jacket/J18/Shirt_hand_b22
+	bounds: 91, 664, 78, 86
+	rotate: 90
+jacket/J18/Shirt_hand_f1
+	bounds: 1414, 1839, 67, 92
+	rotate: 90
+jacket/J19/Shirt_hand_b1
+	bounds: 1473, 1977, 66, 91
+	rotate: 90
+jacket/J19/Shirt_hand_b2
+	bounds: 1043, 1486, 69, 72
+	offsets: 0, 0, 69, 73
+	rotate: 90
+jacket/J19/Shirt_hand_b22
+	bounds: 499, 898, 74, 90
+	rotate: 90
+jacket/J19/Shirt_hand_f1
+	bounds: 1566, 1977, 66, 92
+	rotate: 90
+jacket/J19/Shirt_hand_f2
+	bounds: 1117, 1486, 69, 72
+	offsets: 0, 0, 69, 73
+	rotate: 90
+jacket/J2/Shirt_hand_b1
+	bounds: 1508, 1839, 67, 76
+	rotate: 90
+jacket/J2/Shirt_hand_b2
+	bounds: 1293, 1485, 69, 71
+	rotate: 90
+jacket/J2/Shirt_hand_b22
+	bounds: 1543, 1121, 72, 87
+	rotate: 90
+jacket/J2/Shirt_hand_f1
+	bounds: 1916, 1769, 68, 77
+	rotate: 90
+jacket/J2/Shirt_hand_f2
+	bounds: 1366, 1485, 69, 71
+	rotate: 90
+jacket/J3/Shirt_hand_b2
+	bounds: 1439, 1485, 69, 71
+	rotate: 90
+jacket/J3/Shirt_hand_b22
+	bounds: 432, 974, 73, 88
+	rotate: 90
+jacket/J3/Shirt_hand_f1
+	bounds: 1586, 1839, 67, 92
+	rotate: 90
+jacket/J3/Shirt_hand_f2
+	bounds: 1680, 1839, 67, 68
+	offsets: 1, 0, 68, 69
+	rotate: 90
+jacket/J4/Shirt_hand_b2
+	bounds: 1512, 1485, 69, 71
+	rotate: 90
+jacket/J4/Shirt_hand_b22
+	bounds: 1632, 1120, 72, 89
+	rotate: 90
+jacket/J4/Shirt_hand_f1
+	bounds: 1753, 1977, 66, 90
+	rotate: 90
+jacket/J4/Shirt_hand_f2
+	bounds: 1585, 1485, 69, 71
+	rotate: 90
+jacket/J5/Shirt_hand_b2
+	bounds: 1658, 1485, 69, 71
+	rotate: 90
+jacket/J5/Shirt_hand_b22
+	bounds: 591, 898, 74, 91
+	rotate: 90
+jacket/J5/Shirt_hand_f1
+	bounds: 1750, 1839, 67, 93
+	rotate: 90
+jacket/J5/Shirt_hand_f2
+	bounds: 1731, 1485, 69, 71
+	rotate: 90
+jacket/J6/Shirt_hand_b2
+	bounds: 1858, 891, 80, 75
+	offsets: 1, 1, 81, 76
+jacket/J6/Shirt_hand_b22
+	bounds: 1380, 568, 84, 96
+	offsets: 1, 1, 85, 97
+	rotate: 90
+jacket/J6/Shirt_hand_f1
+	bounds: 1845, 1839, 67, 93
+	rotate: 90
+jacket/J6/Shirt_hand_f2
+	bounds: 1940, 891, 80, 75
+	offsets: 0, 1, 81, 76
+jacket/J7/Shirt_hand_b1
+	bounds: 1845, 1977, 66, 93
+	rotate: 90
+jacket/J7/Shirt_hand_b2
+	bounds: 1804, 1485, 69, 71
+	rotate: 90
+jacket/J7/Shirt_hand_b22
+	bounds: 684, 897, 74, 93
+	rotate: 90
+jacket/J7/Shirt_hand_f1
+	bounds: 2, 1701, 68, 91
+	rotate: 90
+jacket/J7/Shirt_hand_f2
+	bounds: 1877, 1485, 69, 71
+	rotate: 90
+jacket/J8/Shirt_hand_b2
+	bounds: 1950, 1484, 69, 71
+	rotate: 90
+jacket/J8/Shirt_hand_b22
+	bounds: 2, 823, 75, 93
+	rotate: 90
+jacket/J8/Shirt_hand_f1
+	bounds: 95, 1701, 68, 93
+	rotate: 90
+jacket/J8/Shirt_hand_f2
+	bounds: 2, 1417, 69, 71
+	rotate: 90
+jacket/J9/Shirt_hand_b1
+	bounds: 1940, 1977, 66, 92
+	rotate: 90
+jacket/J9/Shirt_hand_b22
+	bounds: 179, 663, 78, 88
+	rotate: 90
+jacket/J9/Shirt_hand_f1
+	bounds: 2, 1909, 66, 92
+	rotate: 90
+jumpsuit/HLW/2/Shirt_hand_b1
+	bounds: 1255, 569, 83, 123
+	rotate: 90
+jumpsuit/HLW/2/Shirt_hand_f1
+	bounds: 1478, 567, 83, 123
+	rotate: 90
+jumpsuit/HLW/3/Shirt_hand_b1
+	bounds: 469, 487, 94, 85
+jumpsuit/HLW/3/Shirt_hand_f1
+	bounds: 565, 486, 94, 85
+jumpsuit/HLW/4/Shirt_hand_b2
+	bounds: 75, 1417, 69, 71
+	rotate: 90
+jumpsuit/HLW/4/Shirt_hand_b22
+	bounds: 522, 974, 73, 90
+	rotate: 90
+jumpsuit/HLW/4/Shirt_hand_f1
+	bounds: 96, 1909, 66, 92
+	rotate: 90
+jumpsuit/HLW/4/Shirt_hand_f2
+	bounds: 148, 1417, 69, 71
+	rotate: 90
+jumpsuit/HLW/5/Shirt_hand_b1
+	bounds: 190, 1909, 66, 97
+	offsets: 1, 0, 67, 97
+	rotate: 90
+jumpsuit/HLW/5/Shirt_hand_b2
+	bounds: 614, 974, 73, 78
+	offsets: 0, 0, 74, 78
+	rotate: 90
+jumpsuit/HLW/5/Shirt_hand_b22
+	bounds: 97, 823, 75, 89
+	rotate: 90
+jumpsuit/HLW/5/Shirt_hand_f2
+	bounds: 1723, 1119, 72, 76
+	offsets: 2, 0, 74, 78
+	rotate: 90
+jumpsuit/JS1/Skirt
+	bounds: 394, 742, 152, 77
+jumpsuit/JS10/Shirt_hand_b22
+	bounds: 2, 977, 73, 73
+jumpsuit/JS10/Shirt_hand_f1
+	bounds: 221, 1416, 69, 94
+	rotate: 90
+jumpsuit/JS11/Shirt_hand_f1
+	bounds: 289, 1909, 66, 91
+	rotate: 90
+jumpsuit/JS11/Shirt_hand_fb
+	bounds: 190, 1701, 68, 68
+jumpsuit/JS11/shirt-hand-b2
+	bounds: 317, 1416, 69, 71
+	rotate: 90
+jumpsuit/JS11/shirt-hand-b22
+	bounds: 390, 1416, 69, 77
+	rotate: 90
+jumpsuit/JS3/Shirt_hand_b2
+	bounds: 469, 1416, 69, 71
+	rotate: 90
+jumpsuit/JS3/Shirt_hand_b22
+	bounds: 420, 1272, 70, 75
+	rotate: 90
+jumpsuit/JS3/Shirt_hand_f1
+	bounds: 330, 1700, 68, 96
+	rotate: 90
+jumpsuit/JS4/Shirt_hand_b2
+	bounds: 548, 742, 81, 77
+	offsets: 1, 0, 82, 77
+jumpsuit/JS4/Shirt_hand_b22
+	bounds: 1965, 647, 81, 84
+	offsets: 1, 0, 82, 84
+jumpsuit/JS4/Shirt_hand_fb
+	bounds: 188, 823, 80, 75
+	offsets: 0, 0, 81, 75
+jumpsuit/JS6/Shirt_hand_f1
+	bounds: 382, 1909, 66, 91
+	rotate: 90
+jumpsuit/JS6/Shirt_hand_fb
+	bounds: 260, 1701, 68, 68
+jumpsuit/JS6/shirt-hand-b2
+	bounds: 542, 1416, 69, 71
+	rotate: 90
+jumpsuit/JS6/shirt-hand-b22
+	bounds: 615, 1416, 69, 77
+	rotate: 90
+jumpsuit/JS7/Shirt_hand_b2
+	bounds: 694, 1416, 69, 71
+	rotate: 90
+jumpsuit/JS7/Shirt_hand_b22
+	bounds: 767, 1416, 69, 78
+	rotate: 90
+jumpsuit/JS7/Shirt_hand_f1
+	bounds: 475, 1909, 66, 90
+	rotate: 90
+jumpsuit/JS7/Shirt_hand_fb
+	bounds: 1940, 1839, 68, 67
+jumpsuit/JS8/shirt-hand-b22_fill
+	bounds: 497, 1272, 73, 70
+jumpsuit/JS8/shirt-hand-f1_fill
+	bounds: 428, 1700, 68, 93
+	rotate: 90
+jumpsuit/JS9/Shirt_hand_b2
+	bounds: 847, 1416, 69, 71
+	rotate: 90
+jumpsuit/JS9/Shirt_hand_b22
+	bounds: 920, 1415, 69, 78
+	rotate: 90
+jumpsuit/JS9/Shirt_hand_f1
+	bounds: 523, 1700, 68, 91
+	rotate: 90
+leg_b
+	bounds: 1227, 296, 90, 145
+	rotate: 90
+leg_f
+	bounds: 1758, 292, 91, 143
+	rotate: 90
+shirt/TC1/shirt-b
+	bounds: 790, 1909, 66, 70
+	rotate: 90
+shirt/TC10/shirt-hand-b2
+	bounds: 616, 1700, 71, 68
+	offsets: 0, 0, 72, 68
+shirt/TC10/shirt-hand-b22
+	bounds: 1801, 1119, 72, 72
+shirt/TC11/shirt-body
+	bounds: 661, 486, 115, 85
+	offsets: 1, 0, 117, 85
+shirt/TC11/shirt-hand-b
+	bounds: 1875, 1119, 75, 72
+	offsets: 1, 0, 77, 72
+shirt/TC11/shirt-hand-f
+	bounds: 572, 1272, 75, 70
+shirt/TC14/shirt-body
+	bounds: 270, 822, 109, 75
+	offsets: 0, 1, 109, 76
+shirt/TC14/shirt-hand-b1
+	bounds: 689, 1700, 69, 68
+	offsets: 0, 1, 70, 70
+shirt/TC16/shirt-hand-b1
+	bounds: 1000, 1415, 69, 80
+	rotate: 90
+shirt/TC16/shirt-hand-f
+	bounds: 567, 1909, 66, 75
+	rotate: 90
+shirt/TC18/shirt-hand-b22_fill
+	bounds: 353, 1199, 71, 85
+	rotate: 90
+shirt/TC18/shirt-hand-b2_fill
+	bounds: 440, 1199, 71, 80
+	rotate: 90
+shirt/TC18/shirt-hand-f_fillb
+	bounds: 644, 1909, 68, 66
+	offsets: 1, 0, 69, 66
+shirt/TC19/shirt-hand-b1
+	bounds: 1952, 1119, 72, 81
+	rotate: 90
+shirt/TC19/shirt-hand-f
+	bounds: 714, 1909, 66, 74
+	rotate: 90
+shirt/TC2/shirt-fb
+	bounds: 680, 1198, 73, 71
+shirt/TC2/shirt-hand-2b2
+	bounds: 807, 973, 73, 84
+	rotate: 90
+shirt/TC2/shirt-hand-b2
+	bounds: 893, 972, 73, 82
+	rotate: 90
+shirt/TC20/shirt-hand-b1
+	bounds: 1082, 1415, 69, 80
+	rotate: 90
+shirt/TC21/shirt-body
+	bounds: 2, 1771, 108, 67
+	offsets: 0, 0, 109, 67
+shirt/TC21/shirt-hand-b2
+	bounds: 522, 1199, 71, 75
+	rotate: 90
+shirt/TC21/shirt-hand-b22
+	bounds: 599, 1198, 71, 79
+	rotate: 90
+shirt/TC21/shirt-hand-f
+	bounds: 1164, 1414, 69, 73
+	rotate: 90
+shirt/TC23/shirt-body
+	bounds: 694, 973, 111, 73
+shirt/TC23/shirt-hand-b1
+	bounds: 760, 1700, 68, 72
+	rotate: 90
+shirt/TC24/shirt-body
+	bounds: 1825, 476, 106, 87
+shirt/TC24/shirt-hand-b1
+	bounds: 1239, 1414, 69, 80
+	rotate: 90
+shirt/TC25/shirt-body
+	bounds: 1603, 567, 108, 83
+shirt/TC26/Shirt_hand_b2
+	bounds: 112, 1771, 67, 69
+	offsets: 0, 0, 69, 71
+	rotate: 90
+shirt/TC26/Shirt_hand_b22
+	bounds: 1321, 1414, 69, 76
+	rotate: 90
+shirt/TC26/Shirt_hand_f1
+	bounds: 183, 1771, 67, 91
+	offsets: 1, 0, 68, 91
+	rotate: 90
+shirt/TC27/shirt-body
+	bounds: 405, 9, 106, 100
+shirt/TC27/shirt-hand-b22
+	bounds: 2, 1052, 73, 72
+shirt/TC27/shirt-hand-f1
+	bounds: 1399, 1414, 69, 95
+	rotate: 90
+shirt/TC3/shirt-body
+	bounds: 267, 114, 111, 98
+shirt/TC3/shirt-hand-b
+	bounds: 862, 1909, 66, 70
+	rotate: 90
+shirt/TC5/shirt-hand-b2
+	bounds: 77, 1051, 72, 87
+	rotate: 90
+shirt/TC5/shirt-hand-b22
+	bounds: 166, 1051, 72, 89
+	rotate: 90
+shirt/TC5/shirt-hand-f1
+	bounds: 834, 1700, 68, 95
+	rotate: 90
+shirt/TC5/shirt-hand-fb
+	bounds: 1496, 1414, 76, 69
+shirt/TC6/shirt-hand-b1
+	bounds: 934, 1909, 66, 80
+	rotate: 90
+shirt/TC7/shirt-hand-b2
+	bounds: 381, 821, 75, 89
+	rotate: 90
+shirt/TC7/shirt-hand-b22
+	bounds: 472, 821, 75, 93
+	rotate: 90
+shirt/TC7/shirt-hand-f
+	bounds: 257, 1051, 72, 96
+	rotate: 90
+shirt/TC7/shirt-hand-fb
+	bounds: 276, 1771, 74, 67
+	offsets: 3, 0, 77, 69
+shirt/TC8/shirt-hand-b1
+	bounds: 1016, 1909, 66, 80
+	rotate: 90
+shirt/TC9/shirt-body
+	bounds: 827, 4, 113, 101
+shoe/Shoe10_b
+	bounds: 1573, 652, 107, 79
+shoe/Shoe10_f
+	bounds: 1682, 652, 104, 79
+shoe/Shoe11_b
+	bounds: 1098, 1909, 96, 66
+shoe/Shoe11_f
+	bounds: 1196, 1909, 102, 66
+shoe/Shoe4_b
+	bounds: 1574, 1414, 91, 69
+shoe/Shoe4_f
+	bounds: 1667, 1414, 92, 69
+shoe/Shoe8_b
+	bounds: 755, 1198, 93, 71
+shoe/Shoe8_f
+	bounds: 850, 1197, 94, 71
+shoe/Shoe9_b
+	bounds: 931, 1700, 90, 68
+shoe/Shoe9_f
+	bounds: 1023, 1700, 91, 68
+skirt/Skirt_1/skirt1_fill
+	bounds: 1650, 387, 131, 88
+skirt/Skirt_11/skirt11
+	bounds: 1815, 36, 164, 98
+skirt/Skirt_16/Skirt_16
+	bounds: 959, 392, 152, 88
+skirt/Skirt_17/Skirt_17
+	bounds: 1713, 566, 144, 83
+skirt/Skirt_19/Skirt_19
+	bounds: 2, 408, 128, 87
+skirt/Skirt_2/Skirt_2
+	bounds: 1783, 385, 137, 89
+skirt/Skirt_21/Skirt_21
+	bounds: 2, 497, 132, 83
+skirt/Skirt_22/Skirt_22
+	bounds: 1300, 1909, 126, 66
+skirt/Skirt_23/Skirt_23
+	bounds: 132, 403, 128, 87
+skirt/Skirt_3/Skirt3
+	bounds: 236, 214, 163, 91
+skirt/Skirt_5/skirt5
+	bounds: 1349, 198, 156, 95
+skirt/Skirt_9/Skirt_9_fill
+	bounds: 625, 208, 158, 93
+staff/shirt-hand-b22
+	bounds: 567, 821, 76, 75
+
+Character_3.png
+	size: 2024, 1984
+	filter: Linear, Linear
+	pma: true
+DailyLogin/Shirt/1/Shirt_head
+	bounds: 982, 3, 360, 451
+Hair_Makeup/1_B
+	bounds: 499, 515, 481, 483
+Hair_Makeup/1_B_color2
+	bounds: 996, 1007, 481, 483
+Hair_Makeup/1_B_color3
+	bounds: 1493, 1499, 481, 483
+Hair_Makeup/1_B_color4
+	bounds: 499, 30, 481, 483
+Hair_Makeup/1_B_color5
+	bounds: 1479, 1007, 481, 483
+Hair_Makeup/1_B_color6
+	bounds: 1489, 522, 481, 483
+Hair_Makeup/2_B
+	bounds: 2, 1492, 495, 490
+	offsets: 1, 1, 497, 492
+Hair_Makeup/2_B_color2
+	bounds: 2, 1000, 495, 490
+	offsets: 1, 1, 497, 492
+Hair_Makeup/2_B_color3
+	bounds: 499, 1492, 495, 490
+	offsets: 1, 1, 497, 492
+Hair_Makeup/2_B_color4
+	bounds: 2, 508, 495, 490
+	offsets: 1, 1, 497, 492
+Hair_Makeup/2_B_color5
+	bounds: 499, 1000, 495, 490
+	offsets: 1, 1, 497, 492
+Hair_Makeup/2_B_color6
+	bounds: 996, 1492, 495, 490
+	offsets: 1, 1, 497, 492
+Hair_Makeup/2_B_color7
+	bounds: 2, 16, 495, 490
+	offsets: 1, 1, 497, 492
+Hair_Makeup/4_B
+	bounds: 1344, 2, 340, 487
+hat/HLW/hat_1_b
+	bounds: 1301, 491, 514, 186
+	rotate: 90
+hat/HLW/hat_1_f
+	bounds: 982, 456, 542, 317
+	offsets: 0, 0, 542, 318
+	rotate: 90
+hat/Hat_noel_2
+	bounds: 1686, 27, 493, 334
+	rotate: 90
+
+Character_4.png
+	size: 2048, 1988
+	filter: Linear, Linear
+	pma: true
+Bag/Bag_1
+	bounds: 662, 763, 118, 127
+	rotate: 90
+Bag/Bag_2
+	bounds: 152, 771, 117, 126
+	rotate: 90
+Bag/Bag_3
+	bounds: 1020, 638, 120, 122
+	rotate: 90
+Bag/Bag_4
+	bounds: 1031, 264, 127, 125
+Bag/Bag_5
+	bounds: 1818, 386, 123, 135
+	rotate: 90
+Bag/Bag_6
+	bounds: 565, 885, 115, 135
+	rotate: 90
+Bag/HLW/Bag_1
+	bounds: 1160, 262, 131, 125
+Bag/HLW/Bag_2
+	bounds: 443, 270, 124, 126
+	rotate: 90
+Bag/HLW/Bag_3
+	bounds: 423, 142, 126, 137
+	rotate: 90
+Clothes_Floor2/10/Shirt_body
+	bounds: 1927, 875, 117, 119
+	rotate: 90
+Clothes_Floor2/5/Shirt_body
+	bounds: 791, 763, 118, 126
+	rotate: 90
+Clothes_Floor2/6/Shirt_body
+	bounds: 919, 761, 118, 126
+	rotate: 90
+Clothes_Floor2/7/Shirt_body
+	bounds: 1144, 637, 122, 120
+Clothes_Floor2/8/Shirt_body
+	bounds: 2, 651, 119, 125
+	rotate: 90
+Clothes_Floor2/jacket_1/Shirt_body
+	bounds: 692, 140, 126, 144
+	rotate: 90
+Clothes_Floor2/jacket_2/Shirt_body
+	bounds: 2, 22, 129, 130
+	rotate: 90
+Clothes_Floor2/jacket_3/Shirt_body
+	bounds: 129, 650, 127, 119
+DailyLogin/Bag/Bag_1
+	bounds: 858, 1339, 111, 131
+	rotate: 90
+DailyLogin/Bag/Bag_2
+	bounds: 571, 270, 124, 125
+	rotate: 90
+DailyLogin/Glasses/Glasses_1
+	bounds: 768, 1452, 294, 109
+DailyLogin/Glasses/Glasses_2
+	bounds: 1105, 1562, 300, 106
+DailyLogin/Shirt/1/Shirt
+	bounds: 194, 402, 122, 133
+	rotate: 90
+DailyLogin/Shirt/2/Shirt
+	bounds: 329, 399, 122, 131
+	rotate: 90
+FX/Bathroom/fx_nuochoa
+	bounds: 114, 1567, 106, 106
+	offsets: 11, 12, 128, 129
+FX/Fx_Camera
+	bounds: 1064, 1451, 111, 109
+	offsets: 11, 12, 133, 133
+Face/face_2
+	bounds: 909, 1882, 232, 101
+	offsets: 1, 6, 233, 110
+Face/face_5
+	bounds: 1086, 1670, 235, 105
+	offsets: 3, 8, 256, 124
+Face/face_cheek_1
+	bounds: 575, 11, 253, 127
+	offsets: 19, 19, 294, 161
+Face/face_cheek_2
+	bounds: 1293, 262, 251, 124
+	offsets: 20, 20, 294, 161
+Face/face_cheek_3
+	bounds: 998, 5, 253, 127
+	offsets: 19, 19, 294, 161
+Face/face_daudaday
+	bounds: 1404, 2, 165, 128
+	offsets: 14, 10, 193, 149
+Glasses/1
+	bounds: 1407, 1562, 305, 106
+Glasses/10
+	bounds: 462, 396, 295, 122
+Glasses/12
+	bounds: 311, 1883, 297, 100
+Glasses/12_b
+	bounds: 610, 1883, 297, 100
+Glasses/13
+	bounds: 1496, 1111, 290, 112
+Glasses/15
+	bounds: 1633, 876, 292, 116
+Glasses/2
+	bounds: 2, 1884, 307, 99
+Glasses/5
+	bounds: 1139, 134, 288, 126
+Glasses/8
+	bounds: 1099, 1777, 299, 103
+Glasses/9
+	bounds: 1400, 1777, 306, 103
+Glasses/Basic_1
+	bounds: 1323, 1670, 290, 105
+Glasses/Basic_1b
+	bounds: 1615, 1670, 290, 105
+Glasses/Basic_1c
+	bounds: 222, 1567, 290, 105
+Glasses/CorgiLand/1
+	bounds: 224, 1674, 302, 104
+Glasses/CorgiLand/2
+	bounds: 1608, 131, 310, 126
+Glasses/CorgiLand/3
+	bounds: 702, 883, 299, 115
+Glasses/HLW/5
+	bounds: 2, 1006, 328, 113
+Glasses/Makeup/Glasses_1
+	bounds: 1688, 259, 301, 125
+Glasses/Makeup/Glasses_3
+	bounds: 1591, 756, 302, 118
+Glasses/Makeup/Glasses_4
+	bounds: 1555, 634, 299, 120
+Glasses/Makeup/Glasses_5
+	bounds: 1708, 1777, 293, 103
+Glasses/Makeup/Glasses_6
+	bounds: 1741, 994, 298, 114
+Gothic/1/Shirt_body
+	bounds: 280, 768, 117, 129
+	rotate: 90
+Gothic/10/Shirt_body
+	bounds: 480, 645, 119, 130
+	rotate: 90
+Gothic/11/Shirt_body
+	bounds: 1423, 512, 121, 125
+	rotate: 90
+Gothic/12/Glasses
+	bounds: 514, 1566, 290, 105
+Gothic/12/Shirt_body
+	bounds: 1268, 637, 121, 120
+Gothic/2/Shirt_body
+	bounds: 411, 768, 117, 128
+	rotate: 90
+Gothic/3/Shirt_body
+	bounds: 838, 138, 126, 159
+	rotate: 90
+Gothic/4/Shirt_body
+	bounds: 1546, 260, 125, 140
+	rotate: 90
+Gothic/5/Shirt_body
+	bounds: 332, 1003, 139, 113
+Gothic/5/Skirt
+	bounds: 1759, 1337, 130, 111
+Gothic/6/Shirt_body
+	bounds: 1431, 1450, 116, 110
+Gothic/7/Shirt_body
+	bounds: 541, 766, 119, 117
+Gothic/7/hat
+	bounds: 497, 520, 304, 120
+Gothic/9/Shirt_body
+	bounds: 1492, 995, 114, 123
+	rotate: 90
+Gothic/9/hat
+	bounds: 1549, 1450, 216, 110
+	offsets: 0, 0, 216, 111
+Hospital/BenhNhan/shirt-body
+	bounds: 1767, 1450, 114, 110
+Hospital/PhauThuat/shirt-body
+	bounds: 1883, 1450, 114, 110
+Hospital/YTa/shirt-body
+	bounds: 2, 1347, 114, 110
+KPop/1/Glasses
+	bounds: 1714, 1562, 305, 106
+KPop/1/Shirt_body
+	bounds: 473, 1003, 113, 117
+	rotate: 90
+KPop/10/Shirt_body
+	bounds: 1177, 1451, 109, 114
+	rotate: 90
+KPop/16/Shirt_body
+	bounds: 118, 1347, 110, 117
+	rotate: 90
+KPop/17/Shirt_body
+	bounds: 1047, 760, 118, 141
+	rotate: 90
+KPop/17/jacket/Shirt_body
+	bounds: 1617, 995, 122, 114
+KPop/18/Shirt_body
+	bounds: 1724, 511, 124, 121
+KPop/18/jacket/Shirt_body
+	bounds: 999, 136, 126, 138
+	rotate: 90
+KPop/2/Shirt_body
+	bounds: 1429, 132, 126, 177
+	rotate: 90
+KPop/3/Glasses
+	bounds: 1230, 1112, 144, 112
+KPop/4/Shirt_body
+	bounds: 2, 280, 123, 135
+	rotate: 90
+KPop/5/Glasses
+	bounds: 113, 1459, 290, 106
+KPop/5/Shirt_body
+	bounds: 612, 642, 119, 136
+	rotate: 90
+KPop/6/Shirt_body
+	bounds: 830, 9, 127, 166
+	offsets: 1, 0, 141, 166
+	rotate: 90
+KPop/7/Glasses
+	bounds: 466, 1344, 276, 110
+KPop/8/jacket/Shirt_body
+	bounds: 863, 1671, 105, 108
+	rotate: 90
+KPop/9/Glasses
+	bounds: 617, 1779, 286, 102
+LunarNewYear/Bag/Bag_1
+	bounds: 592, 1002, 113, 137
+	rotate: 90
+LunarNewYear/Bag/Bag_2
+	bounds: 759, 394, 122, 146
+	rotate: 90
+LunarNewYear/China1/shirt-body
+	bounds: 1038, 391, 122, 155
+	rotate: 90
+LunarNewYear/China2/Skirt
+	bounds: 731, 1000, 130, 113
+LunarNewYear/China2/shirt-body
+	bounds: 1376, 1112, 112, 118
+	rotate: 90
+LunarNewYear/Glasses/Glasses_2
+	bounds: 806, 1563, 297, 105
+LunarNewYear/Hat/hat_1f
+	bounds: 1571, 2, 127, 216
+	rotate: 90
+LunarNewYear/Korea1/shirt-body
+	bounds: 1003, 881, 115, 142
+	rotate: 90
+LunarNewYear/Korea2/shirt-body
+	bounds: 2, 405, 121, 190
+	rotate: 90
+Mannequin/body
+	bounds: 2, 890, 114, 160
+	rotate: 90
+Market/shirt-body
+	bounds: 237, 1347, 114, 110
+Noel/Bag/Bag_1
+	bounds: 1147, 880, 115, 144
+	rotate: 90
+Noel/Bag/Bag_2
+	bounds: 134, 150, 125, 147
+	rotate: 90
+Noel/Bag/Bag_3
+	bounds: 750, 642, 119, 145
+	rotate: 90
+Noel/Set_noel_10/skirt_b
+	bounds: 905, 1778, 192, 102
+Noel/Set_noel_12/shirt
+	bounds: 164, 890, 114, 121
+	rotate: 90
+Noel/Set_noel_2/shirt-body
+	bounds: 139, 277, 123, 150
+	rotate: 90
+Noel/Set_noel_3/shirt-body
+	bounds: 1195, 389, 122, 150
+	rotate: 90
+Noel/Set_noel_6/shirt-body
+	bounds: 1347, 388, 122, 150
+	rotate: 90
+Noel/Set_noel_7/shirt-body
+	bounds: 2, 1676, 111, 103
+Noel/Set_noel_9/shirt-body
+	bounds: 1391, 635, 120, 162
+	rotate: 90
+Shirt_Noel/Shirt_noel_1/shirt-body
+	bounds: 1891, 1337, 116, 111
+Shirt_Noel/Shirt_noel_2/shirt-body
+	bounds: 1788, 1110, 118, 112
+Shirt_Noel/Shirt_noel_3/shirt-body
+	bounds: 1908, 1110, 118, 112
+Shirt_Noel/Shirt_noel_4/shirt-body
+	bounds: 518, 1456, 116, 108
+Shirt_Noel/Shirt_noel_5/shirt-body
+	bounds: 698, 268, 124, 158
+	rotate: 90
+Staff_Floor3/1/Shirt_body
+	bounds: 858, 266, 124, 171
+	offsets: 0, 0, 124, 172
+	rotate: 90
+Staff_Floor3/2/Shirt_body
+	bounds: 1293, 879, 116, 170
+	offsets: 0, 0, 116, 172
+	rotate: 90
+Staff_Floor3/3/Shirt_body
+	bounds: 863, 1000, 113, 120
+	offsets: 0, 0, 113, 123
+	rotate: 90
+Suit/Shirt_body
+	bounds: 897, 640, 119, 121
+	rotate: 90
+Suit/Suit/Shirt_body
+	bounds: 562, 142, 126, 128
+	rotate: 90
+TeacherAndStudent/GV1/Shirt_body
+	bounds: 985, 1000, 113, 119
+	offsets: 0, 0, 113, 123
+	rotate: 90
+TeacherAndStudent/GV2/Shirt_body
+	bounds: 1224, 997, 113, 134
+	offsets: 0, 0, 113, 138
+	rotate: 90
+TeacherAndStudent/GV3/Shirt_body
+	bounds: 1190, 759, 118, 138
+	rotate: 90
+TeacherAndStudent/HS1/Shirt_body
+	bounds: 2, 1234, 114, 111
+TeacherAndStudent/HS2/Shirt_body
+	bounds: 287, 887, 114, 114
+TeacherAndStudent/HS3/Shirt_body
+	bounds: 118, 1234, 114, 111
+basketball_clothes/Shirt_1
+	bounds: 1856, 633, 120, 121
+	offsets: 1, 0, 122, 121
+	rotate: 90
+basketball_clothes/Shirt_2
+	bounds: 2, 529, 120, 121
+	offsets: 1, 0, 122, 121
+	rotate: 90
+body
+	bounds: 403, 887, 114, 160
+	rotate: 90
+cheeks/Makeup/face_cheek_1
+	bounds: 1789, 2, 253, 127
+	offsets: 19, 19, 294, 161
+emotion/Angry/Fx
+	bounds: 528, 1673, 104, 105
+	offsets: 1, 1, 106, 107
+	rotate: 90
+emotion/Doubt/Fx
+	bounds: 1293, 1451, 109, 136
+	offsets: 1, 1, 111, 138
+	rotate: 90
+emotion/Tired/Fx
+	bounds: 636, 1456, 130, 108
+	offsets: 1, 1, 133, 110
+football_clothes/Shirt_10
+	bounds: 125, 528, 122, 120
+football_clothes/Shirt_3
+	bounds: 249, 526, 122, 120
+football_clothes/Shirt_4
+	bounds: 373, 523, 122, 120
+football_clothes/Shirt_5
+	bounds: 803, 518, 122, 120
+football_clothes/Shirt_6
+	bounds: 927, 516, 122, 120
+football_clothes/Shirt_7
+	bounds: 1051, 515, 122, 120
+football_clothes/Shirt_8
+	bounds: 1175, 515, 122, 120
+football_clothes/Shirt_9
+	bounds: 1299, 513, 122, 120
+hair/Hair19_b_color1
+	bounds: 991, 1339, 382, 110
+hair/Hair19_b_color2
+	bounds: 1375, 1338, 382, 110
+hair/Hair19_b_color3
+	bounds: 732, 1227, 382, 110
+hair/Hair19_b_color4
+	bounds: 1116, 1226, 382, 110
+hair/Hair19_b_color5
+	bounds: 1500, 1225, 382, 110
+hair/Hair19_b_color6
+	bounds: 2, 1121, 382, 110
+hair/Hair19_b_fill
+	bounds: 732, 1115, 382, 110
+hair/Hair1_b_color1
+	bounds: 1143, 1882, 101, 203
+	offsets: 0, 0, 103, 203
+	rotate: 90
+hair/Hair1_b_color2
+	bounds: 1348, 1882, 101, 203
+	offsets: 0, 0, 103, 203
+	rotate: 90
+hair/Hair1_b_color3
+	bounds: 1553, 1882, 101, 203
+	offsets: 0, 0, 103, 203
+	rotate: 90
+hair/Hair1_b_color4
+	bounds: 1758, 1882, 101, 203
+	offsets: 0, 0, 103, 203
+	rotate: 90
+hair/Hair1_b_color5
+	bounds: 2, 1781, 101, 203
+	offsets: 0, 0, 103, 203
+	rotate: 90
+hair/Hair1_b_color6
+	bounds: 207, 1780, 101, 203
+	offsets: 0, 0, 103, 203
+	rotate: 90
+hair/Hair1_b_fill
+	bounds: 412, 1780, 101, 203
+	offsets: 0, 0, 103, 203
+	rotate: 90
+jacket/J11/Shirt-body
+	bounds: 2, 153, 125, 130
+	rotate: 90
+jacket/J12/Shirt-body
+	bounds: 1253, 5, 127, 149
+	rotate: 90
+jacket/J17/Shirt-body
+	bounds: 416, 14, 126, 157
+	rotate: 90
+jacket/J18/Shirt-body
+	bounds: 291, 274, 123, 150
+	rotate: 90
+jacket/J19/Shirt-body
+	bounds: 907, 392, 122, 129
+	rotate: 90
+jacket/J2/Shirt-body
+	bounds: 1499, 388, 124, 122
+jacket/J3/Shirt-body
+	bounds: 134, 22, 126, 144
+	rotate: 90
+jacket/J6/Shirt-body
+	bounds: 1106, 998, 116, 113
+jacket/J7/Shirt-body
+	bounds: 283, 147, 125, 138
+	rotate: 90
+jacket/J8/Shirt-body
+	bounds: 1920, 131, 126, 126
+jumpsuit/HLW/4/Shirt
+	bounds: 234, 1234, 111, 115
+	rotate: 90
+jumpsuit/HLW/5/Shirt_b
+	bounds: 280, 18, 127, 134
+	rotate: 90
+jumpsuit/HLW/5/Shirt_f
+	bounds: 465, 1231, 148, 111
+	offsets: 0, 0, 148, 112
+jumpsuit/JS1/shirt-body
+	bounds: 1330, 759, 118, 133
+	rotate: 90
+jumpsuit/JS10/shirt-body
+	bounds: 1550, 512, 120, 172
+	rotate: 90
+jumpsuit/JS11/shirt-body
+	bounds: 615, 1231, 111, 115
+	rotate: 90
+jumpsuit/JS6/shirt-body
+	bounds: 1884, 1224, 111, 115
+	rotate: 90
+jumpsuit/JS7/shirt_body
+	bounds: 973, 1671, 111, 105
+jumpsuit/JS9/Shirt_body
+	bounds: 1465, 877, 116, 166
+	rotate: 90
+shirt/TC1/shirt-body
+	bounds: 619, 1117, 111, 112
+shirt/TC10/shirt-body
+	bounds: 635, 1673, 108, 104
+shirt/TC12/shirt-body
+	bounds: 2, 1460, 109, 107
+shirt/TC13/shirt-body
+	bounds: 351, 1233, 112, 111
+	offsets: 0, 1, 112, 112
+shirt/TC15/shirt-body
+	bounds: 115, 1675, 107, 103
+shirt/TC16/shirt-body
+	bounds: 386, 1118, 113, 111
+shirt/TC17/shirt-body
+	bounds: 501, 1118, 111, 116
+	rotate: 90
+shirt/TC18/shirt-body_fill
+	bounds: 1907, 1670, 111, 105
+shirt/TC19/shirt-body
+	bounds: 405, 1458, 111, 106
+shirt/TC2/shirt-body
+	bounds: 1116, 1113, 111, 112
+	rotate: 90
+shirt/TC20/shirt-body
+	bounds: 2, 1569, 110, 105
+shirt/TC22/shirt-body_fill
+	bounds: 1360, 997, 113, 130
+	rotate: 90
+shirt/TC26/shirt-body
+	bounds: 353, 1346, 111, 110
+shirt/TC4/shirt-body
+	bounds: 2, 772, 116, 148
+	rotate: 90
+shirt/TC5/shirt-body
+	bounds: 744, 1340, 112, 110
+shirt/TC6/shirt-body
+	bounds: 745, 1673, 116, 104
+shirt/TC7/shirt-body
+	bounds: 1465, 757, 118, 124
+	rotate: 90
+shirt/TC8/shirt-body
+	bounds: 1895, 755, 118, 120
+	rotate: 90
+staff/shirt
+	bounds: 1850, 511, 120, 137
+	rotate: 90
+wing/W1
+	bounds: 258, 648, 220, 118
+wing/W3
+	bounds: 1625, 387, 191, 122
+
+Character_5.png
+	size: 2048, 2028
+	filter: Linear, Linear
+	pma: true
+Apron/apron
+	bounds: 186, 1763, 131, 194
+	rotate: 90
+Clothes_Floor2/2/Shirt_body
+	bounds: 1065, 1761, 132, 150
+	rotate: 90
+Clothes_Floor2/7/hat3
+	bounds: 298, 194, 361, 174
+Clothes_Floor2/8/hat4
+	bounds: 1283, 1480, 366, 140
+DailyLogin/Hat/Hat_2
+	bounds: 1500, 1014, 194, 158
+	offsets: 1, 0, 196, 158
+Glasses/14
+	bounds: 1217, 1760, 297, 132
+Glasses/4
+	bounds: 1417, 1331, 304, 147
+Glasses/6
+	bounds: 1651, 1480, 288, 140
+Glasses/HLW/1
+	bounds: 382, 1763, 294, 131
+Glasses/HLW/2
+	bounds: 1165, 688, 297, 162
+Glasses/HLW/3
+	bounds: 1134, 1622, 293, 136
+Glasses/Makeup/Glasses_2
+	bounds: 2, 210, 294, 171
+Gothic/10/jacket/Shirt_body
+	bounds: 2, 1629, 133, 137
+	rotate: 90
+Gothic/8/Shirt_body
+	bounds: 1298, 1894, 144, 129
+Hair_Makeup/7_B
+	bounds: 2, 876, 267, 161
+Hair_Makeup/7_B_color2
+	bounds: 271, 873, 267, 161
+Hair_Makeup/7_B_color3
+	bounds: 737, 860, 267, 161
+Hair_Makeup/7_B_color4
+	bounds: 1006, 860, 267, 161
+Hair_Makeup/7_B_color5
+	bounds: 2, 713, 267, 161
+Hair_Makeup/7_B_color6
+	bounds: 271, 710, 267, 161
+Hair_Makeup/7_B_color7
+	bounds: 540, 697, 267, 161
+Hair_Makeup/9_B
+	bounds: 809, 697, 354, 161
+	offsets: 0, 1, 354, 162
+Hair_Makeup/9_B_color2
+	bounds: 1664, 632, 354, 161
+	offsets: 0, 1, 354, 162
+Hair_Makeup/9_B_color3
+	bounds: 2, 547, 354, 161
+	offsets: 0, 1, 354, 162
+Hair_Makeup/9_B_color4
+	bounds: 358, 534, 354, 161
+	offsets: 0, 1, 354, 162
+Hair_Makeup/9_B_color5
+	bounds: 714, 534, 354, 161
+	offsets: 0, 1, 354, 162
+Hair_Makeup/9_B_color6
+	bounds: 1070, 525, 354, 161
+	offsets: 0, 1, 354, 162
+Hair_Makeup/9_B_color7
+	bounds: 1664, 469, 354, 161
+	offsets: 0, 1, 354, 162
+Hospital/BacSi/Shirt_body
+	bounds: 767, 1895, 128, 180
+	rotate: 90
+Hospital/PhauThuat/mask
+	bounds: 2, 1196, 267, 150
+Hospital/YTa/hat
+	bounds: 834, 1338, 287, 143
+	offsets: 0, 0, 287, 144
+KPop/14/Hat
+	bounds: 665, 365, 250, 167
+	offsets: 0, 1, 250, 169
+KPop/15/Glasses
+	bounds: 660, 1626, 297, 134
+KPop/4/Glasses
+	bounds: 1592, 299, 269, 168
+KPop/6/Hat
+	bounds: 2, 383, 315, 162
+	offsets: 0, 0, 315, 163
+LunarNewYear/Glasses/Glasses_1
+	bounds: 1558, 1174, 308, 154
+LunarNewYear/Korea1/Skirt
+	bounds: 1516, 1760, 155, 132
+LunarNewYear/Shirt/Shirt1/skirt
+	bounds: 1350, 1176, 153, 206
+	rotate: 90
+LunarNewYear/Shirt/Shirt2/Shirt
+	bounds: 2, 1349, 140, 196
+	rotate: 90
+LunarNewYear/Shirt/Shirt2/skirt_b
+	bounds: 521, 1628, 133, 137
+	rotate: 90
+LunarNewYear/Vietnam1/shirt-body
+	bounds: 2, 1764, 130, 182
+	rotate: 90
+LunarNewYear/Vietnam2/shirt-body
+	bounds: 678, 1762, 131, 189
+	rotate: 90
+Market/Hat
+	bounds: 319, 370, 344, 162
+Market/jumpsuit
+	bounds: 869, 1762, 131, 194
+	rotate: 90
+Noel/Glasses/Glasses_1
+	bounds: 200, 1348, 305, 141
+Noel/Glasses/Glasses_2
+	bounds: 1123, 1333, 292, 145
+Noel/Set_noel_1/Hat
+	bounds: 943, 1023, 358, 155
+Noel/Set_noel_1/shirt-body
+	bounds: 959, 1624, 135, 173
+	rotate: 90
+Noel/Set_noel_10/skirt_f
+	bounds: 1464, 666, 198, 176
+Noel/Set_noel_11/skirt
+	bounds: 1863, 270, 197, 178
+	rotate: 90
+Noel/Set_noel_2/Hat
+	bounds: 917, 356, 397, 167
+Noel/Set_noel_3/Hat
+	bounds: 2, 1039, 367, 154
+	offsets: 0, 0, 368, 154
+Noel/Set_noel_4/shirt-body
+	bounds: 1881, 1308, 162, 170
+Noel/Set_noel_5/Hat
+	bounds: 371, 1036, 367, 154
+	offsets: 0, 0, 368, 154
+Noel/Set_noel_5/shirt-body
+	bounds: 507, 1345, 152, 141
+Noel/Set_noel_8/shirt-body
+	bounds: 1863, 975, 158, 182
+	rotate: 90
+Staff_Floor3/1/hat
+	bounds: 1868, 1135, 177, 171
+Staff_Floor3/2/hat
+	bounds: 740, 1026, 156, 201
+	rotate: 90
+TeacherAndStudent/GV4/Shirt_body
+	bounds: 949, 1895, 128, 180
+	rotate: 90
+cheeks/Makeup/face_cheek_10
+	bounds: 1429, 1622, 257, 136
+	offsets: 16, 13, 294, 161
+cheeks/Makeup/face_cheek_11
+	bounds: 1688, 1622, 257, 136
+	offsets: 16, 13, 294, 161
+cheeks/Makeup/face_cheek_12
+	bounds: 2, 1491, 257, 136
+	offsets: 16, 13, 294, 161
+cheeks/Makeup/face_cheek_2
+	bounds: 2, 1896, 253, 127
+	offsets: 19, 19, 294, 161
+cheeks/Makeup/face_cheek_3
+	bounds: 261, 1491, 257, 136
+	offsets: 16, 13, 294, 161
+cheeks/Makeup/face_cheek_4
+	bounds: 520, 1488, 257, 136
+	offsets: 16, 13, 294, 161
+cheeks/Makeup/face_cheek_5
+	bounds: 257, 1896, 253, 127
+	offsets: 19, 19, 294, 161
+cheeks/Makeup/face_cheek_6
+	bounds: 512, 1896, 253, 127
+	offsets: 19, 19, 294, 161
+emotion/Angry/Face_Red
+	bounds: 1131, 1895, 165, 128
+	offsets: 15, 11, 195, 151
+hair/Hair17_f_color1
+	bounds: 910, 179, 273, 175
+	offsets: 1, 0, 274, 176
+hair/Hair17_f_color2
+	bounds: 1185, 149, 273, 175
+	offsets: 1, 0, 274, 176
+hair/Hair17_f_color3
+	bounds: 1460, 122, 273, 175
+	offsets: 1, 0, 274, 176
+hair/Hair17_f_color4
+	bounds: 1735, 93, 273, 175
+	offsets: 1, 0, 274, 176
+hair/Hair17_f_color5
+	bounds: 2, 33, 273, 175
+	offsets: 1, 0, 274, 176
+hair/Hair17_f_color6
+	bounds: 277, 17, 273, 175
+	offsets: 1, 0, 274, 176
+hair/Hair17_f_fill
+	bounds: 552, 6, 273, 175
+	offsets: 1, 0, 274, 176
+hat/HLW/hat_2
+	bounds: 1316, 326, 274, 167
+	offsets: 0, 1, 274, 168
+hat/HLW/hat_4
+	bounds: 1484, 844, 187, 168
+hat/Hat_10
+	bounds: 472, 1192, 317, 150
+hat/Hat_8
+	bounds: 540, 872, 195, 162
+hat/Hat_noel_4
+	bounds: 1011, 1180, 337, 151
+hat/Makeup/Hat_1
+	bounds: 827, 2, 277, 175
+hat/Makeup/Hat_4
+	bounds: 1854, 795, 178, 191
+	offsets: 0, 0, 179, 191
+	rotate: 90
+jacket/J10/Shirt-body
+	bounds: 779, 1488, 136, 156
+	rotate: 90
+jacket/J13/Shirt-body
+	bounds: 1444, 1894, 129, 130
+	rotate: 90
+jacket/J14/Shirt-body
+	bounds: 937, 1486, 136, 165
+	rotate: 90
+jacket/J15/Shirt-body
+	bounds: 1673, 1760, 132, 153
+	rotate: 90
+jacket/J16/Shirt-body
+	bounds: 1576, 1894, 130, 129
+jacket/J4/Shirt-body
+	bounds: 1828, 1760, 132, 134
+	rotate: 90
+jacket/J5/Shirt-body
+	bounds: 1708, 1894, 129, 145
+	rotate: 90
+jacket/J9/Shirt-body
+	bounds: 141, 1629, 132, 189
+	rotate: 90
+jumpsuit/HLW/1/Skirt
+	bounds: 1696, 993, 179, 165
+	rotate: 90
+jumpsuit/HLW/2/Skirt
+	bounds: 661, 1344, 142, 171
+	rotate: 90
+jumpsuit/HLW/2/shirt_b
+	bounds: 1855, 1894, 152, 129
+	offsets: 1, 0, 153, 129
+jumpsuit/HLW/3/Shirt
+	bounds: 1723, 1330, 148, 156
+	rotate: 90
+jumpsuit/JS2/Shirt_body
+	bounds: 1673, 815, 176, 179
+	rotate: 90
+jumpsuit/JS3/shirt-body
+	bounds: 1104, 1483, 137, 177
+	rotate: 90
+jumpsuit/JS4/shirt-body
+	bounds: 271, 1195, 151, 199
+	rotate: 90
+jumpsuit/JS5/Shirt_body
+	bounds: 1303, 1017, 195, 157
+jumpsuit/JS8/shirt-body_fill
+	bounds: 332, 1629, 132, 187
+	rotate: 90
+wing/W4
+	bounds: 661, 183, 180, 247
+	rotate: 90
+wing/W7
+	bounds: 1275, 852, 207, 163
+wing/W8
+	bounds: 791, 1184, 218, 152
+wing/W9
+	bounds: 1426, 495, 169, 236
+	rotate: 90
+
+Character_6.png
+	size: 2048, 1992
+	filter: Linear, Linear
+	pma: true
+Gothic/3/hat
+	bounds: 1660, 102, 376, 333
+	offsets: 0, 1, 377, 334
+Hair_Makeup/1_B_color7
+	bounds: 2, 1504, 481, 483
+Hair_Makeup/3_F
+	bounds: 485, 1563, 444, 424
+	offsets: 1, 1, 445, 426
+Hair_Makeup/3_F_color2
+	bounds: 931, 1563, 444, 424
+	offsets: 1, 1, 445, 426
+Hair_Makeup/3_F_color3
+	bounds: 1377, 1563, 444, 424
+	offsets: 1, 1, 445, 426
+Hair_Makeup/3_F_color4
+	bounds: 725, 1137, 444, 424
+	offsets: 1, 1, 445, 426
+Hair_Makeup/3_F_color5
+	bounds: 1171, 1137, 444, 424
+	offsets: 1, 1, 445, 426
+Hair_Makeup/3_F_color6
+	bounds: 1214, 711, 444, 424
+	offsets: 1, 1, 445, 426
+Hair_Makeup/3_F_color7
+	bounds: 723, 27, 444, 424
+	offsets: 1, 1, 445, 426
+Hair_Makeup/4_B_color2
+	bounds: 2, 501, 340, 487
+Hair_Makeup/4_B_color3
+	bounds: 2, 12, 340, 487
+Hair_Makeup/4_B_color4
+	bounds: 383, 1015, 340, 487
+Hair_Makeup/4_B_color5
+	bounds: 725, 795, 340, 487
+	rotate: 90
+Hair_Makeup/4_B_color6
+	bounds: 383, 526, 340, 487
+Hair_Makeup/4_B_color7
+	bounds: 725, 453, 340, 487
+	rotate: 90
+Hair_Makeup/6_F
+	bounds: 1823, 1610, 377, 223
+	offsets: 1, 0, 379, 224
+	rotate: 90
+Hair_Makeup/6_F_color2
+	bounds: 1823, 1231, 377, 223
+	offsets: 1, 0, 379, 224
+	rotate: 90
+Noel/Set_noel_6/Hat
+	bounds: 1617, 1154, 407, 172
+	rotate: 90
+hair/Hair18_b_color1
+	bounds: 1214, 350, 359, 444
+	rotate: 90
+hair/Hair2_f_color1
+	bounds: 1791, 880, 349, 255
+	offsets: 1, 0, 350, 255
+	rotate: 90
+hat/CorgiLand/1
+	bounds: 1660, 437, 441, 368
+	rotate: 90
+hat/CorgiLand/2
+	bounds: 1169, 2, 458, 346
+	offsets: 0, 0, 458, 347
+hat/CorgiLand/3
+	bounds: 2, 990, 512, 379
+	rotate: 90
+hat/Hat_1
+	bounds: 344, 90, 434, 377
+	offsets: 0, 1, 434, 379
+	rotate: 90
+
+Character_7.png
+	size: 2044, 2036
+	filter: Linear, Linear
+	pma: true
+Clothes_Floor2/1/hat1
+	bounds: 1254, 1851, 316, 182
+Clothes_Floor2/10/hat5
+	bounds: 1692, 1004, 317, 195
+Clothes_Floor2/11/hat6
+	bounds: 616, 1856, 346, 177
+	offsets: 1, 14, 349, 191
+Clothes_Floor2/6/hat2
+	bounds: 547, 1667, 311, 187
+Gothic/1/hat
+	bounds: 2, 885, 317, 195
+Gothic/12/hat
+	bounds: 1554, 390, 311, 214
+Gothic/5/hat
+	bounds: 1572, 1851, 299, 182
+Gothic/6/Glasses
+	bounds: 964, 1855, 288, 178
+Hair_Makeup/2_F
+	bounds: 321, 880, 351, 195
+	offsets: 1, 0, 353, 196
+Hair_Makeup/2_F_color2
+	bounds: 674, 878, 351, 195
+	offsets: 1, 0, 353, 196
+Hair_Makeup/2_F_color3
+	bounds: 1027, 877, 351, 195
+	offsets: 1, 0, 353, 196
+Hair_Makeup/2_F_color4
+	bounds: 1612, 807, 351, 195
+	offsets: 1, 0, 353, 196
+Hair_Makeup/2_F_color5
+	bounds: 2, 683, 351, 195
+	offsets: 1, 0, 353, 196
+Hair_Makeup/2_F_color6
+	bounds: 355, 681, 351, 195
+	offsets: 1, 0, 353, 196
+Hair_Makeup/2_F_color7
+	bounds: 708, 680, 351, 195
+	offsets: 1, 0, 353, 196
+Hair_Makeup/4_F
+	bounds: 2, 1280, 305, 192
+	offsets: 0, 1, 306, 193
+Hair_Makeup/4_F_color2
+	bounds: 309, 1278, 305, 192
+	offsets: 0, 1, 306, 193
+Hair_Makeup/4_F_color3
+	bounds: 616, 1276, 305, 192
+	offsets: 0, 1, 306, 193
+Hair_Makeup/4_F_color4
+	bounds: 923, 1272, 305, 192
+	offsets: 0, 1, 306, 193
+Hair_Makeup/4_F_color5
+	bounds: 1230, 1271, 305, 192
+	offsets: 0, 1, 306, 193
+Hair_Makeup/4_F_color6
+	bounds: 1537, 1270, 305, 192
+	offsets: 0, 1, 306, 193
+Hair_Makeup/4_F_color7
+	bounds: 2, 1086, 305, 192
+	offsets: 0, 1, 306, 193
+Hair_Makeup/6_F_color3
+	bounds: 571, 246, 377, 223
+	offsets: 1, 0, 379, 224
+Hair_Makeup/6_F_color4
+	bounds: 1282, 165, 377, 223
+	offsets: 1, 0, 379, 224
+Hair_Makeup/6_F_color5
+	bounds: 1661, 165, 377, 223
+	offsets: 1, 0, 379, 224
+Hair_Makeup/6_F_color6
+	bounds: 2, 22, 377, 223
+	offsets: 1, 0, 379, 224
+Hair_Makeup/6_F_color7
+	bounds: 381, 21, 377, 223
+	offsets: 1, 0, 379, 224
+Hair_Makeup/9_F
+	bounds: 1525, 1658, 292, 191
+	offsets: 1, 1, 294, 193
+Hair_Makeup/9_F_color2
+	bounds: 2, 1477, 292, 191
+	offsets: 1, 1, 294, 193
+Hair_Makeup/9_F_color3
+	bounds: 296, 1474, 292, 191
+	offsets: 1, 1, 294, 193
+Hair_Makeup/9_F_color4
+	bounds: 590, 1472, 292, 191
+	offsets: 1, 1, 294, 193
+Hair_Makeup/9_F_color5
+	bounds: 1108, 1466, 292, 191
+	offsets: 1, 1, 294, 193
+Hair_Makeup/9_F_color6
+	bounds: 1402, 1465, 292, 191
+	offsets: 1, 1, 294, 193
+Hair_Makeup/9_F_color7
+	bounds: 1696, 1464, 292, 191
+	offsets: 1, 1, 294, 193
+Hospital/PhauThuat/hat
+	bounds: 1061, 675, 315, 200
+KPop/11/Hat
+	bounds: 860, 1665, 311, 188
+KPop/13/Hat
+	bounds: 2, 1857, 330, 176
+KPop/15/Hat
+	bounds: 1844, 1201, 261, 197
+	rotate: 90
+KPop/4/Hat
+	bounds: 981, 462, 331, 211
+KPop/7/Hat
+	bounds: 1607, 606, 335, 199
+KPop/8/Hat
+	bounds: 616, 1077, 382, 193
+Noel/Hat/Hat_1
+	bounds: 1380, 866, 206, 230
+	rotate: 90
+Noel/Set_noel_12/jacket_b
+	bounds: 321, 247, 248, 227
+	offsets: 0, 0, 248, 228
+Staff_Floor3/3/hat
+	bounds: 2, 1670, 329, 185
+hair/Hair11_f_color1
+	bounds: 950, 232, 330, 228
+	offsets: 0, 0, 331, 228
+hair/Hair11_f_color2
+	bounds: 760, 2, 330, 228
+	offsets: 0, 0, 331, 228
+hat/HLW/hat_3
+	bounds: 1819, 1657, 201, 192
+	offsets: 0, 0, 201, 193
+hat/HLW/hat_5
+	bounds: 333, 1669, 186, 212
+	rotate: 90
+hat/Hat_11
+	bounds: 2, 479, 343, 202
+	offsets: 0, 1, 343, 203
+hat/Hat_2
+	bounds: 309, 1082, 305, 194
+hat/Hat_3
+	bounds: 347, 476, 332, 203
+hat/Hat_4
+	bounds: 2, 252, 317, 225
+	offsets: 0, 0, 317, 226
+hat/Hat_5
+	bounds: 1000, 1075, 344, 194
+hat/Hat_6
+	bounds: 1173, 1659, 350, 190
+hat/Makeup/Hat_2
+	bounds: 1346, 1074, 344, 194
+hat/Makeup/Hat_5
+	bounds: 681, 471, 298, 207
+hat/Makeup/Hat_6
+	bounds: 334, 1857, 280, 176
+jumpsuit/HLW/5/shirt_b2
+	bounds: 1378, 641, 223, 227
+	offsets: 1, 0, 224, 228
+	rotate: 90
+wing/W2
+	bounds: 884, 1470, 193, 222
+	offsets: 0, 0, 193, 223
+	rotate: 90
+wing/W5
+	bounds: 1314, 414, 238, 225
+
+Character_8.png
+	size: 2024, 1944
+	filter: Linear, Linear
+	pma: true
+DailyLogin/Hat/Hat_1
+	bounds: 1660, 2, 353, 243
+WaterPark/Glasses/1
+	bounds: 624, 783, 293, 233
+WaterPark/Glasses/2
+	bounds: 919, 783, 293, 233
+WaterPark/Glasses/3
+	bounds: 1214, 782, 293, 233
+hair/Hair11_f_color3
+	bounds: 2, 1714, 330, 228
+	offsets: 0, 0, 331, 228
+hair/Hair11_f_color4
+	bounds: 334, 1714, 330, 228
+	offsets: 0, 0, 331, 228
+hair/Hair11_f_color5
+	bounds: 666, 1714, 330, 228
+	offsets: 0, 0, 331, 228
+hair/Hair11_f_color6
+	bounds: 998, 1714, 330, 228
+	offsets: 0, 0, 331, 228
+hair/Hair11_f_fill
+	bounds: 1330, 1714, 330, 228
+	offsets: 0, 0, 331, 228
+hair/Hair13_f_color1
+	bounds: 2, 548, 334, 235
+	offsets: 0, 2, 334, 237
+hair/Hair13_f_color2
+	bounds: 338, 546, 334, 235
+	offsets: 0, 2, 334, 237
+hair/Hair13_f_color3
+	bounds: 674, 546, 334, 235
+	offsets: 0, 2, 334, 237
+hair/Hair13_f_color4
+	bounds: 1010, 545, 334, 235
+	offsets: 0, 2, 334, 237
+hair/Hair13_f_color5
+	bounds: 1346, 487, 334, 235
+	offsets: 0, 2, 334, 237
+hair/Hair13_f_color6
+	bounds: 1682, 487, 334, 235
+	offsets: 0, 2, 334, 237
+hair/Hair13_f_fill
+	bounds: 2, 311, 334, 235
+	offsets: 0, 2, 334, 237
+hair/Hair15_f_color1
+	bounds: 694, 61, 323, 243
+	offsets: 0, 0, 324, 243
+hair/Hair16_f_color1
+	bounds: 2, 1251, 296, 230
+hair/Hair16_f_color2
+	bounds: 300, 1251, 296, 230
+hair/Hair16_f_color3
+	bounds: 598, 1251, 296, 230
+hair/Hair16_f_color4
+	bounds: 896, 1251, 296, 230
+hair/Hair16_f_color5
+	bounds: 1194, 1251, 296, 230
+hair/Hair16_f_color6
+	bounds: 1492, 1250, 296, 230
+hair/Hair16_f_fill
+	bounds: 2, 1019, 296, 230
+hair/Hair21_f_color1
+	bounds: 300, 1018, 309, 231
+hair/Hair21_f_color2
+	bounds: 611, 1018, 309, 231
+hair/Hair21_f_color3
+	bounds: 922, 1018, 309, 231
+hair/Hair21_f_color4
+	bounds: 1233, 1017, 309, 231
+hair/Hair21_f_color5
+	bounds: 1544, 959, 309, 231
+hair/Hair21_f_color6
+	bounds: 2, 785, 309, 231
+hair/Hair21_f_fill
+	bounds: 313, 785, 309, 231
+hair/Hair22_f_color1
+	bounds: 338, 307, 344, 237
+	offsets: 0, 1, 344, 238
+hair/Hair22_f_color2
+	bounds: 1325, 247, 344, 238
+	offsets: 0, 1, 344, 239
+hair/Hair22_f_color3
+	bounds: 1671, 247, 344, 238
+	offsets: 0, 1, 344, 239
+hair/Hair22_f_color4
+	bounds: 2, 67, 344, 238
+	offsets: 0, 1, 344, 239
+hair/Hair22_f_color5
+	bounds: 348, 66, 344, 238
+	offsets: 0, 1, 344, 239
+hair/Hair22_f_color6
+	bounds: 1314, 7, 344, 238
+	offsets: 0, 1, 344, 239
+hair/Hair22_f_fill
+	bounds: 684, 306, 344, 237
+	offsets: 0, 1, 344, 238
+hair/Hair23_f_color1
+	bounds: 1662, 1713, 314, 229
+	offsets: 0, 1, 314, 230
+hair/Hair23_f_color2
+	bounds: 2, 1483, 314, 229
+	offsets: 0, 1, 314, 230
+hair/Hair23_f_color3
+	bounds: 318, 1483, 314, 229
+	offsets: 0, 1, 314, 230
+hair/Hair23_f_color4
+	bounds: 634, 1483, 314, 229
+	offsets: 0, 1, 314, 230
+hair/Hair23_f_color5
+	bounds: 950, 1483, 314, 229
+	offsets: 0, 1, 314, 230
+hair/Hair23_f_color6
+	bounds: 1266, 1483, 314, 229
+	offsets: 0, 1, 314, 230
+hair/Hair23_f_fill
+	bounds: 1582, 1482, 314, 229
+	offsets: 0, 1, 314, 230
+hair/Hair5_b_color1
+	bounds: 1030, 299, 244, 293
+	rotate: 90
+hair/Hair5_b_color2
+	bounds: 1019, 53, 244, 293
+	rotate: 90
+hat/Hat_7
+	bounds: 1790, 1192, 288, 230
+	rotate: 90
+wing/W10
+	bounds: 1509, 724, 233, 347
+	offsets: 0, 1, 233, 348
+	rotate: 90
+
+Character_9.png
+	size: 2048, 2044
+	filter: Linear, Linear
+	pma: true
+LunarNewYear/Hat/hat_2
+	bounds: 413, 1645, 397, 441
+	offsets: 1, 0, 398, 441
+	rotate: 90
+Mannequin/body2
+	bounds: 1266, 52, 323, 412
+	offsets: 0, 6, 323, 418
+Noel/Set_noel_11/hat
+	bounds: 2, 768, 416, 387
+	offsets: 0, 0, 416, 388
+	rotate: 90
+Noel/Set_noel_4/Hat
+	bounds: 2, 1186, 419, 418
+	rotate: 90
+Noel/Set_noel_7/Hat
+	bounds: 1438, 527, 396, 334
+	rotate: 90
+Noel/Set_noel_8/Hat
+	bounds: 2, 1607, 409, 435
+hair/Hair18_b_color2
+	bounds: 2, 322, 359, 444
+hair/Hair18_b_color3
+	bounds: 363, 322, 359, 444
+hair/Hair18_b_color4
+	bounds: 391, 825, 359, 444
+	rotate: 90
+hair/Hair18_b_color5
+	bounds: 724, 379, 359, 444
+hair/Hair18_b_color6
+	bounds: 820, 18, 359, 444
+	rotate: 90
+hair/Hair18_b_fill
+	bounds: 422, 1199, 359, 444
+hair/Hair3_b_color1
+	bounds: 1663, 1016, 348, 380
+	rotate: 90
+hair/Hair3_b_color2
+	bounds: 1591, 177, 348, 380
+	rotate: 90
+hair/Hair4_f_color1
+	bounds: 2, 2, 318, 407
+	rotate: 90
+hair/Hair4_f_color2
+	bounds: 411, 2, 318, 407
+	rotate: 90
+hair/Hair8_b_color1
+	bounds: 783, 1232, 351, 411
+	offsets: 0, 0, 351, 412
+hair/Hair8_b_color2
+	bounds: 856, 1691, 351, 411
+	offsets: 0, 0, 351, 412
+	rotate: 90
+hair/Hair8_b_color3
+	bounds: 837, 879, 351, 411
+	offsets: 0, 0, 351, 412
+	rotate: 90
+hair/Hair8_b_color4
+	bounds: 1136, 1278, 351, 411
+	offsets: 0, 0, 351, 412
+hair/Hair8_b_color5
+	bounds: 1269, 1691, 351, 411
+	offsets: 0, 0, 351, 412
+	rotate: 90
+hair/Hair8_b_color6
+	bounds: 1085, 466, 351, 411
+	offsets: 0, 0, 351, 412
+hair/Hair8_b_fill
+	bounds: 1250, 925, 351, 411
+	offsets: 0, 0, 351, 412
+	rotate: 90
+hair/Hair9_b_color1
+	bounds: 1682, 1695, 347, 347
+	offsets: 1, 0, 349, 347
+hat/Hat_noel_1
+	bounds: 1774, 601, 413, 262
+	offsets: 0, 0, 413, 263
+	rotate: 90
+jumpsuit/JS6/Hat
+	bounds: 1489, 1366, 414, 323
+
+Character_10.png
+	size: 2048, 2008
+	filter: Linear, Linear
+	pma: true
+Gothic/10/hat
+	bounds: 1111, 1265, 328, 330
+Hair_Makeup/1_F
+	bounds: 1588, 2, 318, 382
+	offsets: 0, 1, 318, 383
+	rotate: 90
+Hair_Makeup/3_B
+	bounds: 1428, 874, 276, 389
+	offsets: 1, 1, 278, 391
+Hair_Makeup/5_B
+	bounds: 322, 456, 301, 402
+	offsets: 0, 1, 302, 403
+Hair_Makeup/5_B_color2
+	bounds: 322, 52, 301, 402
+	offsets: 0, 1, 302, 403
+Hair_Makeup/5_B_color3
+	bounds: 625, 466, 301, 402
+	offsets: 0, 1, 302, 403
+Hair_Makeup/5_B_color4
+	bounds: 625, 62, 301, 402
+	offsets: 0, 1, 302, 403
+Hair_Makeup/5_B_color5
+	bounds: 928, 516, 301, 402
+	offsets: 0, 1, 302, 403
+Hair_Makeup/5_B_color6
+	bounds: 928, 112, 301, 402
+	offsets: 0, 1, 302, 403
+hair/Hair18_f_color1
+	bounds: 1708, 1639, 365, 338
+	rotate: 90
+hair/Hair18_f_color2
+	bounds: 1061, 925, 365, 338
+hair/Hair20_b_color1
+	bounds: 704, 920, 355, 355
+hair/Hair20_b_color2
+	bounds: 1231, 517, 355, 355
+hair/Hair20_b_color3
+	bounds: 1231, 160, 355, 355
+hair/Hair20_b_color4
+	bounds: 1588, 322, 355, 355
+hair/Hair20_f_color1
+	bounds: 1706, 1319, 340, 318
+	offsets: 1, 0, 341, 318
+hair/Hair20_f_color2
+	bounds: 1706, 999, 340, 318
+	offsets: 1, 0, 341, 318
+hair/Hair20_f_color3
+	bounds: 1706, 679, 340, 318
+	offsets: 1, 0, 341, 318
+hair/Hair3_b_color3
+	bounds: 2, 1624, 348, 380
+hair/Hair3_b_color4
+	bounds: 2, 1242, 348, 380
+hair/Hair3_b_color5
+	bounds: 352, 1624, 348, 380
+hair/Hair3_b_color6
+	bounds: 2, 860, 348, 380
+hair/Hair3_b_fill
+	bounds: 352, 1242, 348, 380
+hair/Hair4_f_color3
+	bounds: 702, 1597, 318, 407
+hair/Hair4_f_color4
+	bounds: 2, 451, 318, 407
+hair/Hair4_f_color5
+	bounds: 1022, 1597, 318, 407
+hair/Hair4_f_color6
+	bounds: 702, 1277, 318, 407
+	rotate: 90
+hair/Hair4_f_fill
+	bounds: 2, 42, 318, 407
+hat/Hat_noel_3
+	bounds: 1441, 1267, 378, 263
+	rotate: 90
+jumpsuit/HLW/2/Hat
+	bounds: 1342, 1647, 364, 357
+jumpsuit/JS9/Hat
+	bounds: 352, 870, 350, 370
+
+Character_11.png
+	size: 2048, 2044
+	filter: Linear, Linear
+	pma: true
+Hair_Makeup/7_F
+	bounds: 1477, 1552, 305, 245
+Hair_Makeup/7_F_color2
+	bounds: 1784, 1492, 305, 245
+	rotate: 90
+Hair_Makeup/7_F_color3
+	bounds: 2, 1306, 305, 245
+Hair_Makeup/7_F_color4
+	bounds: 309, 1306, 305, 245
+Hair_Makeup/7_F_color5
+	bounds: 616, 1306, 305, 245
+Hair_Makeup/7_F_color6
+	bounds: 923, 1306, 305, 245
+Hair_Makeup/7_F_color7
+	bounds: 1230, 1305, 305, 245
+Noel/Set_noel_4/HatB
+	bounds: 1338, 200, 328, 268
+Noel/Set_noel_9/Hat
+	bounds: 1537, 1241, 325, 249
+	offsets: 0, 1, 325, 251
+hair/Hair10_b_color1
+	bounds: 2, 1055, 249, 358
+	offsets: 0, 28, 249, 386
+	rotate: 90
+hair/Hair10_b_color2
+	bounds: 362, 1055, 249, 358
+	offsets: 0, 28, 249, 386
+	rotate: 90
+hair/Hair10_b_color4
+	bounds: 722, 1055, 249, 358
+	offsets: 0, 28, 249, 386
+	rotate: 90
+hair/Hair10_b_color5
+	bounds: 1082, 1054, 249, 358
+	offsets: 0, 28, 249, 386
+	rotate: 90
+hair/Hair10_b_color6
+	bounds: 1442, 990, 249, 358
+	offsets: 0, 28, 249, 386
+	rotate: 90
+hair/Hair10_b_fill
+	bounds: 2, 804, 249, 358
+	offsets: 0, 28, 249, 386
+	rotate: 90
+hair/Hair14_f_color1
+	bounds: 977, 268, 359, 264
+hair/Hair14_f_color2
+	bounds: 1668, 195, 359, 264
+hair/Hair14_f_color3
+	bounds: 312, 6, 359, 264
+hair/Hair14_f_color4
+	bounds: 673, 2, 359, 264
+hair/Hair15_f_color2
+	bounds: 2, 1799, 323, 243
+	offsets: 0, 0, 324, 243
+hair/Hair15_f_color3
+	bounds: 327, 1799, 323, 243
+	offsets: 0, 0, 324, 243
+hair/Hair15_f_color4
+	bounds: 652, 1799, 323, 243
+	offsets: 0, 0, 324, 243
+hair/Hair15_f_color5
+	bounds: 977, 1799, 323, 243
+	offsets: 0, 0, 324, 243
+hair/Hair15_f_color6
+	bounds: 1302, 1799, 323, 243
+	offsets: 0, 0, 324, 243
+hair/Hair15_f_fill
+	bounds: 1627, 1799, 323, 243
+	offsets: 0, 0, 324, 243
+hair/Hair2_f_color2
+	bounds: 362, 798, 349, 255
+	offsets: 1, 0, 350, 255
+hair/Hair2_f_color3
+	bounds: 713, 798, 349, 255
+	offsets: 1, 0, 350, 255
+hair/Hair2_f_color4
+	bounds: 1064, 797, 349, 255
+	offsets: 1, 0, 350, 255
+hair/Hair2_f_color5
+	bounds: 1415, 733, 349, 255
+	offsets: 1, 0, 350, 255
+hair/Hair2_f_color6
+	bounds: 2, 547, 349, 255
+	offsets: 1, 0, 350, 255
+hair/Hair2_f_fill
+	bounds: 353, 541, 349, 255
+	offsets: 1, 0, 350, 255
+hair/Hair5_b_color3
+	bounds: 2, 1553, 244, 293
+	rotate: 90
+hair/Hair5_b_color4
+	bounds: 297, 1553, 244, 293
+	rotate: 90
+hair/Hair5_b_color5
+	bounds: 592, 1553, 244, 293
+	rotate: 90
+hair/Hair5_b_color6
+	bounds: 887, 1553, 244, 293
+	rotate: 90
+hair/Hair5_b_fill
+	bounds: 1182, 1553, 244, 293
+	rotate: 90
+hair/Hair6_f_color1
+	bounds: 704, 535, 323, 261
+hair/Hair6_f_color2
+	bounds: 1029, 534, 323, 261
+hair/Hair6_f_color3
+	bounds: 1354, 470, 323, 261
+hair/Hair6_f_color4
+	bounds: 1679, 461, 323, 261
+hair/Hair6_f_color5
+	bounds: 2, 284, 323, 261
+hair/Hair6_f_color6
+	bounds: 327, 278, 323, 261
+hair/Hair6_f_fill
+	bounds: 652, 272, 323, 261
+hat/Hat_9
+	bounds: 2, 13, 308, 269
+wing/W6
+	bounds: 1766, 724, 264, 279
+	rotate: 90
+
+Character_12.png
+	size: 1844, 2048
+	filter: Linear, Linear
+	pma: true
+Hair_Makeup/1_F_color2
+	bounds: 2, 546, 318, 382
+	offsets: 0, 1, 318, 383
+Hair_Makeup/1_F_color3
+	bounds: 2, 162, 318, 382
+	offsets: 0, 1, 318, 383
+Hair_Makeup/1_F_color4
+	bounds: 1149, 984, 318, 382
+	offsets: 0, 1, 318, 383
+Hair_Makeup/1_F_color5
+	bounds: 1469, 984, 318, 382
+	offsets: 0, 1, 318, 383
+Hair_Makeup/1_F_color6
+	bounds: 1166, 600, 318, 382
+	offsets: 0, 1, 318, 383
+Hair_Makeup/1_F_color7
+	bounds: 1486, 600, 318, 382
+	offsets: 0, 1, 318, 383
+Hair_Makeup/3_B_color2
+	bounds: 305, 943, 276, 389
+	offsets: 1, 1, 278, 391
+Hair_Makeup/3_B_color3
+	bounds: 322, 552, 276, 389
+	offsets: 1, 1, 278, 391
+Hair_Makeup/3_B_color4
+	bounds: 322, 161, 276, 389
+	offsets: 1, 1, 278, 391
+Hair_Makeup/3_B_color5
+	bounds: 322, 161, 276, 389
+	offsets: 1, 1, 278, 391
+Hair_Makeup/3_B_color6
+	bounds: 583, 951, 276, 389
+	offsets: 1, 1, 278, 391
+Hair_Makeup/3_B_color7
+	bounds: 600, 560, 276, 389
+	offsets: 1, 1, 278, 391
+Hair_Makeup/5_B_color7
+	bounds: 2, 930, 301, 402
+	offsets: 0, 1, 302, 403
+Hair_Makeup/5_F
+	bounds: 600, 170, 286, 388
+Hair_Makeup/5_F_color2
+	bounds: 861, 952, 286, 388
+Hair_Makeup/5_F_color3
+	bounds: 878, 562, 286, 388
+Hair_Makeup/5_F_color4
+	bounds: 888, 172, 286, 388
+Hair_Makeup/5_F_color5
+	bounds: 1556, 210, 286, 388
+angry_face
+	bounds: 1176, 2, 276, 277
+	offsets: 0, 11, 313, 288
+hair/Hair18_f_color3
+	bounds: 716, 1708, 365, 338
+hair/Hair18_f_color4
+	bounds: 1083, 1708, 365, 338
+hair/Hair18_f_color5
+	bounds: 1450, 1708, 365, 338
+hair/Hair18_f_color6
+	bounds: 1057, 1368, 365, 338
+hair/Hair18_f_fill
+	bounds: 1424, 1368, 365, 338
+hair/Hair20_b_color5
+	bounds: 2, 1691, 355, 355
+hair/Hair20_b_color6
+	bounds: 2, 1334, 355, 355
+hair/Hair20_b_fill
+	bounds: 359, 1691, 355, 355
+hair/Hair9_b_color2
+	bounds: 359, 1342, 347, 347
+	offsets: 1, 0, 349, 347
+hair/Hair9_b_color3
+	bounds: 708, 1342, 347, 347
+	offsets: 1, 0, 349, 347
+hair/Hair9_f_color1
+	bounds: 1176, 281, 378, 317
+	offsets: 0, 9, 378, 326
+
+Character_13.png
+	size: 1888, 2048
+	filter: Linear, Linear
+	pma: true
+Hair_Makeup/5_F_color6
+	bounds: 351, 350, 286, 388
+Hair_Makeup/5_F_color7
+	bounds: 700, 799, 286, 388
+	rotate: 90
+Hair_Makeup/8_F
+	bounds: 351, 29, 322, 319
+	offsets: 0, 0, 323, 319
+Hair_Makeup/8_F_color2
+	bounds: 1495, 408, 322, 319
+	offsets: 0, 0, 323, 319
+hair/Hair14_f_color5
+	bounds: 675, 2, 359, 264
+	rotate: 90
+hair/Hair19_f_color1
+	bounds: 1494, 1088, 316, 357
+	rotate: 90
+hair/Hair19_f_color2
+	bounds: 1177, 454, 316, 357
+hair/Hair19_f_color3
+	bounds: 1495, 729, 316, 357
+hair/Hair5_f_color1
+	bounds: 1479, 74, 332, 341
+	offsets: 0, 0, 332, 342
+	rotate: 90
+hair/Hair7_b_color1
+	bounds: 382, 1089, 371, 319
+	offsets: 0, 0, 372, 319
+hair/Hair7_b_color2
+	bounds: 762, 1408, 371, 319
+	offsets: 0, 0, 372, 319
+hair/Hair7_b_color3
+	bounds: 1142, 1727, 371, 319
+	offsets: 0, 0, 372, 319
+hair/Hair7_b_color4
+	bounds: 1515, 1727, 371, 319
+	offsets: 0, 0, 372, 319
+hair/Hair7_b_color5
+	bounds: 755, 1087, 371, 319
+	offsets: 0, 0, 372, 319
+hair/Hair7_b_color6
+	bounds: 1135, 1406, 371, 319
+	offsets: 0, 0, 372, 319
+hair/Hair7_b_fill
+	bounds: 1508, 1406, 371, 319
+	offsets: 0, 0, 372, 319
+hair/Hair7_f_color1
+	bounds: 1090, 813, 375, 267
+	offsets: 1, 0, 376, 267
+hair/Hair7_f_color2
+	bounds: 639, 363, 375, 267
+	offsets: 1, 0, 376, 267
+	rotate: 90
+hair/Hair7_f_color3
+	bounds: 908, 422, 375, 267
+	offsets: 1, 0, 376, 267
+	rotate: 90
+hair/Hair7_f_color4
+	bounds: 941, 45, 375, 267
+	offsets: 1, 0, 376, 267
+	rotate: 90
+hair/Hair7_f_color5
+	bounds: 1210, 77, 375, 267
+	offsets: 1, 0, 376, 267
+	rotate: 90
+hair/Hair9_b_color4
+	bounds: 2, 742, 347, 347
+	offsets: 1, 0, 349, 347
+hair/Hair9_b_color5
+	bounds: 2, 393, 347, 347
+	offsets: 1, 0, 349, 347
+hair/Hair9_b_color6
+	bounds: 2, 44, 347, 347
+	offsets: 1, 0, 349, 347
+hair/Hair9_b_fill
+	bounds: 351, 740, 347, 347
+	offsets: 1, 0, 349, 347
+hair/Hair9_f_color2
+	bounds: 2, 1729, 378, 317
+	offsets: 0, 9, 378, 326
+hair/Hair9_f_color3
+	bounds: 2, 1410, 378, 317
+	offsets: 0, 9, 378, 326
+hair/Hair9_f_color4
+	bounds: 382, 1729, 378, 317
+	offsets: 0, 9, 378, 326
+hair/Hair9_f_color5
+	bounds: 2, 1091, 378, 317
+	offsets: 0, 9, 378, 326
+hair/Hair9_f_color6
+	bounds: 382, 1410, 378, 317
+	offsets: 0, 9, 378, 326
+hair/Hair9_f_fill
+	bounds: 762, 1729, 378, 317
+	offsets: 0, 9, 378, 326
+jumpsuit/HLW/4/hat_f
+	bounds: 1128, 1082, 364, 322
+
+Character_14.png
+	size: 2000, 2048
+	filter: Linear, Linear
+	pma: true
+KPop/10/Hat
+	bounds: 628, 15, 340, 282
+	offsets: 0, 1, 340, 283
+Mannequin/head
+	bounds: 2, 2, 311, 287
+	offsets: 1, 1, 313, 288
+Noel/Hat/Hat_2
+	bounds: 970, 18, 308, 279
+Noel/Hat/Hat_3
+	bounds: 756, 1777, 368, 268
+	offsets: 0, 0, 368, 269
+hair/Hair10_f_color1
+	bounds: 346, 299, 299, 325
+	offsets: 0, 0, 299, 326
+	rotate: 90
+hair/Hair10_f_color2
+	bounds: 673, 299, 299, 325
+	offsets: 0, 0, 299, 326
+	rotate: 90
+hair/Hair10_f_color3
+	bounds: 1000, 299, 299, 325
+	offsets: 0, 0, 299, 326
+	rotate: 90
+hair/Hair10_f_color4
+	bounds: 1327, 299, 299, 325
+	offsets: 0, 0, 299, 326
+	rotate: 90
+hair/Hair12_f_color1
+	bounds: 1126, 1772, 358, 273
+hair/Hair12_f_color2
+	bounds: 724, 1502, 358, 273
+hair/Hair12_f_color3
+	bounds: 1486, 1772, 358, 273
+hair/Hair12_f_color4
+	bounds: 2, 1237, 358, 273
+hair/Hair12_f_color5
+	bounds: 362, 1237, 358, 273
+hair/Hair12_f_color6
+	bounds: 1084, 1497, 358, 273
+hair/Hair12_f_fill
+	bounds: 722, 1227, 358, 273
+hair/Hair14_f_color6
+	bounds: 2, 1512, 359, 264
+hair/Hair14_f_fill
+	bounds: 363, 1512, 359, 264
+hair/Hair19_f_color4
+	bounds: 1444, 1454, 316, 357
+	rotate: 90
+hair/Hair19_f_color5
+	bounds: 1082, 1179, 316, 357
+	rotate: 90
+hair/Hair19_f_color6
+	bounds: 1441, 1136, 316, 357
+	rotate: 90
+hair/Hair19_f_fill
+	bounds: 2, 919, 316, 357
+	rotate: 90
+hair/Hair1_f_color1
+	bounds: 2, 605, 342, 312
+	offsets: 0, 5, 342, 317
+hair/Hair1_f_color2
+	bounds: 715, 913, 342, 312
+	offsets: 0, 5, 342, 317
+hair/Hair1_f_color3
+	bounds: 346, 600, 342, 312
+	offsets: 0, 5, 342, 317
+hair/Hair1_f_color4
+	bounds: 2, 291, 342, 312
+	offsets: 0, 5, 342, 317
+hair/Hair1_f_color5
+	bounds: 1654, 822, 342, 312
+	offsets: 0, 5, 342, 317
+hair/Hair1_f_color6
+	bounds: 1654, 508, 342, 312
+	offsets: 0, 5, 342, 317
+hair/Hair2_b_color1
+	bounds: 1280, 18, 298, 279
+hair/Hair2_b_color2
+	bounds: 1580, 18, 298, 279
+hair/Hair2_b_color3
+	bounds: 1364, 836, 298, 279
+	rotate: 90
+hair/Hair3_f_color1
+	bounds: 690, 600, 335, 311
+	offsets: 0, 0, 336, 311
+hair/Hair3_f_color2
+	bounds: 1027, 600, 335, 311
+	offsets: 0, 0, 336, 311
+hair/Hair7_f_color6
+	bounds: 2, 1778, 375, 267
+	offsets: 1, 0, 376, 267
+hair/Hair7_f_fill
+	bounds: 379, 1778, 375, 267
+	offsets: 1, 0, 376, 267
+head
+	bounds: 315, 5, 311, 284
+	offsets: 1, 2, 313, 288
+jumpsuit/JS11/Hat
+	bounds: 361, 914, 352, 321
+	offsets: 0, 1, 352, 322
+
+Character_15.png
+	size: 2000, 1876
+	filter: Linear, Linear
+	pma: true
+Hair_Makeup/8_F_color3
+	bounds: 1028, 7, 322, 319
+	offsets: 0, 0, 323, 319
+Hair_Makeup/8_F_color4
+	bounds: 1352, 2, 322, 319
+	offsets: 0, 0, 323, 319
+Hair_Makeup/8_F_color5
+	bounds: 1676, 2, 322, 319
+	offsets: 0, 0, 323, 319
+hair/Hair10_f_color5
+	bounds: 2, 1302, 299, 325
+	offsets: 0, 0, 299, 326
+	rotate: 90
+hair/Hair10_f_color6
+	bounds: 329, 1295, 299, 325
+	offsets: 0, 0, 299, 326
+	rotate: 90
+hair/Hair10_f_fill
+	bounds: 656, 1291, 299, 325
+	offsets: 0, 0, 299, 326
+	rotate: 90
+hair/Hair1_f_fill
+	bounds: 1316, 965, 342, 312
+	offsets: 0, 5, 342, 317
+hair/Hair20_f_color4
+	bounds: 1626, 323, 340, 318
+	offsets: 1, 0, 341, 318
+hair/Hair20_f_color5
+	bounds: 2, 22, 340, 318
+	offsets: 1, 0, 341, 318
+hair/Hair20_f_color6
+	bounds: 344, 14, 340, 318
+	offsets: 1, 0, 341, 318
+hair/Hair20_f_fill
+	bounds: 686, 10, 340, 318
+	offsets: 1, 0, 341, 318
+hair/Hair2_b_color4
+	bounds: 666, 1592, 298, 279
+hair/Hair2_b_color5
+	bounds: 966, 1592, 298, 279
+hair/Hair2_b_color6
+	bounds: 1266, 1592, 298, 279
+hair/Hair2_b_fill
+	bounds: 1566, 1592, 298, 279
+hair/Hair3_f_color3
+	bounds: 983, 1279, 335, 311
+	offsets: 0, 0, 336, 311
+hair/Hair3_f_color4
+	bounds: 1320, 1279, 335, 311
+	offsets: 0, 0, 336, 311
+hair/Hair3_f_color5
+	bounds: 1657, 1279, 335, 311
+	offsets: 0, 0, 336, 311
+hair/Hair3_f_color6
+	bounds: 322, 978, 335, 311
+	offsets: 0, 0, 336, 311
+hair/Hair3_f_fill
+	bounds: 979, 966, 335, 311
+	offsets: 0, 0, 336, 311
+hair/Hair6_b_color1
+	bounds: 2, 983, 317, 318
+	offsets: 0, 0, 318, 319
+	rotate: 90
+hair/Hair6_b_color2
+	bounds: 659, 972, 317, 318
+	offsets: 0, 0, 318, 319
+	rotate: 90
+hair/Hair6_b_color3
+	bounds: 2, 664, 317, 318
+	offsets: 0, 0, 318, 319
+	rotate: 90
+hair/Hair6_b_color4
+	bounds: 654, 653, 317, 318
+	offsets: 0, 0, 318, 319
+	rotate: 90
+hair/Hair6_b_color5
+	bounds: 2, 345, 317, 318
+	offsets: 0, 0, 318, 319
+	rotate: 90
+hair/Hair6_b_color6
+	bounds: 654, 334, 317, 318
+	offsets: 0, 0, 318, 319
+	rotate: 90
+hair/Hair6_b_fill
+	bounds: 1306, 328, 317, 318
+	offsets: 0, 0, 318, 319
+	rotate: 90
+hair/Hair8_f_color1
+	bounds: 1660, 961, 330, 316
+hair/Hair8_f_color2
+	bounds: 322, 660, 330, 316
+hair/Hair8_f_color3
+	bounds: 974, 648, 330, 316
+hair/Hair8_f_color4
+	bounds: 1306, 647, 330, 316
+hair/Hair8_f_color5
+	bounds: 1638, 643, 330, 316
+hair/Hair8_f_color6
+	bounds: 322, 342, 330, 316
+hair/Hair8_f_fill
+	bounds: 974, 330, 330, 316
+hat/Makeup/Hat_3
+	bounds: 344, 1596, 275, 320
+	rotate: 90
+jumpsuit/HLW/4/hat_b
+	bounds: 2, 1603, 340, 268
+
+Character_16.png
+	size: 992, 1032
+	filter: Linear, Linear
+	pma: true
+Hair_Makeup/8_F_color6
+	bounds: 670, 379, 322, 319
+	offsets: 0, 0, 323, 319
+	rotate: 90
+Hair_Makeup/8_F_color7
+	bounds: 670, 55, 322, 319
+	offsets: 0, 0, 323, 319
+	rotate: 90
+LunarNewYear/Korea2/Hat
+	bounds: 670, 703, 326, 319
+	offsets: 0, 1, 326, 321
+	rotate: 90
+hair/Hair5_f_color2
+	bounds: 2, 688, 332, 341
+	offsets: 0, 0, 332, 342
+hair/Hair5_f_color3
+	bounds: 2, 345, 332, 341
+	offsets: 0, 0, 332, 342
+hair/Hair5_f_color4
+	bounds: 336, 688, 332, 341
+	offsets: 0, 0, 332, 342
+hair/Hair5_f_color5
+	bounds: 2, 2, 332, 341
+	offsets: 0, 0, 332, 342
+hair/Hair5_f_color6
+	bounds: 336, 345, 332, 341
+	offsets: 0, 0, 332, 342
+hair/Hair5_f_fill
+	bounds: 336, 2, 332, 341
+	offsets: 0, 0, 332, 342

@@ -1,0 +1,213 @@
+Authorized using stored user info.
+stderr: 'rm' is not recognized as an internal or external command,
+operable program or batch file.
+
+Exporting assets from Unity............
+
+[ Stage1 ] Assets exported from Unity and staged for further processing
+Using C:/Users/Gland.vn/Downloads/My project 2D - Copy/Assets/(Footage)/PoetsenOne-Regular.ttf file to generate an atlas for PoetsenOne-Regular[28022] font
+  Using alphabet  §1234567890-=qwertyuiop[]asdfghjkl;'\`zxcvbnm,./±!@#$%^&*()_+QWERTYUIOP{}ASDFGHJKL:"|~ZXCVBNM<>?
+Using C:/Users/Gland.vn/Downloads/My project 2D - Copy/Assets/TextMesh Pro/Fonts/LiberationSans.ttf file to generate an atlas for LiberationSans[25326] font
+  Using alphabet  §1234567890-=qwertyuiop[]asdfghjkl;'\`zxcvbnm,./±!@#$%^&*()_+QWERTYUIOP{}ASDFGHJKL:"|~ZXCVBNM<>?
+Using C:/Users/Gland.vn/Downloads/My project 2D - Copy/Assets/Prefab/UIPrefab/TemplateTimer/Nunito-Black.ttf file to generate an atlas for Nunito-Black[27530] font
+  Using alphabet  §1234567890-=qwertyuiop[]asdfghjkl;'\`zxcvbnm,./±!@#$%^&*()_+QWERTYUIOP{}ASDFGHJKL:"|~ZXCVBNM<>?
+Combined 97 glyphs into bitmap texture at C:/Users/Gland.vn/Downloads/My project 2D - Copy/LunaTemp/stage1/tmp/fonts/PoetsenOne-Regular-28022/output_0.png (69kb)
+Combined 97 glyphs into bitmap texture at C:/Users/Gland.vn/Downloads/My project 2D - Copy/LunaTemp/stage1/tmp/fonts/LiberationSans-25326/output_0.png (56kb)
+Combined 97 glyphs into bitmap texture at C:/Users/Gland.vn/Downloads/My project 2D - Copy/LunaTemp/stage1/tmp/fonts/Nunito-Black-27530/output_0.png (64kb)
+Found custom rules for texture Assets/Asset/SpineChar/Character_4.png
+  {"maxWidth":400,"maxHeight":400,"format":"png32","compression":"quantSize","quality":65,"script":"","ext":"","name":"Assets/Asset/SpineChar/Character_4.png","isOverride":true}
+Found custom rules for texture Assets/Asset/SpineChar/Character_2.png
+  {"maxWidth":400,"maxHeight":400,"format":"png32","compression":"quantSize","quality":65,"script":"","ext":"","name":"Assets/Asset/SpineChar/Character_2.png","isOverride":true}
+Found custom rules for texture Assets/Asset/SpineChar/Character.png
+  {"maxWidth":400,"maxHeight":400,"format":"png32","compression":"quantSize","quality":65,"script":"","ext":"","name":"Assets/Asset/SpineChar/Character.png","isOverride":true}
+Found custom rules for texture Assets/Asset/SpineChar/Character_5.png
+  {"maxWidth":400,"maxHeight":400,"format":"png32","compression":"quantSize","quality":65,"script":"","ext":"","name":"Assets/Asset/SpineChar/Character_5.png","isOverride":true}
+Found custom rules for texture Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  {"maxWidth":512,"maxHeight":512,"format":"png32","compression":"none","quality":65,"script":"","ext":"","name":"Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset","isOverride":true}
+Found custom rules for texture Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  {"maxWidth":512,"maxHeight":512,"format":"png32","compression":"none","quality":65,"script":"","ext":"","name":"Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset","isOverride":true}
+Found custom rules for texture Assets/Asset/SpineChar/Character_6.png
+  {"maxWidth":400,"maxHeight":400,"format":"png32","compression":"quantSize","quality":65,"script":"","ext":"","name":"Assets/Asset/SpineChar/Character_6.png","isOverride":true}
+Found custom rules for texture Assets/Asset/SpineChar/Character_3.png
+  {"maxWidth":400,"maxHeight":400,"format":"png32","compression":"quantSize","quality":65,"script":"","ext":"","name":"Assets/Asset/SpineChar/Character_3.png","isOverride":true}
+Found custom rules for texture Assets/Asset/SpineChar/Character_7.png
+  {"maxWidth":400,"maxHeight":400,"format":"png32","compression":"quantSize","quality":65,"script":"","ext":"","name":"Assets/Asset/SpineChar/Character_7.png","isOverride":true}
+Found custom rules for texture Assets/Asset/SpineChar/Character_9.png
+  {"maxWidth":400,"maxHeight":400,"format":"png32","compression":"quantSize","quality":65,"script":"","ext":"","name":"Assets/Asset/SpineChar/Character_9.png","isOverride":true}
+Found custom rules for texture Assets/Asset/SpineChar/Character_10.png
+  {"maxWidth":400,"maxHeight":400,"format":"png32","compression":"quantSize","quality":65,"script":"","ext":"","name":"Assets/Asset/SpineChar/Character_10.png","isOverride":true}
+Found custom rules for texture Assets/Asset/SpineChar/Character_8.png
+  {"maxWidth":400,"maxHeight":400,"format":"png32","compression":"quantSize","quality":65,"script":"","ext":"","name":"Assets/Asset/SpineChar/Character_8.png","isOverride":true}
+Found custom rules for texture Assets/Asset/SpineChar/Character_12.png
+  {"maxWidth":400,"maxHeight":400,"format":"png32","compression":"quantSize","quality":65,"script":"","ext":"","name":"Assets/Asset/SpineChar/Character_12.png","isOverride":true}
+Found custom rules for texture Assets/Asset/SpineChar/Character_13.png
+  {"maxWidth":400,"maxHeight":400,"format":"png32","compression":"quantSize","quality":65,"script":"","ext":"","name":"Assets/Asset/SpineChar/Character_13.png","isOverride":true}
+Found custom rules for texture Assets/Asset/SpineChar/Character_11.png
+  {"maxWidth":400,"maxHeight":400,"format":"png32","compression":"quantSize","quality":65,"script":"","ext":"","name":"Assets/Asset/SpineChar/Character_11.png","isOverride":true}
+Found custom rules for texture Assets/Asset/SpineChar/Character_14.png
+  {"maxWidth":400,"maxHeight":400,"format":"png32","compression":"quantSize","quality":65,"script":"","ext":"","name":"Assets/Asset/SpineChar/Character_14.png","isOverride":true}
+Found custom rules for texture Assets/Asset/SpineChar/Character_15.png
+  {"maxWidth":400,"maxHeight":400,"format":"png32","compression":"quantSize","quality":65,"script":"","ext":"","name":"Assets/Asset/SpineChar/Character_15.png","isOverride":true}
+Found custom rules for texture Assets/Asset/SpineChar/Character_16.png
+  {"maxWidth":400,"maxHeight":400,"format":"png32","compression":"quantSize","quality":65,"script":"","ext":"","name":"Assets/Asset/SpineChar/Character_16.png","isOverride":true}
+Resources:
+{}
+[ Stage2 ] Assets postprocessed and bundled successfully
+Authorized using stored user info.
+Microsoft (R) Build Engine version 16.11.6+a918ceb31 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+Build started 31/03/2026 18:26:25.
+
+Project "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj" on node 1 (Rebuild target(s)).
+
+CoreClean:
+  Deleting file "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll".
+
+  Deleting file "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.pdb".
+
+  Deleting file "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.dll".
+
+  Deleting file "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.dll".
+
+  Deleting file "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.dll".
+
+  Deleting file "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\DOTween.dll".
+
+  Deleting file "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.dll".
+
+  Deleting file "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.dll".
+
+  Deleting file "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.dll".
+
+  Deleting file "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.dll".
+
+  Deleting file "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.dll".
+
+  Deleting file "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\TextMeshPro.dll".
+
+  Deleting file "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.dll".
+
+  Deleting file "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UI.dll".
+
+  Deleting file "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UniversalRenderPipeline.dll".
+
+  Deleting file "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.xml".
+
+  Deleting file "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.xml".
+
+  Deleting file "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.xml".
+
+  Deleting file "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.xml".
+
+  Deleting file "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.xml".
+
+  Deleting file "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.xml".
+
+  Deleting file "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.xml".
+
+  Deleting file "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.xml".
+
+  Deleting file "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\spine-csharp.dll".
+
+  Deleting file "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\JetBrains.dll".
+
+  Deleting file "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.AssemblyReference.cache".
+
+  Deleting file "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.CoreCompileInputs.cache".
+
+  Deleting file "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.CopyComplete".
+
+  Deleting file "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.dll".
+
+  Deleting file "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.pdb".
+
+GenerateTargetFrameworkMonikerAttribute:
+Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+
+CoreCompile:
+
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Roslyn\csc.exe /noconfig /nowarn:CS0626,1701,1702 /fullpaths /nostdlib+ /errorreport:prompt /warn:4 /define:UNITY_LUNA;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_2021;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_2021_3;UNITY_2021_3_45 /highentropyva+ /reference:"C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\packages\Bridge.Core.17.9.42-luna\lib\net40\Bridge.dll" /reference:"C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\packages\Bridge.Html5.17.9.0\lib\net40\Bridge.Html5.dll" /reference:"C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\packages\Bridge.WebGL.1.22.0\lib\net40\Bridge.WebGL.dll" /reference:"C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\packages\DOTween.1.2.705\lib\net40\DOTween.dll" /reference:"C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\packages\com.unity.ide.rider\3.0.0\JetBrains.dll" /reference:"C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\packages\Bridge.Newtonsoft.Json.1.16.0\lib\net40\Newtonsoft.Json.dll" /reference:"C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\packages\Retyped.Core.1.6.6733\lib\net40\Retyped.Core.dll" /reference:"C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\packages\Retyped.dom.2.8.6733\lib\net40\Retyped.dom.dll" /reference:"C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\packages\Retyped.es5.2.8.6733\lib\net40\Retyped.es5.dll" /reference:"C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\packages\Retyped.scripthost.2.8.6733\lib\net40\Retyped.scripthost.dll" /reference:"C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\packages\com.esotericsoftware.spine.spine-csharp\4.1\spine-csharp.dll" /reference:"C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\packages\com.unity.textmeshpro\3.0.6\TextMeshPro.dll" /reference:"C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\Vendor\UnityEngine.dll" /reference:"C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\packages\com.unity.ui\1.2.1\UnityEngine.UI.dll" /reference:"C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\packages\com.unity.urp\7.6\UnityEngine.UniversalRenderPipeline.dll" /debug+ /debug:full /optimize- /out:obj\Debug\UnityScriptsCompiler.dll /subsystemversion:6.00 /target:library /warnaserror- /utf8output /langversion:8 "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Prefab\ScrollBar\InfiniteScroller.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Scripts\Gameplay\CustomizationFlowManager.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Scripts\Gameplay\SkinItemController.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Scripts\Gameplay\SkinScrollerManager.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Scripts\SkeletonMix\CharacterSkinMixer.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Scripts\SkinUI\SkinOptionData.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Asset Types\AnimationReferenceAsset.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Asset Types\AtlasAssetBase.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Asset Types\BlendModeMaterials.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Asset Types\EventDataReferenceAsset.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Asset Types\OnDemandTextureLoader.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Asset Types\RegionlessAttachmentLoader.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Asset Types\SkeletonDataAsset.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Asset Types\SkeletonDataCompatibility.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Asset Types\SkeletonDataModifierAsset.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Asset Types\SpineAtlasAsset.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Asset Types\SpineSpriteAtlasAsset.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Components\EditorSkeletonPlayer.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Components\Following\BoneFollower.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Components\Following\BoneFollowerGraphic.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Components\Following\BoundingBoxFollower.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Components\Following\BoundingBoxFollowerGraphic.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Components\Following\PointFollower.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Components\Internal\SkeletonSubmeshGraphic.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Components\RootMotion\SkeletonMecanimRootMotion.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Components\RootMotion\SkeletonRootMotion.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Components\RootMotion\SkeletonRootMotionBase.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Components\SkeletonAnimation.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Components\SkeletonGraphic.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Components\SkeletonMecanim.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Components\SkeletonRenderer.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Components\SkeletonRendererCustomMaterials\SkeletonGraphicCustomMaterials.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Components\SkeletonRendererCustomMaterials\SkeletonRendererCustomMaterials.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Components\SkeletonRenderSeparator\SkeletonPartsRenderer.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Components\SkeletonRenderSeparator\SkeletonRenderSeparator.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Components\SkeletonUtility\ActivateBasedOnFlipDirection.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Components\SkeletonUtility\FollowLocationRigidbody.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Components\SkeletonUtility\FollowLocationRigidbody2D.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Components\SkeletonUtility\FollowSkeletonUtilityRootRotation.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Components\SkeletonUtility\SkeletonUtility.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Components\SkeletonUtility\SkeletonUtilityBone.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Components\SkeletonUtility\SkeletonUtilityConstraint.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\ISkeletonAnimation.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Mesh Generation\DoubleBuffered.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Mesh Generation\MeshGenerator.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Mesh Generation\MeshRendererBuffers.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Mesh Generation\SkeletonRendererInstruction.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Mesh Generation\SpineMesh.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Modules\TK2D\SpriteCollectionAttachmentLoader.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\SkeletonDataModifierAssets\BlendModeMaterials\BlendModeMaterialsAsset.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\SpineAttributes.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Utility\AtlasUtilities.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Utility\AttachmentCloneExtensions.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Utility\AttachmentRegionExtensions.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Utility\BuildUtilities.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Utility\MaterialChecks.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Utility\MathUtilities.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Utility\SettingsTriState.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Utility\SkeletonExtensions.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Utility\TimelineExtensions.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Utility\YieldInstructions\WaitForSpineAnimation.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Utility\YieldInstructions\WaitForSpineAnimationComplete.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Utility\YieldInstructions\WaitForSpineAnimationEnd.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Utility\YieldInstructions\WaitForSpineEvent.cs" "C:\Users\Gland.vn\Downloads\My project 2D - Copy\LunaTemp\stage3\processed-scripts\Assets\Spine\Runtime\spine-unity\Utility\YieldInstructions\WaitForSpineTrackEntryEnd.cs" Properties/AssemblyInfo.cs Sources/OtherDummyScript.cs "obj\Debug\.NETFramework,Version=v4.7.AssemblyAttributes.cs"
+
+  CompilerServer: server - server processed compilation - 51c2adf6-543e-4479-ba67-a66629e1118e
+
+_CopyFilesMarkedCopyLocal:
+  Copying file from "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\packages\Bridge.Core.17.9.42-luna\lib\net40\Bridge.dll" to "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.dll".
+
+  Copying file from "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\packages\Bridge.WebGL.1.22.0\lib\net40\Bridge.WebGL.dll" to "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.dll".
+  Copying file from "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\packages\Bridge.Html5.17.9.0\lib\net40\Bridge.Html5.dll" to "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.dll".
+  Copying file from "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\packages\Bridge.Newtonsoft.Json.1.16.0\lib\net40\Newtonsoft.Json.dll" to "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.dll".
+
+  Copying file from "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\packages\DOTween.1.2.705\lib\net40\DOTween.dll" to "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\DOTween.dll".
+
+  Copying file from "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\packages\Retyped.Core.1.6.6733\lib\net40\Retyped.Core.dll" to "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.dll".
+  Copying file from "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\packages\Retyped.es5.2.8.6733\lib\net40\Retyped.es5.dll" to "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es
+5.dll".
+  Copying file from "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\packages\Retyped.dom.2.8.6733\lib\net40\Retyped.dom.dll" to "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.dll".
+  Copying file from "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\packages\com.unity.ide.rider\3.0.0\JetBrains.dll" to "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\JetBrains.dll".
+
+  Copying file from "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\packages\Retyped.scripthost.2.8.6733\lib\net40\Retyped.scripthost.dll" to "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.dll".
+
+  Copying file from "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\packages\com.esotericsoftware.spine.spine-csharp\4.1\spine-csharp.dll" to "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\spine-csharp.dll".
+
+  Copying file from "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\packages\com.unity.textmeshpro\3.0.6\TextMeshPro.dll" to "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\TextMeshPro.dll".
+  Copying file from "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\Vendor\UnityEngine.dll" to "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.dll".
+
+  Copying file from "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\packages\com.unity.ui\1.2.1\UnityEngine.UI.dll" to "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UI.dll".
+
+  Copying file from "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\packages\com.unity.urp\7.6\UnityEngine.UniversalRenderPipeline.dll" to "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UniversalRenderPipeline.dll".
+
+  Copying file from "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\packages\Bridge.Core.17.9.42-luna\lib\net40\Bridge.xml" to "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.xml".
+
+  Copying file from "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\packages\Bridge.Html5.17.9.0\lib\net40\Bridge.Html5.xml" to "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.xml".
+
+  Copying file from "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\packages\Bridge.WebGL.1.22.0\lib\net40\Bridge.WebGL.xml" to "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.xml".
+
+  Copying file from "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\packages\Retyped.Core.1.6.6733\lib\net40\Retyped.Core.xml" to "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.xml".
+
+  Copying file from "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\packages\Bridge.Newtonsoft.Json.1.16.0\lib\net40\Newtonsoft.Json.xml" to "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.xml".
+
+  Copying file from "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\packages\Retyped.dom.2.8.6733\lib\net40\Retyped.dom.xml" to "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.xml".
+
+  Copying file from "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\packages\Retyped.es5.2.8.6733\lib\net40\Retyped.es5.xml" to "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.xml".
+
+  Copying file from "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\packages\Retyped.scripthost.2.8.6733\lib\net40\Retyped.scripthost.xml" to "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.xml".
+
+  Creating "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.CopyComplete" because "AlwaysCreate" was specified.
+
+CopyFilesToOutputDirectory:
+  Copying file from "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.dll" to "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll".
+
+  Scripts -> C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll
+
+  Copying file from "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.pdb" to "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.pdb".
+
+BridgeNetCompilerTask:
+  Bridge started
+
+      To enable detailed logging, configure "logging" in bridge.json.
+      https://github.com/bridgedotnet/Bridge/wiki/global-configuration#logging
+
+  Bridge done
+
+Done Building Project "C:\Users\Gland.vn\Downloads\7.1.0 - Copy\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj" (Rebuild target(s)).
+
+
+Build succeeded.
+
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:15.24
+
+Source code compiled successfully!
+﻿
+[ error ] $﻿
+PHC: LP error code not found in JSON: 3015, JSON file might be outdated. Error message: Sequence contains no matching element
+
+Diagnostics gathered successfully
+[ Stage3 ] Code compiled and bundled successfully.
+[ Stage4 ] Target platform: playground
+[ Stage4 ] Package bundled successfully
+[ Stage4 ] Package uploaded successfully
