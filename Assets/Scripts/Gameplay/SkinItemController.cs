@@ -1,5 +1,6 @@
-﻿using UnityEngine;
+using UnityEngine;
 using UnityEngine.UI;
+using Spine.Unity;
 
 public class SkinItemController : MonoBehaviour
 {
@@ -16,9 +17,19 @@ public class SkinItemController : MonoBehaviour
     public Image thumbnailImage;
     public GameObject selectionBorder;
     public CharacterSkinMixer skinMixer;
+    public SkeletonGraphic skeletonGraphic;
 
     void Start()
     {
+        if (skeletonGraphic == null)
+            skeletonGraphic = GetComponentInChildren<SkeletonGraphic>();
+
+        if (skeletonGraphic != null && skinData != null)
+        {
+            skeletonGraphic.initialSkinName = skinData.primarySkinName;
+            skeletonGraphic.Initialize(true);
+        }
+
         if (skinData != null && thumbnailImage != null)
         {
             Sprite autoSprite = null;
